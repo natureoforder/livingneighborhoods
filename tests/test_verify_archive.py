@@ -6,7 +6,8 @@ import sys
 from tempfile import TemporaryDirectory
 import unittest
 
-from scripts.verify_archive import verify_manifest
+from scripts.build_archive_index import render_page_index
+from scripts.verify_archive import verify_manifest, verify_page_index
 
 
 class ArchiveManifestVerificationTests(unittest.TestCase):
@@ -99,6 +100,24 @@ class ArchiveManifestVerificationTests(unittest.TestCase):
             )
 
             self.assertEqual(result.returncode, 0, result.stderr)
+
+    def test_page_index_must_match_the_manifest(self):
+        with TemporaryDirectory() as directory:
+            root = Path(directory)
+            page = root / "index.html"
+            page.write_text("hello", encoding="utf-8")
+            manifest = self.write_manifest(
+                root,
+                [self.success_record("https://www.livingneighborhoods.org/", page)],
+            )
+            index = root / "PAGE-INDEX.csv"
+            manifest_data = json.loads(manifest.read_text(encoding="utf-8"))
+            index.write_text(render_page_index(manifest_data), encoding="utf-8")
+
+            self.assertEqual(verify_page_index(manifest, index), [])
+
+            index.write_text("outdated\n", encoding="utf-8")
+            self.assertTrue(any("out of date" in error for error in verify_page_index(manifest, index)))
 
 
 if __name__ == "__main__":

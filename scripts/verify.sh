@@ -11,6 +11,7 @@ test -f site/theory.md
 test -f site/archive.md
 test -f archive/www.livingneighborhoods.org/ARCHIVE-METADATA.txt
 test -f archive/www.livingneighborhoods.org/manifest.json
+test -f archive/PAGE-INDEX.csv
 
 python3 -m unittest discover -s tests -v
 python3 scripts/verify_archive.py

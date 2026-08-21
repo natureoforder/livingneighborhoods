@@ -6,6 +6,7 @@
 - `site/` is the editable Markdown publication and Flowershow content root.
 - `scripts/archive_site.py` refreshes the archive from the source site.
 - `archive/www.livingneighborhoods.org/manifest.json` is the URL, status, checksum, and provenance ledger for the live snapshot.
+- `archive/PAGE-INDEX.csv` is the human-readable inventory of archived and failed page requests; regenerate it with `scripts/build_archive_index.py` after any manifest change.
 - `scripts/verify_archive.py` checks archived-file integrity and link-graph closure.
 - `scripts/convert_site.py` converts archived HTML to Markdown and copies non-HTML assets into `site/`.
 - `scripts/verify.sh` is the machine-checkable done condition.

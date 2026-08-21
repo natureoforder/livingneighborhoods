@@ -15,10 +15,16 @@ from urllib.error import HTTPError
 from urllib.parse import quote, unquote, urldefrag, urljoin, urlparse, urlunparse
 from urllib.request import Request, urlopen
 
+try:
+    from scripts.build_archive_index import write_page_index
+except ModuleNotFoundError:  # direct execution adds scripts/, not the repo root
+    from build_archive_index import write_page_index
+
 
 ROOT = "https://www.livingneighborhoods.org/"
 OUTPUT = Path("archive/www.livingneighborhoods.org")
 MANIFEST = OUTPUT / "manifest.json"
+PAGE_INDEX = Path("archive/PAGE-INDEX.csv")
 ALLOWED_HOSTS = {"www.livingneighborhoods.org", "livingneighborhoods.org"}
 START_URLS = (
     ROOT,
@@ -238,6 +244,7 @@ def write_reports(records):
         "records": records,
     }
     MANIFEST.write_text(json.dumps(manifest, indent=2) + "\n", encoding="utf-8")
+    write_page_index(MANIFEST, PAGE_INDEX)
 
     lines = [
         f"Source: {ROOT}",

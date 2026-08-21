@@ -8,8 +8,10 @@ import sys
 
 try:
     from scripts.archive_site import links_from
+    from scripts.build_archive_index import render_page_index
 except ModuleNotFoundError:  # direct execution adds scripts/, not the repo root
     from archive_site import links_from
+    from build_archive_index import render_page_index
 
 
 def verify_manifest(manifest_path):
@@ -51,11 +53,28 @@ def verify_manifest(manifest_path):
     return sorted(set(errors))
 
 
+def verify_page_index(manifest_path, index_path):
+    manifest = json.loads(Path(manifest_path).read_text(encoding="utf-8"))
+    index_path = Path(index_path)
+    if not index_path.is_file():
+        return [f"missing page index: {index_path}"]
+    expected = render_page_index(manifest)
+    actual = index_path.read_text(encoding="utf-8")
+    if actual != expected:
+        return [f"page index is out of date: {index_path}"]
+    return []
+
+
 def main():
     manifest_path = Path(sys.argv[1]) if len(sys.argv) > 1 else Path(
         "archive/www.livingneighborhoods.org/manifest.json"
     )
     errors = verify_manifest(manifest_path)
+    index_path = Path(sys.argv[2]) if len(sys.argv) > 2 else (
+        Path("archive/PAGE-INDEX.csv") if len(sys.argv) == 1 else None
+    )
+    if index_path:
+        errors.extend(verify_page_index(manifest_path, index_path))
     if errors:
         print("Archive verification failed:", file=sys.stderr)
         for error in errors:

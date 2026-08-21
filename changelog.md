@@ -1,3 +1,7 @@
+## 2026-08-21 — Searchable archive page inventory
+
+Added a spreadsheet-friendly index of every archived or missing page, including source and local locations, HTTP results, sizes, checksums, discovery provenance, and failure notes.
+
 ## 2026-08-21 — Full preservation crawl
 
 Expanded the Living Neighbourhoods snapshot from 44 to 209 HTML pages and preserved 797 reachable resources in a checksummed archive. Every recursively discovered source reference is now represented as either a downloaded file or an explicit source-site failure.
