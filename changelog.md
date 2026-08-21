@@ -1,3 +1,3 @@
 ## 2026-08-21 — First accessible edition
 
-The Living Neighbourhoods material now has a preserved HTML-and-assets archive and an initial searchable Markdown edition with the original site's main navigation represented in a cleaner Flowershow-ready structure.
+The Living Neighbourhoods material now has a preserved HTML-and-assets archive and a searchable Markdown edition. Its new homepage restores the original site's welcome, audience, purpose, images, and principal navigation in a cleaner Flowershow presentation.
