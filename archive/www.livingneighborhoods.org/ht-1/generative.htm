@@ -1,0 +1,401 @@
+<!-- PatternL: Free -->
+<HTML><HEAD><TITLE>Environmental Structure -- Neighborhood-Making -- Generative Codes</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=windows-1252">
+
+<SCRIPT language="JavaScript"> 
+<!-- 
+if (document.images) 
+{ 
+pic1on= new Image(62,28); 
+pic1on.src="../images/uphome.jpg"; 
+pic1off= new Image(62,28); 
+pic1off.src="../images/offhome.jpg"; 
+pic1down=new Image(62,28); 
+pic1down.src="../images/downhome.jpg"; 
+} 
+
+{ 
+pic2on= new Image(62,28); 
+pic2on.src="../images/upintro.jpg"; 
+pic2off= new Image(62,28); 
+pic2off.src="../images/offintro.jpg"; 
+pic2down=new Image(62,28); 
+pic2down.src="../images/downintro.jpg"; 
+} 
+
+{ 
+pic3on= new Image(62,28); 
+pic3on.src="../images/upgen.jpg"; 
+pic3off= new Image(62,28); 
+pic3off.src="../images/offgen.jpg"; 
+pic3down=new Image(62,28); 
+pic3down.src="../images/downgen.jpg"; 
+}
+
+{ 
+pic4on= new Image(62,28); 
+pic4on.src="../images/upimplem.jpg"; 
+pic4off= new Image(62,28); 
+pic4off.src="../images/offimplem.jpg"; 
+pic4down=new Image(62,28); 
+pic4down.src="../images/downimplem.jpg"; 
+}
+
+{ 
+pic5on= new Image(62,28); 
+pic5on.src="../images/upphotos.jpg"; 
+pic5off= new Image(62,28); 
+pic5off.src="../images/offphotos.jpg"; 
+pic5down=new Image(62,28); 
+pic5down.src="../images/downphotos.jpg"; 
+}
+
+{ 
+pic6on= new Image(62,28); 
+pic6on.src="../images/upnbds.jpg"; 
+pic6off= new Image(62,28); 
+pic6off.src="../images/offnbds.jpg"; 
+pic6down=new Image(62,28); 
+pic6down.src="../images/downnbds.jpg"; 
+}
+
+{ 
+pic7on= new Image(62,28); 
+pic7on.src="../images/uptheory.jpg"; 
+pic7off= new Image(62,28); 
+pic7off.src="../images/offtheory.jpg"; 
+pic7down=new Image(62,28); 
+pic7down.src="../images/downtheory.jpg"; 
+}
+
+{ 
+pic8on= new Image(62,28); 
+pic8on.src="../images/upcontact.jpg"; 
+pic8off= new Image(62,28); 
+pic8off.src="../images/offcontact.jpg"; 
+pic8down=new Image(62,28); 
+pic8down.src="../images/downcontact.jpg"; 
+}
+
+{ 
+pic9on= new Image(62,28); 
+pic9on.src="../images/upservices.jpg"; 
+pic9off= new Image(62,28); 
+pic9off.src="../images/offservices.jpg"; 
+pic9down=new Image(62,28); 
+pic9down.src="../images/downservices.jpg"; 
+} 
+
+{ 
+pic11on= new Image(62,28); 
+pic11on.src="../images/upcom.jpg"; 
+pic11off= new Image(62,28); 
+pic11off.src="../images/offcom.jpg"; 
+pic11down=new Image(62,28); 
+pic11down.src="../images/downcom.jpg"; 
+} 
+
+function lightup(imgName) 
+{ 
+if (document.images) 
+{ 
+imgOn=eval(imgName + "on.src"); 
+document[imgName].src= imgOn; 
+} 
+} 
+
+function turnoff(imgName) 
+{ 
+if (document.images) 
+{ 
+imgOff=eval(imgName + "off.src"); 
+document[imgName].src= imgOff; 
+} 
+} 
+
+function clickdown(imgName) 
+{ 
+if (document.images) 
+{ 
+imgDown=eval(imgName + "down.src"); 
+document[imgName].src=imgDown; 
+} 
+} 
+//--> 
+</SCRIPT> 
+<STYLE>
+
+  .base {color:blue; font-weight:normal; font-size:100%; background-color:eeeeee}
+.bigChange {color:blue; font-weight:normal; font-size:100%; background-color:yellow}
+  .blackChange {color:black; font-weight:BOLD; font-size:100%; background-color:ffFFFF}
+ .smallChange {color:white; font-size:100%; background-color:66ddaa}
+ .start {color:ffffdd;background-color:6699cc; text-decoration:none}
+ .blustart {color:ffffdd;background-color:6699ff; text-decoration:none}
+H1 {
+	FONT-WEIGHT: normal; FONT-SIZE: 30px; FONT-FAMILY: "Times Roman"
+}
+H2 {
+	FONT-WEIGHT: normal; FONT-SIZE: 20px; FONT-FAMILY: "Times Roman"
+}
+H3 {
+	FONT-WEIGHT: normal; FONT-SIZE: 17px; FONT-FAMILY: "Times Roman"; line-space:20px;
+}
+.h3class {
+	FONT-WEIGHT: normal; FONT-SIZE: 20px; FONT-FAMILY: "Times Roman"; COLOR: FFFFFF;
+}
+.h32class {
+	FONT-WEIGHT: normal; FONT-SIZE: 23px; FONT-FAMILY: "Times Roman"; COLOR: 000000;
+}
+.h33class {
+	FONT-WEIGHT: normal; FONT-SIZE: 21px; FONT-FAMILY: "Times Roman"; COLOR: 000000;
+}
+.h35class {
+	FONT-WEIGHT: normal; FONT-SIZE: 16px; FONT-FAMILY: "Times Roman"; COLOR: 000000;
+}
+.h36class {
+	FONT-WEIGHT: normal; FONT-SIZE: 13px; FONT-FAMILY: "Times Roman"; COLOR: 000000;
+}
+.h4class {
+	FONT-WEIGHT: normal; FONT-SIZE: 13px; FONT-FAMILY: "Arial"
+}
+.h404class {
+	FONT-WEIGHT: BOLD; FONT-SIZE: 13px; FONT-FAMILY: "Arial"
+}
+.h405class {
+	FONT-WEIGHT: BOLD; FONT-SIZE: 13px; FONT-FAMILY: "Arial"; color:0000ff; background-color:eeeeee; text-decoration:none
+}
+.h406class {
+	FONT-WEIGHT: BOLD; FONT-SIZE: 13px; FONT-FAMILY: "Arial"; color:ffffdd; background-color:6699cc; text-decoration:none
+}
+.h6class {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; FONT-FAMILY: "Arial";
+}
+.h66class {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; FONT-FAMILY: "Arial"; COLOR: 000000;
+}
+.h5class {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; FONT-FAMILY: "Arial";
+}
+
+.h8class {
+	FONT-WEIGHT: normal; FONT-SIZE: 9px; FONT-FAMILY: "Arial"; LINE-HEIGHT: 9px; COLOR: 000000;
+}
+
+H6 {
+	FONT-WEIGHT: normal; FONT-SIZE: 15px; FONT-FAMILY: "Times Roman"
+}
+.link {
+	FONT-WEIGHT: normal; FONT-SIZE: 18px; FONT-FAMILY: "Times Roman"; text-decoration: none;  }
+.caption {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; FONT-FAMILY: "Arial"; text-decoration: italic;  }
+
+
+</STYLE>
+
+
+<script language="JavaScript" src="universal/universal.js"> </script>
+
+
+<SCRIPT LANGUAGE="JavaScript"><!--
+
+
+function commentWindow(file,window) {
+	var url = makeAbsolute(file).replace(/\/cgi-bin\/.*\.py/,'');
+	
+
+
+
+       msgWindow=open(url,window,'resizable=yes,scrollbars=1,width=500,height=300,left=155,top=300,border=2');
+
+
+
+              if (msgWindow.opener == null) msgWindow.opener = self;
+
+              msgWindow.focus();
+//clearID=msgWindow.setTimeout("self.close()",16000)//
+                     }
+
+                     //-->
+</SCRIPT>
+
+<SCRIPT LANGUAGE="JavaScript">
+<!-- This script generated free online at -->
+<!-- Free Gifs & Animations http://www.fg-a.com -->
+
+<!-- Begin
+function popUp(URL) {
+day = new Date();
+id = day.getTime();
+eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=1,scrollbars=1,location=0,statusbar=1,menubar=1,resizable=1,width=750,height=450,left = 10,top = 10');");
+}
+// End -->
+</script>
+
+
+
+
+</head>
+
+<!-- <META content="MSHTML 5.50.4134.600" name=GENERATOR></HEAD> -->
+
+<BODY text=000000  vLink=0000ff link=0000ff bgColor=eeeeee > 
+<table width=100% align=center>
+<tr><td align=center>
+<IMG SRC="../images/livingneighborhoods-red.jpg" width="160" height="29" border="0"><br><A HREF="home.htm" onMouseover="lightup('pic1')" onMouseout="turnoff('pic1')" onMouseDown="clickdown('pic1')" onMouseUp="lightup('pic1')">
+<IMG SRC="../images/offhome.jpg" name="pic1"  width="62" height="28" border="0"></A>
+<A HREF="introduction.htm" onMouseover="lightup('pic2')" onMouseout="turnoff('pic2')" onMouseDown="clickdown('pic2')" onMouseUp="lightup('pic2')">
+<IMG SRC="../images/offintro.jpg" name="pic2" width="62" height="28" border="0"></A> 
+<A HREF="generative.htm"> <!-- onMouseover="lightup('pic3')" onMouseout="turnoff('pic3')" onMouseDown="clickdown('pic3')" onMouseUp="lightup('pic3')"> -->
+<IMG SRC="../images/thisisgen.jpg"  width="62" height="28" border="0"></A> 
+<A HREF="neighborhoods.htm" onMouseover="lightup('pic6')" onMouseout="turnoff('pic6')" onMouseDown="clickdown('pic6')" onMouseUp="lightup('pic6')">
+<IMG SRC="../images/offnbds.jpg" name="pic6" width="62" height="28" border="0"></A>
+<A HREF="community.htm" onMouseover="lightup('pic11')" onMouseout="turnoff('pic11')" onMouseDown="clickdown('pic11')" onMouseUp="lightup('pic11')">
+<IMG SRC="../images/offcom.jpg" name="pic11" width="62" height="28" border="0"></A><A HREF="implementation.htm" onMouseover="lightup('pic4')" onMouseout="turnoff('pic4')" onMouseDown="clickdown('pic4')" onMouseUp="lightup('pic4')">
+<IMG SRC="../images/offimplem.jpg" name="pic4" width="62" height="28" border="0"></A> 
+<!-- <A HREF="photos.htm"  onMouseover="lightup('pic5')" onMouseout="turnoff('pic5')" onMouseDown="clickdown('pic5')" onMouseUp="lightup('pic5')"> 
+<IMG SRC="images/offphotos.jpg" name="pic5" width="70" height="37" border="0"></A> -->  
+<A HREF="archive.htm" onMouseover="lightup('pic7')" onMouseout="turnoff('pic7')" onMouseDown="clickdown('pic7')" onMouseUp="lightup('pic7')">
+<IMG SRC="../images/offtheory.jpg" name="pic7" width="62" height="28" border="0"></A> 
+<A HREF="services.htm" 
+onMouseover="lightup('pic9')" onMouseout="turnoff('pic9')" onMouseDown="clickdown('pic9')" onMouseUp="lightup('pic9')"> 
+<IMG SRC="../images/offservices.jpg" name="pic9" width="62" height="28" border="0"></A><A HREF="contact.htm" onMouseover="lightup('pic8')" onMouseout="turnoff('pic8')" onMouseDown="clickdown('pic8')" onMouseUp="lightup('pic8')">
+<IMG SRC="../images/offcontact.jpg" name="pic8" width="62" height="28" border="0"></A>
+</td></tr></table>
+
+<table width=100% align=center>
+<tr><td align=center>
+<tr><td align=center>
+<P><!-- <span class=h33class style='font-weight:normal'></span> -->
+<span class=h5class><a href=#anchor>jump</a></span>  
+<span style=color:red><h1>GENERATIVE CODES</h1>
+</span><img src=../images/noo.gif height=50>
+</td>
+</tr>
+<tr><td align=center><P>
+<span class=h32class><SPAN STYLE=FONT-SIZE:140%></SPAN><SPAN STYLE=FONT-SIZE:140%>G</SPAN>ENERATIVE <SPAN STYLE=FONT-SIZE:140%>C</SPAN>ODES HAVE EVOLVED FROM <!--  ARE <SPAN STYLE=FONT-SIZE:140%>N</SPAN>EW AND <SPAN STYLE=FONT-SIZE:140%>M</SPAN>ORE <SPAN STYLE=FONT-SIZE:140%>S</SPAN>OPHISTICATED <SPAN STYLE=FONT-SIZE:140%>K</SPAN>IND OF  --><SPAN STYLE=FONT-SIZE:140%>P</SPAN>ATTERN <SPAN STYLE=FONT-SIZE:140%>L</SPAN>ANGUAGES, BUT ARE MUCH MORE <SPAN STYLE=FONT-SIZE:140%>S</SPAN>OPHISTICATED <!-- KINDS OF --> <SPAN STYLE=FONT-SIZE:140%>G</SPAN>ENERATING <SPAN STYLE=FONT-SIZE:140%>S</SPAN>YSTEMS.<br> <!-- <SPAN STYLE=FONT-SIZE:140%>B</SPAN>ASED ON <SPAN STYLE=FONT-SIZE:140%>R</SPAN>ULES OF <SPAN STYLE=FONT-SIZE:140%>U</SPAN>NFOLDING, --><!--  Based on Rules of Unfolding, a Generative Code creates a comprehensive and holistic way of helping a Community shape itself. --><br></td></tr></table>
+
+ <!-- which is more useful, more powerful, and more capable of helping a community to shape itself. --></SPAN>
+
+<!-- <SPAN STYLE=FONT-SIZE:140%>E</SPAN>NVIRONMENTAL <SPAN STYLE=FONT-SIZE:140%>S</SPAN>TRUCTURE established 1967<BR> and<br><span class=h36class><SPAN STYLE=FONT-SIZE:140%>C</SPAN>ENTRE FOR <SPAN STYLE=FONT-SIZE:140%>E</SPAN>NVIRONMENTAL <SPAN STYLE=FONT-SIZE:140%>S</SPAN>TRUCTURE,  EUROPE established 2005 -->
+<table width=100% align=center>
+
+<tr><td align=left><blockquote><a name=#anchor></a><span class=h32class><span style=font-size:80%;>A generative code is a system of steps that <!-- govern and --> enable people in a community to create a wholesome and healthy neighborhood. The steps are governed by rules that are not rigid, but depend on context, and on what came before. The rules work in a way that is similar to the rules that nature follows to unfold an organism or a natural landscape, but these particular rules unfold a neighborhood and its buildings.<UL><li>The rules tell you how to take specific steps, in a certain way that allows unfolding to proceed.<li>
+Like patterns, the rules cover a great range of scales -- all of the major features of the neighborhood, down to the finer details, including open spaces, buildings, connecting paths, rooms, window sills, etc.
+<li>The rules are ordered – sequenced – to unfold each part of the environment being created, smoothly and coherently.<li>
+In the generative code, each rule is specifically tied to a certain group of individuals, whose job it is to undertake that part of the unfolding together; the roles needed for each one are specified.<li>
+Finally, in order to make the process succeed, the overall operation of the unfolding, which goes forward step by step, is accompanied by a general set of specifications for the conditions governing land tenure, cash flow, and human organization, and the community in which the process is being carried out.</ul>
+</span></span></blockquote>
+
+
+
+<tr><td align=center colspan=3><hr height=10 color=ff0000></td></tr>
+
+</table>
+
+
+
+
+
+
+<table align=center width=100% border=0>
+<tr>
+<td width=25% align=left><span class=h5class><b>TOPIC</b></span></TD>
+<TD width=50% align=center><span class=h5class><b>Details of Document</b></span></td>
+<!-- <td width=18% align=center><span class=h5class><b>READ ON SCREEN<hr></b></span></TD>
+<TD align=center><span class=h5class><b>DOWNLOAD AND PRINT<hr></b></span></TD> -->
+</TR>
+<tr><td align=center colspan=3><hr height=10 color=ff0000></td></tr >
+
+<tr><TD WIDTH=25% VALIGN=TOP>
+<span class=h404class>THE BIRTH OF FORM<BR> (morpho=form genesis=birth)<br>MORPHOGENESIS</SPAN>
+<td align=left WIDTH=50%><span class=blackChange><SPAN class=h4class>The essence of a harmonious neighborhood is that it flows from the land, is harmonious with the land, and enhances the global structure of the land. This is true in rural areas, and it is true in urban areas. To understand how this process works, we ask you to study <!-- Explains the relation of the sequences presented in <i>The Nature of Order</i>, to the new Generative Codes. --> <!-- A sequentially arranged system of patterns has the power to allow morphogenesis -- that means, the natural and <b>smooth</b> unfolding of a good design, which embodies the patterns.<p>Please read the --> a short memo called <A HREF=morphogenesis-two.htm>The Birth of Form</A>. It explains <!-- why and  -->how a very simple process can generate large scale patterns in such a way as to be harmonious with a piece of land. <!-- explains the power of sequences and generative codes in helping people make coherent plans and designs from them. --><br><a href=../noorefs/sequences.htm><span class=h8class><P>Nature of Order references </span></a><P></span></SPAN></td></tr>
+
+<tr><TD WIDTH=25% VALIGN=TOP>
+<span class=h404class>RULES THAT MAKE MORPHOGENESIS WORK</SPAN>
+<td align=left WIDTH=50%><span class=blackChange><SPAN class=h4class>Please look back at the <A HREF=morphogenesis-two.htm#rules>five rules for terraces</a> in the Birth of Form memo. They allow people to generate agricultural terraces for hundreds of square miles, Each of these rules makes you DO something, it is extremely simple, and it is expressed in a way that makes what you do depend on the configuration of the land and place, so that you are -- almost without effort -- in harmony with it.<P>This system of rules is a <b>generative system</b>.
+
+<br><a href=../noorefs/sequences.htm><span class=h8class><P>Nature of Order references </span></a><P></span></SPAN></td></tr>
+
+
+<tr><TD WIDTH=25% VALIGN=TOP>
+<span class=h404class>NOW APPLY GENERATIVE THINKING TO A NEIGHBORHOOD</SPAN>
+<td align=left WIDTH=50%><span class=blackChange><SPAN class=h4class>Now start thinking about a neighborhood. Please look at the <A HREF=from-key-features-to-generative-code.htm>three rules for starting a neighborhood center</a> by clicking this link.<P>Again, these simple rules are <b>generative</b> rules. You will find they generate something that is more in keeping with the land, or with existing buildings around the area: and you will find, too, that it is more in keeping with the feeling in your heart.<P>If you continue the generative way of thinking when you go through detailed design, procurement, and construction, it will still have that quality years later, when it is built and used!
+
+<br><a href=../noorefs/nbdcenter.htm><span class=h8class><P>Nature of Order references </span></a><P></span></SPAN></td></tr>
+
+
+
+
+
+
+
+
+<tr><TD WIDTH=25% VALIGN=TOP>
+<span class=h404class>WRITING GENERATIVE CODE</SPAN>
+<td align=left WIDTH=50%><span class=blackChange><span class=h4class>A paper describing the first steps of a typical generative code, which shows you how to get started, and also gives you a feel, immediately, for the huge difference between this generative kind of code, and the urban codes being used today, which are little more than rigid rule-books.<A HREF=../library/writing-generative-code.htm>Writing Generative Codes </A>&nbsp; &nbsp; <span class=h5class>5 pages <p></SPAN></span></td>
+<!-- <td align=center VALIGN=TOP WIDTH=18%><A HREF=library/writing-generative-code.pdf> <span class=h5class>View freely on screen </span></a> </td>
+<td align=center WIDTH=22% VALIGN=TOP><A HREF=library/writing-generative-code.pdf><img src=images/nocharge.jpg height=17px border=0></a><br><span class=h5class>Download and print freely</span></td> -->
+</tr>
+
+
+
+<tr><TD WIDTH=25% VALIGN=TOP>
+<span class=h404class>A FLEDGLING GENERATIVE CODE</SPAN>
+<td align=left WIDTH=50%><span class=blackChange><span class=h4class>An example of an early cycle in the process of writing generative codes. It is a complete code for a new neighborhood, very rough, which was written in two or three days. It contains many errors and omissions but is typical of the kind of work which can get you started, and which begins to give a feel for the whole neighborhood, that will be generated by this code. <A HREF=../library/stroodcode-v13np.pdf>Workbook: Creating  a new Generative Code for a neighborhood of houses and businesses in Strood</A>&nbsp; &nbsp; <span class=h5class> 32 pages &nbsp;&nbsp; 10 pictures.</SPAN></span> <p>  </td>
+<!-- <td align=center VALIGN=TOP WIDTH=18%><A HREF=library/stroodcode-v13np.pdf> <span class=h5class>View freely on screen </span></a> </td>
+<td align=center WIDTH=22% VALIGN=TOP><A HREF=library/stroodcode-v13.pdf><img src=images/buy-button099.jpg height=17px border=0></a></span></td> -->
+</tr>
+
+
+
+<tr><td align=center colspan=2><hr height=10 color=ff0000>
+</table>
+
+<table width=100% align=center> 
+<tr><td align=center  colspan=3><span class=h4class>Below,</span> <span class=caption><i>a house in California created with a generative code: the house fits the land, it seems loose, and more complex than a typically "designed" house. Yet it is made of highly ordered, locally symmetrical parts, so that one sees and experiences a rich hierarchy of enjoyable parts, each of which enriches the larger whole around it, and connects to it.</i></span><p><img src=../pics/givens-upham.jpg width=300><br>
+<!-- <tr><td bgcolor=eeeeee align=right><span class=h5class><span style= color:000000>
+<a href=archive.htm>Back to Top Level</a> </span></span>-->
+</td></tr>
+<tr><td align=center colspan=3><hr height=10 color=ff0000><P>FURTHER READING<p><td align=center colspan=2><hr height=10 color=ff0000></td></tr>
+ 
+<tr><TD WIDTH=25% VALIGN=TOP>
+<span class=h404class>DEFINITION OF GENERATIVE CODES</SPAN>
+<td align=left WIDTH=75%><span class=blackChange><span class=h4class><A HREF=../library/generativecodesv10.pdf>What is a Generative Code?</A> A paper discussing the nature of generative codes and the reasons why they work: </span>&nbsp;<span class=h5class> 25 pages &nbsp;&nbsp;<P></SPAN></span>  </td>
+
+</tr>
+<tr><TD WIDTH=25% VALIGN=TOP>
+<span class=h404class>MORPHOGENESIS AND SUSTAINABILITY</SPAN>
+<td align=left WIDTH=75%><span class=blackChange><span class=h4class>A longer paper discussing the unfolding of  neigborhoods in the environment, in a way that parallels the unfolding of organisms and organic structures. This is shown to be the origin of true sustainability.<A HREF=../library/schumacher-v16.pdf>Sustainability and Morphogenesis</A><span class=h5class>&nbsp; &nbsp; 69 pages &nbsp;&nbsp; 70 color pictures.<P></SPAN></span></td>
+</tr>
+
+<tr><TD WIDTH=25% VALIGN=TOP>
+<span class=h404class>PATTERN LANGUAGES<br></SPAN>
+<td align=left WIDTH=75%><span class=blackChange><SPAN class=h4class><b>A pattern language is no more than about a fifth of a full generative code.</b> This paper explains the relation of pattern languages, the sequences presented in <i>The Nature of Order</i>, and the new Generative Codes.<A HREF=patternlanguages.htm>The evolution of generative codes from pattern languages and sequences.</A></span><P></td></tr>
+<tr><td align=center colspan=2><hr height=10 color=ff0000>
+</table>
+
+
+
+
+<table width=100% align=center>
+
+<tr ><td  bgcolor=eeeeee colspan=2> <span class=h5class><span style= color:000000>
+<p>&nbsp; <br>Please note: in order to allow us to make new results available as quickly as possible, many of the available papers are in draft form; others are in final form or in published form.  If you need further information, please contact us by e-mail at 
+<a href=mailto:livingneighborhoods@patternlanguage.com>CES </a></span></span><p>
+</td></tr>
+
+
+<tr><td> <hr height=10 color=ff0000>
+<tr><td bgcolor=eeeeee colspan=7 align=right><span class=h5class><span style= color:000000><a href=generative.htm>Back to Top</a> </span></span>
+</td></tr>
+<tr><td><hr height=10 color=ff0000>
+</table>
+
+</div>
+
+
+ 
+
+</BODY>
+</HTML>
+

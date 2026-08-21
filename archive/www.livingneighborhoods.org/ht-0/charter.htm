@@ -1,0 +1,243 @@
+<!-- PatternL: Free -->
+<HTML>
+<HEAD>
+<TITLE>Developers Charter</TITLE>
+<META name="description" content="">
+<META name="keywords" content="">
+<META name="generator" content="CuteHTML">
+
+<script language="JavaScript" src="../universal/universal.js"> </script>
+
+<SCRIPT LANGUAGE="JavaScript">
+
+
+<!-- Begin
+function setVariables() {
+if (navigator.appName == "Netscape") {
+v=".top=";
+dS="document.";
+sD="";
+y="window.pageYOffset";
+}
+else {
+v=".pixelTop=";
+dS="";
+sD=".style";
+y="document.body.scrollTop";
+   }
+}
+function checkLocation() {
+object="object1";
+yy=eval(y);
+eval(dS+object+sD+v+yy);
+setTimeout("checkLocation()",10);
+}
+//  End -->
+</script>
+
+
+<script>
+function clientSideInclude(id, url) {
+  var req = false;
+  // For Safari, Firefox, and other non-MS browsers
+  if (window.XMLHttpRequest) {
+    try {
+      req = new XMLHttpRequest();
+    } catch (e) {
+      req = false;
+    }
+  } else if (window.ActiveXObject) {
+    // For Internet Explorer on Windows
+    try {
+      req = new ActiveXObject("Msxml2.XMLHTTP");
+    } catch (e) {
+      try {
+        req = new ActiveXObject("Microsoft.XMLHTTP");
+      } catch (e) {
+        req = false;
+      }
+    }
+  }
+ var element = document.getElementById(id);
+ if (!element) {
+  alert("Bad id " + id + 
+   "passed to clientSideInclude." +
+   "You need a div or span element " +
+   "with this id in your page.");
+  return;
+ }
+  if (req) {
+    // Synchronous request, wait till we have it all
+    req.open('GET', url, false);
+    req.send(null);
+    element.innerHTML = req.responseText;
+  } else {
+    element.innerHTML =
+   "Sorry, your browser does not support " +
+      "XMLHTTPRequest objects. This page requires " +
+      "Internet Explorer 5 or better for Windows, " +
+      "or Firefox for any system, or Safari. Other " +
+      "compatible browsers may also exist.";
+  }
+}
+</script> 
+
+
+
+
+<STYLE type="text/css">
+.h4menuclass {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; LINE-SPACING: 13px; FONT-FAMILY: "Arial"; COLOR: 000000;
+}
+.h7menuclass {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; LINE-SPACING: 6px; FONT-FAMILY: "Arial"; COLOR: 000000; TEXT-DECORATION: none;
+}
+.thinmenuclass {
+	FONT-WEIGHT: bold; FONT-SIZE: 4px; LINE-SPACING: 4px; FONT-FAMILY: "Arial"; COLOR: 000000; TEXT-DECORATION: none;
+}
+
+</STYLE>
+
+
+
+<style type="text/css">
+.h7class {
+  FONT-WEIGHT: normal; FONT-SIZE: 36px; FONT-FAMILY: "Palatino", "Times", "Times New Roman";
+}
+
+.h5class {
+  FONT-WEIGHT: normal; FONT-SIZE: 24px; FONT-FAMILY: "Times Roman", "Times", "Times New Roman"; LINE-HEIGHT: 24px
+}
+
+.h8class {
+  FONT-WEIGHT: normal; FONT-SIZE: 18px; FONT-FAMILY: "Times Roman", "Times", "Times New Roman"; <!-- LINE-height: 20px; -->
+}
+
+.h3class {
+  FONT-WEIGHT: normal; FONT-SIZE: 11px; FONT-FAMILY: "Arial";
+}
+
+.h6class {
+  FONT-WEIGHT: normal; FONT-SIZE: 10px; FONT-FAMILY: "Arial";
+}
+</style>
+
+<style type="text/css" media="screen">
+
+#object2 {
+		position: absolute;
+		top:   0px;
+		left:  195px;
+visibility: visible;
+z-index:3;
+	}
+
+#whitescreen {
+	position: absolute;
+		top:   0px;
+		left:  0px;
+visibility: hidden;
+z-index:0;
+</style>
+
+
+
+<style type="text/css" media="print">
+
+#object2 {
+		position: relative;
+		top:   0px;
+		left:  0px;
+visibility: visible;
+z-index:3;
+	}
+
+#whitescreen {
+	position: absolute;
+		top:   0px;
+		left:  0px;
+visibility: visible;
+z-index:0;
+}
+
+</style>
+
+
+ </HEAD>
+
+
+<BODY BGCOLOR="#ffffff" TEXT="#000000" LINK="#0000ff" VLINK="#0000ff" ALINK="#0000ff"  OnLoad="if(self.name !== 'BoomWindow' && self.name !== 'LilWindow'){fEleven()};">
+
+<!-- setVariables();checkLocation(); -->
+
+ <div id="object1" style="position:absolute; visibility:show; left:0px; top:0px; z-index:0">
+
+<span id="menu">
+</span>
+</div> 
+
+
+<SCRIPT LANGUAGE="javascript">
+<!-- 
+clientSideInclude('menu','../ht-0/menu-exp.htm');
+ -->
+</script>
+
+<div id="whitescreen">
+<img src=../pics/white.jpg width=200 height=1000>
+</div>
+
+<div id="object2">
+
+<table width=500 align=center bgcolor=#006622>
+<TR><td align=left width=180><td align=center width=90><img src=../images/noonew5-g.jpg height=69><br>
+<TD ALIGN=right width=180>
+</td></tr></table>
+
+
+<table align=center width=500 border=1 bgcolor=ffffdd>
+<tr><td align=center><span class=h7class style=color:red>CHARTER FOR RESPONSIBLE<br> PROFESSIONAL DEVELOPERS</span><BR><span class=h3class><b>ROUGH DRAFT FOR DISCUSSION</b><P></span></td></tr>
+
+<tr><td align=left width=500><tr><td align=left><a href="developers.htm">
+<span class=h6class style='font-weight:normal;color:blue'>Back to developer's page</a></td></tr>
+
+</table>
+
+<table align=center width=450 border=1 cellpadding=9 bgcolor=ffffdd>
+<tr><td align=left width=450 valign=top>
+<span class=h3class style=color:black>This first draft of a charter for professional developers, arose from two impulses. First, a number of years ago, Andres Duany asked me if I would be willing to draft such a charter, and if so, proposed that he would then take it to a number of influential developers and press for its adoption. At the time, I felt I was not quite ready to undertake this task.<p>
+Then, more recently, at the 14th Congress of New Urbanism, a very considerable number of architects, planners, developers and builders, met with me after 
+my address to the congress. Together we decided that we would pursue this concept, probably at a meeting held in London, with the idea that we would then thrash out the details of the articles together.<p>
+The version presented below is a very rough draft which I made , virtually on the back of an envelope, and then showed at the Congress. It is only a starting point. Many items, especially the items 9-23, need considerable review and refinement, before they could reasonably be accepted by a wide group of charter members.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Christopher Alexander</span></td></tr></table>
+<P>
+<table align=center width=450 border=1 cellpadding=5 bgcolor=ffffdd>
+<tr><td align=center width=450 valign=top><span class=h5class style=color:red;font-size:140%;><b>A CHARTER</b></span><BR><span class=h3class>Version 1, June 3 2006. Very rough first draft</span></TD></TR>
+<!-- <A href="javascript:history.go(-1);"> -->
+<tr><td align=left width=450 valign=top><span class=h5class style=color:red><u>The Primary Article of Intent</u><p></span><span class=h8class style=color:black>To Protect and Care for the Beauty of the Living Earth<P><span class=h5class style=color:red><u>Secondary Articles of Intent that Express and Manifest this Primary Concern.</u></span><span class=h8class style=color:black><ol><li>Recognize that we are responsible for the Earth.<li>Pay attention to the beauty of the whole, and always act in service to the whole.<li>Do no harm.<li>Base everything on unfolding.<li>Make this a work of love, not commercial.<li>Spend as much time as possible on site.<li>Involve people.<li>Trust the judgment of others, and believe in them as you believe in yourself.</ol><span class=h5class style=color:red><u>Tertiary Practical Articles<br>
+The Methods and Assumptions which we believe any Developer will need to Subscribe to, in order to act practically on his/her Devotion to the Earth.</u></span><ol start=9><li>Recognize yourself as a fee-based professional.<li>Replace large loans with pay-as-you-go economics.<li>Modest returns on investment.<li>Give back to the community 30% of any windfall profit generated by land speculation.<li>Give up charettes and adopt more personal ways of talking to people.<li>Abandon the use of form-based prescriptive rules of geometry.<li>Professional fee-based Construction Management in lieu of large general contractors.<li>Diagnosis of the land as the start of every project.<li>Unfolding as the primary mode - hence cooperation with building and planning to accept this form.<li>Autonomy of every part at every scale allowed to develop its uniqueness.<li>Survey from stakes that are judged and placed and agreed by intuition.<li>Slow speed of construction to accommodate adaptation.<li>Fixed price construction and flexible moves within the budget.<li>Modify what is built, during construction.<li>Establish repair and maintenance programs for annual repair.</ol></span><br>
+</td>
+</tr></table>
+
+<table align=center width=450 border=1 cellpadding=9 bgcolor=ffffdd>
+<tr><td align=center width=450 valign=top>
+<span class=h3class style=color:black>THANK YOU</span>
+</td></tr>
+<tr><td align=center width=450 valign=top>
+<span class=h3class style=color:black>Andres Duany, Carrie Marsh, Buff Chase, Yaroslav Steiner and others who have done so much to propel this project. We hope we shall all very soon be able to meet in London, for our seminar.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chris and Maggie</span>
+
+</td></tr></table>
+<table width=450 align=center bgcolor=#006622>
+<TR height=50><td align=center><br>
+<form METHOD="LINK" ACTION="developers.htm"><input type="submit" value="Back to Developer's Page"  STYLE="font-size:12px;font-family:serif;font-style:italic;background-color:#ffff00;valign=middle; color:#000000;height:20px;width:130px;border-color:#ff0000;"></form></td></tr></table>
+<br>
+<center>
+<span class=h5class style='font-weight:normal;color:black;font-size:11px;'>
+&copy; 2006 CES <a href="javascript:clickWindow('../clickagreement/clickagreementces.htm','window2')";><span class=h5class style='font-weight:normal;color:black;font-size:11px;'>Terms of Use & Copyright Notice<span class=h5class style='font-weight:normal;color:black;font-size:11px;'></a>
+</span>
+</center>
+</div>
+
+</BODY>
+</HTML>

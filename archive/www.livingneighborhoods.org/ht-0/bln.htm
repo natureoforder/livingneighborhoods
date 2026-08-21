@@ -1,0 +1,777 @@
+<!-- PatternL: Free -->
+<HTML>
+<HEAD>
+<TITLE>BUILDING LIVING NEIGHBORHOODS</TITLE>
+<META name="description" content="">
+<META name="keywords" content="">
+<META name="generator" content="CuteHTML">
+
+<script language="JavaScript" src="../universal/universal.js"> </script>
+<style type="text/css">
+
+INPUT {
+height: 50px;
+width: 150px;
+background-color: #ff0000;
+border-size: 2;
+border-color: #cccccc;
+color: BLACK;
+font-family: serif;
+font-weight: bold;
+font-size: 12pt;
+text-align: center;
+}
+</style> 
+<script language="javascript" type="text/javascript">       
+/* Visit http://www.yaldex.com/ for full source code
+and get more free JavaScript, CSS and DHTML scripts! */
+<!-- Begin
+
+/*
+In the url, it's generally best to use a *relative* address
+to your content page with this script; otherwise, IE loses
+its sense of "parentage" over the window, and may throw
+errors on attempts to relaunch when the fullscreen window is
+already open.
+*/
+
+// set the page to go to...
+url = "bln.shtml";
+
+// set how fast to expand horizontally
+// lower is slower
+var speedX = 10;
+
+// set how fast to expand vertically
+// lower is slower
+var speedY = 10;
+
+// set background color of "Loading..." screen
+var bgColor = "#666666";
+
+// set text color of "Loading..." screen
+var txtColor = "#FF80000";
+
+// do not edit below this line
+// ---------------------------
+var wide = window.screen.availWidth;
+var high = window.screen.availHeight;
+function andBoom() {
+var Boomer = window.open("","BoomWindow","fullscreen");
+Boomer.document.write('<HTML><BODY BGCOLOR='+bgColor+' SCROLL=NO><FONT FACE=ARIAL COLOR='+txtColor+'>Loading...</FONT></BODY></HTML>');
+Boomer.focus();
+for (H=1; H<high; H+= speedY) {
+Boomer.resizeTo(1,H);
+}
+for (W=1; W<wide; W+= speedX) {
+Boomer.resizeTo(W,H);
+}
+Boomer.location = url;
+}
+//  End -->
+</script>
+
+<script type="text/javascript">
+
+function betaPopup2() {
+    window.open( "../actions/betatext.htm", "myWindow", "status = 1, height = 630, width = 480, resizable = 1, scrollbars=yes" )
+}
+
+</script>
+
+<!-- PatternL: Free -->
+<!-- <HTML><HEAD> -->
+
+<!-- RS version of mouseover, clean some bugs Aug 22 2006 -->
+<!-- 
+<LINK REL=alternate MEDIA=print HREF="http://www.livingneighborhoods.org/ht-0/bln.htm"> -->
+
+<META http-equiv=Content-Type content="text/html; charset=windows-1252">
+
+<META NAME="KEYWORDS" CONTENT="Christopher Alexander, patterns, pattern language, order, nature of order, home, neighborhood, introduction, basics, implementation, generative, generative code, archive, services, community, creating community, example neighborhoods, planning, environmental, living neighborhoods, craftsmanship, construction, 
+
+
+building, renewing, world, thriving, steps, ways, tools, processes, process, people, build, rebuild, belonging, 
+ health, well-being,  place,  live , work,  useful, developers, planners, architects, designers, builders, public officials, local representatives, neighbors, business owners, commercial, commercial interests, cultural, wholeness, successful, geometric, sophisticated, generating systems, enhanced, deepen, money, craft, interactions, technical, straightforward, life, discussion, creating, human, hospitable, beautiful, places, practice, family, business, community organizer, leader, residents, city manager, decision-making, mayor, local official, city planner, vibrant, town, city, support, involved, beauty, contribution, engineer, teacher, student, academic, class instruction, research, student projects, teaching, academic papers, history, plans, discussion, photographs, communities, cooperating, help, theoretical, scientific,  practical, evidence, world-wide, regions, improving, human environment, villages, lands, habitats, genetic, scripts, inhabitants, users, lay out, satisfaction, organic, need, terrain, computer, science, 
+
+
+
+pedestrian, cars, play, children, gardens, houses, design, urban design, green, ecology, environment, ecological, new urbanism, CNU, "> 
+
+<TITLE>Building Living Neighborhoods</TITLE>
+
+<script language="JavaScript" src="../universal/universal.js"> </script>
+
+<SCRIPT language="JavaScript"> 
+<!-- 
+if (document.images) 
+{ 
+pic15on= new Image(120,48); 
+pic15on.src="../images/upaction.jpg"; 
+pic15off= new Image(120,48); 
+pic15off.src="../images/offaction.jpg"; 
+pic15down=new Image(120,48); 
+pic15down.src="../images/downaction.jpg"; 
+} 
+
+{ 
+pic16on= new Image(120,48); 
+pic16on.src="../images/uptheory.jpg"; 
+pic16off= new Image(120,48); 
+pic16off.src="../images/offtheory.jpg"; 
+pic16down=new Image(120,48); 
+pic16down.src="../images/downtheory.jpg"; 
+} 
+
+
+
+function lightup(imgName) 
+{ 
+if (document.images) 
+{ 
+imgOn=eval(imgName + "on.src"); 
+document[imgName].src= imgOn; 
+} 
+} 
+
+function turnoff(imgName) 
+{ 
+if (document.images) 
+{ 
+imgOff=eval(imgName + "off.src"); 
+document[imgName].src= imgOff; 
+} 
+} 
+
+function clickdown(imgName) 
+{ 
+if (document.images) 
+{ 
+imgDown=eval(imgName + "down.src"); 
+document[imgName].src=imgDown; 
+} 
+} 
+//--> </SCRIPT>
+
+
+</SCRIPT> 
+<script type="text/javascript">
+
+
+
+function PlaySound(url) {
+  document.all.sound.src = 'url';
+}
+
+
+
+</script>
+
+
+<STYLE>
+
+
+H1 {
+	FONT-WEIGHT: normal; FONT-SIZE: 30px; FONT-FAMILY: "Times Roman"
+}
+.h1class {
+	FONT-WEIGHT: normal; FONT-SIZE: 30px; FONT-FAMILY: "Times Roman"
+}
+H2 {
+	FONT-WEIGHT: normal; FONT-SIZE: 20px; FONT-FAMILY: "Times Roman"
+}
+H3 {
+	FONT-WEIGHT: BOLD; FONT-SIZE: 17px; FONT-FAMILY: "Times Roman"; <!-- line-space:20px; -->
+}
+.h3class {
+	FONT-WEIGHT: normal; FONT-SIZE: 20px; FONT-FAMILY: "Times Roman"; COLOR: FFFFFF;
+}
+.h32class {
+	FONT-WEIGHT: normal; FONT-SIZE: 23px; FONT-FAMILY: "Times Roman"; COLOR: 000000;
+}
+.h33class {
+	FONT-WEIGHT: normal; FONT-SIZE: 21px; FONT-FAMILY: "Times Roman"; COLOR: 000000;
+}
+.h34class {
+	FONT-WEIGHT: normal; FONT-SIZE: 19px; FONT-FAMILY: "Times Roman"; COLOR: 000000;
+}
+.h35class {
+	FONT-WEIGHT: normal; FONT-SIZE: 16px; FONT-FAMILY: "Times Roman"; COLOR: 000000;
+}
+.h36class {
+	FONT-WEIGHT: normal; FONT-SIZE: 13px; FONT-FAMILY: "Times Roman"; COLOR: 000000;
+}
+
+.h37class {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; FONT-FAMILY: "Times Roman"; COLOR: 000000;
+}
+.h4class {
+	FONT-WEIGHT: normal; FONT-SIZE: 13px; FONT-FAMILY: "Arial"
+}
+.h404class {
+	FONT-WEIGHT: BOLD; FONT-SIZE: 13px; FONT-FAMILY: "Arial"
+}
+
+.h6class {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; FONT-FAMILY: "Arial";
+}
+.h66class {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; FONT-FAMILY: "Arial"; COLOR: 000000;
+}
+.h67class {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; FONT-FAMILY: "Times Roman"; COLOR: 000000;
+}
+.h68class {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; FONT-FAMILY: "Arial"; COLOR: 000000;
+}
+.h5class {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; FONT-FAMILY: "Arial";
+}
+H6 {
+	FONT-WEIGHT: normal; FONT-SIZE: 15px; FONT-FAMILY: "Times Roman"
+}
+.link {
+	FONT-WEIGHT: normal; FONT-SIZE: 18px; FONT-FAMILY: "Times Roman"; text-decoration: none;  }
+.h70class {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; FONT-FAMILY: "Arial"; COLOR: red;
+}
+
+#upper {
+		position: absolute;
+		top:   0 px;
+		left:  120 px;
+width	: 500 px;
+height: 1000px;
+visibility: visible;
+	}
+
+#text {
+		position: absolute;
+		top:   620 px;
+		left:  150 px;
+width	: 500 px;
+visibility: visible
+	}
+
+
+#lower {
+		position: absolute;
+		top:   1520 px;
+		left: 160 px;
+width	: 500 px;
+height: 500px;
+visibility: visible;
+	}
+
+
+
+#fresno {
+		position: absolute;
+		top:   370 px;
+		left:  270 px;
+height	: 300 px;
+visibility: hidden;
+background-color:#ffffff;
+border: 3px solid #0000ff
+	}
+
+#travis {
+		position: absolute;
+		top:   370 px;
+		left:  350 px;
+height	: 300 px;
+visibility: hidden;
+background-color:#ffffff;
+border: 3px solid #0000ff
+	}
+
+
+
+#mexicali {
+		position: absolute;
+		top:   370 px;
+		left:  100 px;
+height	: 300 px;
+visibility: hidden;
+background-color:#ffffff;
+border: 3px solid #0000ff
+	}
+
+
+#eishin {
+		position: absolute;
+		top:   370 px;
+		left:  100 px;
+height	: 300 px;
+visibility: hidden;
+background-color:#ffffff;
+border: 3px solid #0000ff
+	}
+
+
+#pictable {
+		position: absolute;
+		top:   1230 px;
+		left: 100 px;
+width	: 600 px;
+height: 200px;
+visibility: visible;
+	}
+
+
+#heisey {
+		position: absolute;
+		top:   1070 px;
+		left:  230 px;
+height	: 300 px;
+visibility: hidden;
+background-color:#ffffff;
+border: 3px solid #0000ff
+	}
+
+#archway {
+		position: absolute;
+		top:   1070 px;
+		left:  420 px;
+height	: 300 px;
+visibility: hidden;
+background-color:#ffffff;
+border: 3px solid #0000ff
+	}
+
+#party {
+		position: absolute;
+		top:   1760 px;
+		left:  200 px;
+height	: 250 px;
+visibility: hidden;
+background-color:#ffffff;
+border: 3px solid #0000ff
+	}
+
+#arcade {
+		position: absolute;
+		top:   1070 px;
+		left:  420 px;
+height	: 300 px;
+visibility: hidden;
+background-color:#ffffff;
+border: 3px solid #0000ff
+	}
+
+#couple {
+		position: absolute;
+		top:   1070 px;
+		left:  0 px;
+height	: 300 px;
+visibility: hidden;
+background-color:#ffffff;
+border: 3px solid #0000ff
+	}
+
+#urbanmenu {
+		position: absolute;
+		top:   2 px;
+		left:  2 px;
+width	: 100 px;
+visibility: hidden
+	}
+
+
+
+</STYLE>
+
+
+
+ 
+
+
+
+
+
+
+<STYLE>
+
+.h1greenclass {
+	FONT-WEIGHT: bold; FONT-SIZE: 40px; FONT-FAMILY: "Times Roman"; COLOR: 008833;
+}
+.h1yellowclass {
+	FONT-WEIGHT: bold; FONT-SIZE: 40px; FONT-FAMILY: "Times Roman"; COLOR: FFFF22;<!-- eeee33; -->
+}
+.h1darkclass {
+	FONT-WEIGHT: bold; FONT-SIZE: 40px; FONT-FAMILY: "Times Roman"; COLOR: 000000;
+}
+.h2greenclass {
+	FONT-WEIGHT: bold; FONT-SIZE: 20px; FONT-FAMILY: "Times Roman"; COLOR: 005522;
+}
+
+.h3greenclass {
+	FONT-WEIGHT: bold; <!-- FONT-DECORATION: italic; --> FONT-SIZE: 16px; FONT-FAMILY: "Times Roman"; COLOR: 000000;
+}
+
+.h4greenclass {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; LINE-SPACING: 16px; FONT-FAMILY: "Times Roman"; COLOR: 000000;
+}
+
+.h5greenclass {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; LINE-SPACING: 16px; FONT-FAMILY: "Times Roman"; COLOR: 000000; FONT-DECORATION: none;
+}
+
+.h6class {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; FONT-FAMILY: "Arial";
+}
+
+
+.h70class {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; FONT-FAMILY: "Arial"; COLOR: 005522;
+}
+
+.bigtext { 
+	FONT-WEIGHT: bold; FONT-SIZE: 15px; FONT-FAMILY: "Times Roman";  color: 5555ff; FONT-STYLE: underline;}
+*******************************************
+
+
+
+
+</STYLE>
+
+<script language="JavaScript">
+function increment(number) { 
+return(number+1) 
+} 
+
+var packnumber=0;
+var unfoldnumber=0;
+</script>
+
+<SCRIPT LANGUAGE="javascript">
+function highlightButton(s) {
+if ("INPUT"==event.srcElement.tagName)
+event.srcElement.className=s
+}
+</SCRIPT>
+
+
+
+
+<SCRIPT LANGUAGE="JavaScript">
+
+
+<!-- Begin
+function setVariables() {
+if (navigator.appName == "Netscape") {
+v=".top=";
+dS="document.";
+sD="";
+y="window.pageYOffset";
+}
+else {
+v=".pixelTop=";
+dS="";
+sD=".style";
+y="document.body.scrollTop";
+   }
+}
+function checkLocation() {
+object="object1";
+yy=eval(y);
+eval(dS+object+sD+v+yy);
+setTimeout("checkLocation()",10);
+}
+//  End -->
+</script>
+
+<STYLE type="text/css">
+.h4class {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; LINE-SPACING: 13px; FONT-FAMILY: "Arial"; COLOR: 000000;
+}
+.h7class {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; LINE-SPACING: 6px; FONT-FAMILY: "Arial"; COLOR: 000000; TEXT-DECORATION: none;
+}
+</STYLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#0000ff"       
+OnLoad="setVariables();checkLocation()"
+>
+ 
+<div id="object1" style="position:absolute; visibility:show; left:0px; top:0px; z-index:2">
+
+<table width=130 border=0 cellspacing=8 cellpadding=0>
+<tr>
+<td><!-- <CENTER> --><span class=h4class style=color:005511><b>MENU</b></span><!-- </CENTER> --></td> 
+</tr>
+<tr>
+<td><a href="../ht-0/bln.htm" ><span class=h4class style=color:005511><b>Front page</b></span></a></td>
+</tr>
+<tr>
+<td><a href="../ht-0/actionlist.htm" ><span class=h4class style=color:005511><b>Action List</b></span></a><span class=h7class style=color:ffffff><br><a href="../ht-0/actionlist.htm#startup" ><span class=h7class><b>&nbsp;&nbsp;Startup & Vision</b></span></a><br><a href="../ht-0/actionlist.htm#diagnosis" ><span class=h7class><b>&nbsp;&nbsp;Land Diagnosis</b></span></a></span></td>
+</tr>
+<tr>
+<td><a href="../ht-0/developers.htm" ><span class=h4class style=color:005511><b>Developer's page</b></span></a><span style=color:ffffff><br><a href="../ht-0/charter.htm" ><span class=h7class style=color:000000><b>&nbsp;&nbsp;Developer's charter</b></span></a><br><a href="../ht-0/charter.htm" ><span class=h7class style=color:000000><b>&nbsp;&nbsp;Charter Solutions</b></span></a></span></td>
+</tr>
+<tr>
+<td><a href="../ht-0/developers.htm" ><span class=h4class style=color:005511><b>Community</b></span></a><span style=color:ffffff><br><a href="../ht-0/charter.htm" ><span class=h7class style=color:000000><b>&nbsp;&nbsp;Working together</b></span></a><br><a href="../ht-0/charter.htm" ><span class=h7class style=color:000000><b>&nbsp;&nbsp;Talking together</b></span></a></span></td>
+</tr>
+<tr>
+<td><a href="../ht-0/developers.htm" ><span class=h4class style=color:005511><b>Architecture</b></span></a><span style=color:ffffff><br><a href="../ht-0/charter.htm" ><span class=h7class style=color:000000><b>&nbsp;&nbsp;Style</b></span></a></span></td>
+</tr>
+<tr>
+<td><a href="../ht-0/workbook.htm" ><span class=h4class style=color:005511><b>Work Book</b></span></a><span style=color:ffffff><br><a href="../ht-0/instructions.htm" ><span class=h7class style=color:000000><b>&nbsp;&nbsp;Instructions</b></span></a></span><br><a href="../ht-0/downloads.htm" ><span class=h7class style=color:000000><b>&nbsp;&nbsp;Downloads</b></span></a></span><br><a href="../workpackets/packet1.htm" ><span class=h7class style=color:000000><b>&nbsp;&nbsp;Workpages</b></span></a></span></td>
+</tr>
+<tr>
+<td><a href="../ht-0/theory.htm" ><span class=h4class style=color:005511><b>Theory & Examples</b></span></a></td>
+</tr>
+
+</table>
+</div>
+
+<table>
+<tr>
+<td width=130>
+<font color="white"> </font>
+</td>
+
+<td>
+
+<!-- </HEAD> -->
+
+
+<BODY BGCOLOR="#ffffff" TEXT="#000000" LINK="#0000ff" VLINK="#0000ff" ALINK="#0000ff">
+
+
+
+
+<table width=540 align=center bgcolor=#ffffdd border=0 bordercolor=yellow><tr><td width=540>
+
+<table width=500 align=center bgcolor=#ff0000 border=1 bordercolor=yellow>
+
+<TR><td align=left width=204><td align=center width=92><img src=../images/noonew5-r.jpg height=69><br><TD ALIGN=right width=204><span class=h6class style=color:white>We recommend using</span>
+<form METHOD="LINK" ACTION="javascript:andBoom()"><input type="submit" value="Full Screen View"  STYLE="font-size:12px;font-family:serif;font-style:italic;background-color:#ffff00;valign=middle; color:#000000;height:20px;width:90px;border-color:#ff0000;"></form><form METHOD="LINK" ACTION="FullScreenClose.htm"><input type="submit" value="Full Screen Off"  STYLE="font-size:12px;font-family:serif;font-style:italic;background-color:#000000;valign=middle; color:#ffffff;height:20px;width:90px;border-color:#ff0000;"></form>
+</td></tr></table>
+
+<table width=500 align=center border=1>
+<tr><td align=center width=500><form METHOD="LINK" ACTION="../ht-0/bln.htm"><input TYPE="submit" VALUE="Building Living Neighborhoods" STYLE="font-size:18px;font-family:serif;font-style:italic;background-color:#ff0000;border-color:#000000;color:#ffff00;height:29px;width:375px;"><br><!-- <a href=../ht-0/bln.htm><span class=h6class>back to home page</span></a> --></form></center>
+
+
+
+<!-- style=font-size:100%; -->
+
+<span class=h33class STYLE=FONT-SIZE:70%><b>WELCOME</b></SPAN><BR>
+<!-- <p><span class=h1darkclass>BUILDING AND RENEWING <BR>NEIGHBORHOODS</span><br><br><<p> -->
+
+<a href=#text><span class=h6class>jump to action</span></a>
+
+
+
+<TR><td align=center width=500>
+<span class=h32class>
+<SPAN STYLE=FONT-SIZE:140%>W</SPAN>HEREVER <SPAN STYLE=FONT-SIZE:140%>Y</SPAN>OU ARE IN THE <SPAN STYLE=FONT-SIZE:140%>W</SPAN>ORLD, IF YOU ARE <SPAN STYLE=FONT-SIZE:140%>I</SPAN>NTENT ON <SPAN STYLE=FONT-SIZE:140%>P</SPAN>LANNING AND <SPAN STYLE=FONT-SIZE:140%>B</SPAN>UILDING A <SPAN STYLE=FONT-SIZE:140%>T</SPAN>HRIVING <SPAN STYLE=FONT-SIZE:140%>N</SPAN>EIGHBORHOOD, <P><SPAN STYLE=FONT-SIZE:140%>T</SPAN>HIS WEBSITE <!-- WILL BE HELPFUL TO -->  IS FOR  <SPAN STYLE=FONT-SIZE:140%>Y</SPAN>OU.</span><P><span class=h6class style=color:blue;> Its purpose is to help you draw from yourself and your colleagues, your own maximum insights and feelings, to bring them into play constructively, and by doing so to help the Earth.<br>
+</span></span><P></td></tr> 
+
+
+</table>
+<br>
+
+<!-- <table width=500 align=center border=1>
+<tr><td align=left width=500 valign=top bgcolor=ffffff><blockquote><span class=h3greenclass><i> -->
+<table align=center width=480 border=1>
+<tr>
+<td width=120 valign=top><a href="javascript:void(0)"     
+	       onmouseover="changeState('urbanmenu','visible');togglePic('fresno'); "
+		   onmousedown="changeState('urbanmenu','hidden');"  
+		   onMouseOut="javascript:togglePic('fresno');">
+		<SPAN onmouseover = "changeClass(this,'bigChange')" class=start><img src=../pics/fresno/money644.jpg height=110></span></a></td>
+
+<td width=120 valign=top><a href="javascript:void(0)"     
+	       onmouseover="changeState('urbanmenu','visible');togglePic('travis'); "
+		   onmousedown="changeState('urbanmenu','hidden');"  
+		   onMouseOut="javascript:togglePic('travis');">
+		<SPAN onmouseover = "changeClass(this,'bigChange')" class=start><img src=../pics/texas/viewoverlaketravis.jpg height=110></span></a></td>
+
+
+
+
+<td width=120 valign=top><a href="javascript:void(0)"     
+	       onmouseover="changeState('urbanmenu','visible');togglePic('mexicali'); "
+		   onmousedown="changeState('urbanmenu','hidden');"  
+		   onMouseOut="javascript:togglePic('mexicali');">
+		<SPAN onmouseover = "changeClass(this,'bigChange')" class=start><img src=../pics/mexicali/womanlean.jpg height=110></span></a></td>
+
+
+
+<td width=120 valign=top><a href="javascript:void(0)"     
+	       onmouseover="changeState('urbanmenu','visible');togglePic('eishin'); "
+		   onmousedown="changeState('urbanmenu','hidden');"  
+		   onMouseOut="javascript:togglePic('eishin');">
+		<SPAN onmouseover = "changeClass(this,'bigChange')" class=start><img src=../pics/eishin/eishinrainandstudents.jpg height=110></td>
+</tr>
+<tr><td colspan=4 border=0><center><span class=h6class style=color:blue;> Depicted here are places we have built. Mouseover to enlarge.<br>&nbsp;<br></span></center></td></tr>
+
+</table>
+<!-- </div> -->
+<P>&nbsp;<P>
+
+
+
+
+<table align=center width=500 border=1>
+<tr><td colspan=3 align=justify>
+<span class=h32class STYLE=FONT-SIZE:80%>
+<a name="text"></a><P><SPAN STYLE=FONT-SIZE:140%>D</SPAN>ESCRIBED IN THE FOLLOWING TWO PARTS OF THE</span><span class=h4class> website are paths to take and ways in which people in a community and their builders can work together to build or modify the neighborhood in which they have a stake.<P></span>
+
+</td></tr></table>
+
+
+<table colspan=3 align=center width=500 border=1>
+<tr>
+<td width=215 height=40 align=center border=1 valign=top>
+<form METHOD="LINK" ACTION="action.htm"> 
+<input TYPE="submit" VALUE="Action" STYLE="font-size:24px; font-family:serif;  background-color:#ff0000; color:#ffff00" ></form><span class=h6class><i>Action-oriented processes which get you moving, practically, to lay out and build a neighborhood</i><br></span>
+</td>
+<td width=70 height=40 border=1>&nbsp;</td> 
+
+<td width=215 height=40 align=center border=1 valign=top>
+<form METHOD="LINK" ACTION="theory.htm"> 
+<input TYPE="submit" VALUE="Theory & Examples" STYLE="font-size:16px; font-family:serif; background-color:#0000ff; color:#ffff00" ></form><span class=h6class><i>Background, examples, theory, and access to papers that established this method of building</i></span></td></tr>
+
+
+</table>
+
+<table width=500 align=center border=1>
+<tr><td colspan=3 align=justify>
+
+<span class=h4class>The goal is to make your neighborhood a place of belonging, a place of health and well-being, and a place where people will want to live and work.
+
+
+<P>The tools offered are intended for the use of private individuals, families, communities, developers, planners, architects, designers and builders; public officials, local representatives, and neighbors; business owners and people who have commercial interests. 
+
+These tools help people build and/or rebuild neighborhoods in ways that contribute something to their lives. Many of the tools have their origin in 30 years of work published in Christopher Alexander's <a href=../ht-2/noo-buy.htm><i>The Nature of Order</i></a><br><P></td></tr></table>
+
+<table align=center width=500 border=1  cellpadding=4>
+<tr><!-- cellspacing=2 -->
+<td width=215 height=40 align=left border=1 valign=top>
+<span class=h4class><P>
+Since this is a very different orientation for developers, we have provided material intended to help people working in the development field to integrate their thinking along these lines:<br>
+<center><form METHOD="LINK" ACTION="../ht-0/developers.shtml"> 
+<input TYPE="submit" VALUE="For Developers" STYLE="font-size:16px; font-family:serif; background-color:#005522; color:#ffff00; height:30px;"></form><span class=h6class style=width:200px;><i>Information for developers who wish to practice responsible development, and who may wish to use our methods</i></center></form><br></span>
+</td>
+<td width=30 height=40 border=1>&nbsp;</td>
+
+<td align=left width=255>
+<span class=h4class><P> <b>In our view, almost any part of the environment may be viewed as a neighborhood.</b> A neighborhood can be very small (less than an acre), or quite large (hundreds of acres).  It can be a hospital, a business, a group of workshops, a place where people live and work. A neighborhood is any group of people and their activities, animals, buildings, plants, and public space. Neighborhoods of different sizes are usually nested inside one another.<P>&nbsp;<P> </span></TD></TR></TABLE>
+
+<P>
+
+
+
+
+<table align=center width=400 border=1>
+<tr>
+<td width=120 valign=top><a href="javascript:void(0)"     
+	       onmouseover="changeState('urbanmenu','visible');togglePic('archway'); "
+		   onmousedown="changeState('urbanmenu','hidden');"  
+		   onMouseOut="javascript:togglePic('archway');">
+		<SPAN onmouseover = "changeClass(this,'bigChange')" class=start><img src=../pics/eishin/archway.jpg height=110></span></a></td>
+
+<td width=120 valign=top><a href="javascript:void(0)"     
+	       onmouseover="changeState('urbanmenu','visible');togglePic('heisey'); "
+		   onmousedown="changeState('urbanmenu','hidden');"  
+		   onMouseOut="javascript:togglePic('heisey');">
+		<SPAN onmouseover = "changeClass(this,'bigChange')" class=start><img src=../pics/texas/heiseyporch4.jpg height=110></span></a></td>
+
+<td width=120 valign=top><a href="javascript:void(0)"     
+	       onmouseover="changeState('urbanmenu','visible');togglePic('couple'); "
+		   onmousedown="changeState('urbanmenu','hidden');"  
+		   onMouseOut="javascript:togglePic('couple');">
+		<SPAN onmouseover = "changeClass(this,'bigChange')" class=start><img src=../pics/westdean/couple-walkingout.jpg height=110></span></a></td>
+
+<td width=120 valign=top><a href="javascript:void(0)"     
+	       onmouseover="changeState('urbanmenu','visible');togglePic('arcade'); "
+		   onmousedown="changeState('urbanmenu','hidden');"  
+		   onMouseOut="javascript:togglePic('arcade');">
+		<SPAN onmouseover = "changeClass(this,'bigChange')" class=start><img src=../pics/eishin/arcadeumbrella.jpg height=110></span></a></td>
+</tr></table>
+
+
+<table width=500 align=center border=1 cellpadding=8>
+<tr><!-- <TD WIDTH=20% valign=top>
+<span class=h4class style=color:black><b>WHO ARE YOU?</b></span><P> </TD>-->
+<TD width=80% valign=top><center><span class=h33class>WHO ARE YOU?</center></span><P><span class=h4class>If you are a <b>developer</b> or <b>landowner</b>, this website can show you ways of working that are more capable of creating healthy, hospitable and beautiful places for people to live, <!-- genuine neighborhoods --> than present forms of practice typically allow<!-- , and which will there be more successful for your clients -->. It does not cost more.<P>If your <b>family</b> or <b>business</b> is helping to rebuild an old neighborhood, or moving to a new one, this will give you tools and a voice which will be heard, so you can genuinely influence what happens.<P>If you are a <b>community organizer</b>, or a <b>leader</b> in a local community, this will give you tools to be sure that residents and local businesses can play an effective and practical part in decision making, which will be heard.<P>If you are a <b>mayor</b>, <b>city manager</b>, <b>local official</b> or <b>city planner</b> who wants to help create a vibrant <!-- neighborhood --> addition to your town or city, this will show you how to support and become involved in such a process so it can be effective.<P>If you are a <b>builder</b> or a <b>craftsperson</b><!--  who would like to be involved in neighborhood reconstruction -->, this site will show you a way of offering your services <!-- in a way that --> that allows the making of beauty in buildings to be a  fundamental part of your contribution -- more so than is typically allowed in the present commercial context.<!-- helps your craft to mesh and dovetail with the making of a more vibrant and enjoyable community. --><P>If you are an <b>architect</b> or <b>engineer</b>, this will show you how your work can be beautiful, and helpful to the beauty and spirit of a larger neighborhood.<P>If you are a <b>teacher</b> or a <b>student</b> or an <b>academic</b> you will find <!-- huge --> material throughout this website that naturally forms a basis for class instruction, research, and student projects. <!-- If you are an academic, and you want  -->To consider teaching the use of  <a href=generative.htm>generative codes</a>, you may wish to <!-- begin by  -->visit the  <a href=archive.htm>archive</a> page for academic papers, history and background of how they were developed.</span><P></td></tr>
+
+</table>
+
+<table align=center width=180 border=1>
+<tr><td width=120 valign=top><a href="javascript:void(0)"     
+	       onmouseover="changeState('urbanmenu','visible');togglePic('party'); "
+		   onmousedown="changeState('urbanmenu','hidden');"  
+		   onMouseOut="javascript:togglePic('party');">
+		<SPAN onmouseover = "changeClass(this,'bigChange')" class=start><img src=../pics/mexicali/party-in-mexico.jpg height=110></span></a></td>
+</tr></table>
+
+<table align=center width=500>
+<tr><td colspan=3 align=center>
+<!-- <span class=h32class STYLE=FONT-SIZE:80%>
+</span> -->
+<center><span class=h6class><i>This website is written by Chris Alexander and Maggie Moore Alexander with Randy Schmidt and Nick Littlestone, and with  Bev Behrman and Howard Davis.</i></span></center></td>
+</TR>
+</TABLE>
+<!-- </div> -->
+
+<!-- <div id="lower"> -->
+
+<table width=500 align=center border=1>
+<tr><td align=center colspan=2>
+
+<span class=h35class><SPAN STYLE=FONT-SIZE:140%>C</SPAN>ENTER FOR <SPAN STYLE=FONT-SIZE:140%>E</SPAN>NVIRONMENTAL <SPAN STYLE=FONT-SIZE:140%>S</SPAN>TRUCTURE established 1967<BR> and<br><span class=h36class><SPAN STYLE=FONT-SIZE:140%>C</SPAN>ENTRE FOR <SPAN STYLE=FONT-SIZE:140%>E</SPAN>NVIRONMENTAL <SPAN STYLE=FONT-SIZE:140%>S</SPAN>TRUCTURE,  EUROPE established 2005
+
+</td>
+</tr>
+</table>
+
+
+<table width=500 align=center border=1 cellpadding=8>
+<tr><td bgcolor=ffffdd align=left><span class=h5class><center>There is a great deal of material posted on this website under the headings of ACTION and THEORY & EXAMPLES -- more than one would expect to find on a typical website. We are using this medium so that we can make these ideas and building practices available to a world-wide audience quickly, and at as low a cost as possible. Our efforts to write and organize the material for easy use continue.<br>
+<span class=h5class>
+<p>&nbsp;If you would like information, please</SPAN> <span class=h37class><b><a href=contact-new.htm>CONTACT</a></b></span><span class=h5class> us <br>If you would like help, please check our </span><span class=h37class><b><a href=services-new.htm>SERVICES</a></b><span><span class=h5class>.<br>If you represent a <b>community organisation</b> or a <b>professional developer</b>, and would like to consider applying the methods described on this website, to one of your projects, <br>please </span> <span class=h37class><b><a href=mailto:interestedlist@livingneighborhoods.org>E-MAIL US </a></b></span>, <span class=h5class>and tell us what kind of help you might need.<br></span></center>
+</td></tr>
+</table>
+
+</table>
+
+<!-- </div> -->
+
+<div id="fresno">
+<IMG src="../pics/fresno/money644.jpg" height="300px" name="fresno1"  border=0 ></div>
+
+<div id="travis">
+<IMG src="../pics/texas/viewoverlaketravis.jpg" height="300px" name="texas1" border=0></div>
+
+<div id="mexicali">
+<IMG src="../pics/mexicali/womanlean.jpg" height="300px" name="woman1"  border=0></div>
+
+<div id="eishin">
+<IMG src="../pics/eishin/eishinrainandstudents.jpg" height="300px" name="eishin1" border=0></div>
+
+<div id="archway">
+<IMG src="../pics/eishin/archway.jpg" height="300px" name="arch1"  border=0></div>
+
+<div id="heisey">
+<IMG src="../pics/texas/heiseyporch4.jpg" height="300px" name="heisey1"  border=0 ></div>
+
+<div id="couple">
+<IMG src="../pics/westdean/couple-walkingout.jpg" height="300px" name="couple1" border=0></div>
+
+<div id="arcade">
+<IMG src="../pics/eishin/arcadeumbrella.jpg" height="300px" name="arcade1"  border=0></div>
+
+
+<div id="party">
+<IMG src="../pics/mexicali/party-in-mexico.jpg" height="250px" name="party1" border=0></div>
+
+
+
+
+
+</BODY>
+</HTML>
+

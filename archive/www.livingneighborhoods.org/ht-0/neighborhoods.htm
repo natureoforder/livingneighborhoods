@@ -1,0 +1,443 @@
+<!-- PatternL: Free -->
+<HTML><HEAD><TITLE>Building Living Neighborhoods -- Example Neighborhoods</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=windows-1252">
+
+<script language="JavaScript" src="../universal/universal.js"> </script>
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!-- Begin
+function setVariables() {
+if (navigator.appName == "Netscape") {
+v=".top=";
+dS="document.";
+sD="";
+y="window.pageYOffset";
+}
+else {
+v=".pixelTop=";
+dS="";
+sD=".style";
+y="document.body.scrollTop";
+   }
+}
+function checkLocation() {
+object="object1";
+yy=eval(y);
+eval(dS+object+sD+v+yy);
+setTimeout("checkLocation()",10);
+}
+//  End -->
+</script>
+
+
+<script>
+function clientSideInclude(id, url) {
+  var req = false;
+  // For Safari, Firefox, and other non-MS browsers
+  if (window.XMLHttpRequest) {
+    try {
+      req = new XMLHttpRequest();
+    } catch (e) {
+      req = false;
+    }
+  } else if (window.ActiveXObject) {
+    // For Internet Explorer on Windows
+    try {
+      req = new ActiveXObject("Msxml2.XMLHTTP");
+    } catch (e) {
+      try {
+        req = new ActiveXObject("Microsoft.XMLHTTP");
+      } catch (e) {
+        req = false;
+      }
+    }
+  }
+ var element = document.getElementById(id);
+ if (!element) {
+  alert("Bad id " + id + 
+   "passed to clientSideInclude." +
+   "You need a div or span element " +
+   "with this id in your page.");
+  return;
+ }
+  if (req) {
+    // Synchronous request, wait till we have it all
+    req.open('GET', url, false);
+    req.send(null);
+    element.innerHTML = req.responseText;
+  } else {
+    element.innerHTML =
+   "Sorry, your browser does not support " +
+      "XMLHTTPRequest objects. This page requires " +
+      "Internet Explorer 5 or better for Windows, " +
+      "or Firefox for any system, or Safari. Other " +
+      "compatible browsers may also exist.";
+  }
+}
+</script> 
+
+
+
+<STYLE type="text/css">
+.h4menuclass {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; LINE-SPACING: 13px; FONT-FAMILY: "Arial"; COLOR: 000000;
+}
+.h7menuclass {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; LINE-SPACING: 6px; FONT-FAMILY: "Arial"; COLOR: 000000; TEXT-DECORATION: none;
+}
+.thinmenuclass {
+	FONT-WEIGHT: bold; FONT-SIZE: 4px; LINE-SPACING: 4px; FONT-FAMILY: "Arial"; COLOR: 000000; TEXT-DECORATION: none;
+}
+</style>
+
+
+<SCRIPT language="JavaScript"> 
+<!-- 
+if (document.images) 
+{ 
+pic1on= new Image(62,28); 
+pic1on.src="../images/uphome.jpg"; 
+pic1off= new Image(62,28); 
+pic1off.src="../images/offhome.jpg"; 
+pic1down=new Image(62,28); 
+pic1down.src="../images/downhome.jpg"; 
+} 
+
+{ 
+pic2on= new Image(62,28); 
+pic2on.src="../images/upintro.jpg"; 
+pic2off= new Image(62,28); 
+pic2off.src="../images/offintro.jpg"; 
+pic2down=new Image(62,28); 
+pic2down.src="../images/downintro.jpg"; 
+} 
+
+{ 
+pic3on= new Image(62,28); 
+pic3on.src="../images/upgen.jpg"; 
+pic3off= new Image(62,28); 
+pic3off.src="../images/offgen.jpg"; 
+pic3down=new Image(62,28); 
+pic3down.src="../images/downgen.jpg"; 
+}
+
+{ 
+pic4on= new Image(62,28); 
+pic4on.src="../images/upimplem.jpg"; 
+pic4off= new Image(62,28); 
+pic4off.src="../images/offimplem.jpg"; 
+pic4down=new Image(62,28); 
+pic4down.src="../images/downimplem.jpg"; 
+}
+
+{ 
+pic5on= new Image(62,28); 
+pic5on.src="../images/upphotos.jpg"; 
+pic5off= new Image(62,28); 
+pic5off.src="../images/offphotos.jpg"; 
+pic5down=new Image(62,28); 
+pic5down.src="../images/downphotos.jpg"; 
+}
+
+{ 
+pic6on= new Image(62,28); 
+pic6on.src="../images/upnbds.jpg"; 
+pic6off= new Image(62,28); 
+pic6off.src="../images/offnbds.jpg"; 
+pic6down=new Image(62,28); 
+pic6down.src="../images/downnbds.jpg"; 
+}
+
+{ 
+pic7on= new Image(62,28); 
+pic7on.src="../images/uparchive.jpg"; 
+pic7off= new Image(62,28); 
+pic7off.src="../images/offarchive.jpg"; 
+pic7down=new Image(62,28); 
+pic7down.src="../images/downarchive.jpg"; 
+}
+
+{ 
+pic8on= new Image(62,28); 
+pic8on.src="../images/upcontact.jpg"; 
+pic8off= new Image(62,28); 
+pic8off.src="../images/offcontact.jpg"; 
+pic8down=new Image(62,28); 
+pic8down.src="../images/downcontact.jpg"; 
+}
+
+{ 
+pic9on= new Image(62,28); 
+pic9on.src="../images/upservices.jpg"; 
+pic9off= new Image(62,28); 
+pic9off.src="../images/offservices.jpg"; 
+pic9down=new Image(62,28); 
+pic9down.src="../images/downservices.jpg"; 
+} 
+
+{ 
+pic11on= new Image(62,28); 
+pic11on.src="../images/upcom.jpg"; 
+pic11off= new Image(62,28); 
+pic11off.src="../images/offcom.jpg"; 
+pic11down=new Image(62,28); 
+pic11down.src="../images/downcom.jpg"; 
+} 
+
+{ 
+pic13on= new Image(62,28); 
+pic13on.src="../images/upunfold.jpg"; 
+pic13off= new Image(62,28); 
+pic13off.src="../images/offunfold.jpg"; 
+pic13down=new Image(62,28); 
+pic13down.src="../images/downunfold.jpg"; 
+}
+
+function lightup(imgName) 
+{ 
+if (document.images) 
+{ 
+imgOn=eval(imgName + "on.src"); 
+document[imgName].src= imgOn; 
+} 
+} 
+
+function turnoff(imgName) 
+{ 
+if (document.images) 
+{ 
+imgOff=eval(imgName + "off.src"); 
+document[imgName].src= imgOff; 
+} 
+} 
+
+function clickdown(imgName) 
+{ 
+if (document.images) 
+{ 
+imgDown=eval(imgName + "down.src"); 
+document[imgName].src=imgDown; 
+} 
+} 
+//--> 
+</SCRIPT> 
+<STYLE>
+
+  .base {color:blue; font-weight:normal; font-size:100%; background-color:eeeeee}
+.bigChange {color:blue; font-weight:normal; font-size:100%; background-color:yellow}
+ .smallChange {color:white; font-size:100%; background-color:66ddaa}
+ .start {color:ffffdd;background-color:6699cc; text-decoration:none}
+ .blustart {color:ffffdd;background-color:6699ff; text-decoration:none}
+H1 {
+	FONT-WEIGHT: normal; FONT-SIZE: 30px; FONT-FAMILY: "Times Roman"
+}
+H2 {
+	FONT-WEIGHT: normal; FONT-SIZE: 20px; FONT-FAMILY: "Times Roman"
+}
+H3 {
+	FONT-WEIGHT: normal; FONT-SIZE: 17px; FONT-FAMILY: "Times Roman"; line-space:20px;
+}
+.h3class {
+	FONT-WEIGHT: normal; FONT-SIZE: 20px; FONT-FAMILY: "Times Roman"; COLOR: FFFFFF;
+}
+.h32class {
+	FONT-WEIGHT: normal; FONT-SIZE: 23px; FONT-FAMILY: "Times Roman"; COLOR: 000000;
+}
+.h33class {
+	FONT-WEIGHT: normal; FONT-SIZE: 21px; FONT-FAMILY: "Times Roman"; COLOR: 000000;
+}
+.h34class {
+	FONT-WEIGHT: normal; FONT-SIZE: 19px; FONT-FAMILY: "Times Roman"; COLOR: 000000;
+}
+.h35class {
+	FONT-WEIGHT: normal; FONT-SIZE: 16px; FONT-FAMILY: "Times Roman"; COLOR: 000000;
+}
+.h36class {
+	FONT-WEIGHT: normal; FONT-SIZE: 13px; FONT-FAMILY: "Times Roman"; COLOR: 000000;
+}
+.h4class {
+	FONT-WEIGHT: normal; FONT-SIZE: 13px; FONT-FAMILY: "Arial"
+}
+
+.h404class {
+	FONT-WEIGHT: BOLD; FONT-SIZE: 13px; FONT-FAMILY: "Arial"
+}
+.h6class {
+	FONT-STYLE: italic; FONT-SIZE: 10px; FONT-FAMILY: "Arial";
+}
+.h66class {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; LINE-HEIGHT: 10px; FONT-FAMILY: "Arial"; COLOR: 000000;
+}
+.h5class {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; FONT-FAMILY: "Arial";
+}
+H6 {
+	FONT-WEIGHT: normal; FONT-SIZE: 15px; FONT-FAMILY: "Times Roman"
+}
+.link {
+	FONT-WEIGHT: normal; FONT-SIZE: 18px; FONT-FAMILY: "Times Roman"; text-decoration: none;  }
+
+.caption { 
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; FONT-FAMILY: "Arial"; text-decoration: none;  }
+
+
+</STYLE>
+
+<STYLE TYPE="text/css">
+<!--
+.thin
+{
+line-height:4pt; font-size:4pt;
+}
+-->
+</STYLE>
+
+
+<style type="text/css" media="screen">
+
+#object2 {
+		position: absolute;
+		top:   0px;
+		left:  195px;
+visibility: visible;
+z-index:3;
+	}
+
+#whitescreen {
+	position: absolute;
+		top:   0px;
+		left:  0px;
+visibility: hidden;
+z-index:0;
+</style>
+
+
+
+<style type="text/css" media="print">
+
+#object2 {
+		position: relative;
+		top:   0px;
+		left:  0px;
+visibility: visible;
+z-index:3;
+	}
+
+#whitescreen {
+	position: absolute;
+		top:   0px;
+		left:  0px;
+visibility: visible;
+z-index:0;
+}
+
+</style>
+
+
+</HEAD>
+
+
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#0000FF" ALINK="#000000" OnLoad="if(self.name !== 'BoomWindow' && self.name !== 'LilWindow'){fEleven()};">
+
+ <div id="object1" style="position:absolute; visibility:show; left:0px; top:0px; z-index:0">
+
+<span id="menu">
+</span>
+</div>
+
+<SCRIPT LANGUAGE="javascript">
+<!-- 
+clientSideInclude('menu','../ht-0/menu-exp.htm');
+ -->
+</script>
+
+<div id="whitescreen">
+<img src=../pics/white.jpg width=200 height=1000>
+</div>
+
+
+<div id="object2">
+<table width=500 align=center border=1 bgcolor=1111ff>
+<tr><td align=center><IMG SRC="../images/bln-blue-livingneighborhoods.jpg" width="160" height="23" border="0"><br><IMG SRC="../images/bln-blue-theory-background.jpg" height="43" border="0"><p></td></tr></table>
+<!-- <A HREF="basics.htm" onMouseover="lightup('pic2')" onMouseout="turnoff('pic2')" onMouseDown="clickdown('pic2')" onMouseUp="lightup('pic2')">
+<IMG SRC="../images/offintro.jpg" name="pic2" width="62" height="28" border="0"></A> 
+<A HREF="generative.htm" onMouseover="lightup('pic3')" onMouseout="turnoff('pic3')" onMouseDown="clickdown('pic3')" onMouseUp="lightup('pic3')">
+<IMG SRC="../images/offgen.jpg" name="pic3" width="62" height="28" border="0"></A>
+<A HREF="community.htm" onMouseover="lightup('pic11')" onMouseout="turnoff('pic11')" onMouseDown="clickdown('pic11')" onMouseUp="lightup('pic11')">
+<IMG SRC="../images/offcom.jpg" name="pic11" width="62" height="28" border="0"></A><A HREF="mainsteps.htm" onMouseover="lightup('pic4')" onMouseout="turnoff('pic4')" onMouseDown="clickdown('pic4')" onMouseUp="lightup('pic4')">
+<IMG SRC="../images/offimplem.jpg" name="pic4" width="62" height="28" border="0"></A>
+<A HREF="libraryofunfoldings.htm" onMouseover="lightup('pic13')" onMouseout="turnoff('pic13')" onMouseDown="clickdown('pic13')" onMouseUp="lightup('pic13')">
+<IMG SRC="../images/offunfold.jpg" name="pic13" width="62" height="28" border="0"></A>
+<A HREF="neighborhoods.htm"> 
+<IMG SRC="../images/thisisnbds.jpg" width="62" height="28" border="0"></A> 
+<A HREF="archive.htm" onMouseover="lightup('pic7')" onMouseout="turnoff('pic7')" onMouseDown="clickdown('pic7')" onMouseUp="lightup('pic7')">
+<IMG SRC="../images/offarchive.jpg" name="pic7" width="62" height="28" border="0"></A>  -->
+
+
+<table width=500 align=center border=1 bgcolor=ffffdd>
+<tr><td width=500 ALIGN=CENTER><span class=h5class>
+<a href=#countries>jump</a></span>
+<h1><span style='color:red'>BUILDING A NEW CLASS OF NEIGHBORHOODS</h1>
+</TD></tr>
+<tr><TD align=center><img src =../images/noo.gif   width=50>
+</td></TR>
+
+<!-- <tr><td align=center>
+<span class=h32class><SPAN STYLE=FONT-SIZE:140%>B</SPAN>UILDING A <SPAN STYLE=FONT-SIZE:140%>N</SPAN>EW <SPAN STYLE=FONT-SIZE:140%>C</SPAN>LASS OF <SPAN STYLE=FONT-SIZE:140%>N</SPAN>EIGHBORHOODS  ::  </span>
+</td></TR> -->
+<tr><td align=center>
+<span class=h32class><SPAN STYLE=FONT-SIZE:140%>E</SPAN>XAMPLES OF <SPAN STYLE=FONT-SIZE:140%>L</SPAN>IVING <SPAN STYLE=FONT-SIZE:140%>N</SPAN>EIGHBORHOODS AND THE <SPAN STYLE=FONT-SIZE:140%>G</SPAN>ENERATIVE <SPAN STYLE=FONT-SIZE:140%>C</SPAN>ODES WHICH <SPAN STYLE=FONT-SIZE:140%>C</SPAN>REATED THEM</td></tr>
+
+<tr><td align=center>
+<SPAN STYLE=FONT-SIZE:140%>T</SPAN>HEY <SPAN STYLE=FONT-SIZE:140%>S</SPAN>HOW HOW "LIFE" TAKES MANY, EXTRAORDINARILY DIFFERENT FORMS IN DIFFERENT PLACES OF THE WORLD.<p>
+</td></tr>
+
+
+
+</table>
+
+<table align=center width=500  border=1 bgcolor=ffffdd><tr><td align=left colspan=5><span class=h6class>  <span style='color: 0000ff'><a name="countries"></a>Under each country, click on the neighborhood you would like to see.<!--   of neighborhoods shown  Projects  in --> Plain black descriptions are not active yet.</span></td></tr>
+<tr>
+<td width=20% valign=top><span class=h404class><a href=#countries><span class=h404class style=color:red>California</a></span><span class=h66class><br><a href=fresno.htm>Fresno market community, bringing neighborhood and commercial space together</a><br><span class=thin>&nbsp;</span><br>San Jose Homeless community<br><span class=thin>&nbsp;</span><br>Sanders estate<br><span class=thin>&nbsp;</span><br>Modesto clinic<br><span class=thin>&nbsp;</span><br>Waldorf, Altadena<br><span class=thin>&nbsp;</span><br>Fort Mason </span><P></td> 
+<td width=20% valign=top><span class=h404class><a href=#countries><span class=h404class style=color:red>England</a></span><span class=h66class><br><a href=westdean.htm>West Dean: A place where the beauty of the architecture plays a large part in the sense of community that people feel</a><br><span class=thin>&nbsp;</span><br>London<br><span class=thin>&nbsp;</span><br><a href=schumacher.htm>Schumacher College: A contrast of two processes</a><br><span class=thin>&nbsp;</span><br><!-- <a href=sheffield.htm> -->Sheffield Parson Cross</a><br><span class=thin>&nbsp;</span><br><a href=strood-riverside.htm>Strood Riverside</a></span><br><br></td>
+<td width=20% valign=top><span class=h404class>
+<a href=#countries><span class=h404class style=color:red>Japan </a></span><span class=h66class> <br><a href=eishincampus.htm>Higashino: A twenty-acre neighborhood for 1200 people</a><br><span class=thin>&nbsp;</span><br>Sapporo apartments<br><span class=thin>&nbsp;</span><br><a href=eishincollege.htm>Eishin College</a><br><span class=thin>&nbsp;</span><br><a href=emoto.htm>Komagome</a></span></td> 
+<td width=20% valign=top><a href=#countries><span class=h404class style=color:red>Mexico</a></span><span class=h66class><br><a href=mexicali.htm>Mexicali community of $3000 houses</a></td>
+<td width=20% valign=top><span class=h404class><a href=#countries><span class=h404class style=color:red>Oregon</a></span><span class=h66class><br>Harbor Hills new town<br><span class=thin>&nbsp;</span><br><a href=agate.htm>Agate housing: a small student neighborhood for the University of Oregon</a><br><span class=thin>&nbsp;</span><br>Fairview, Salem<br><span class=thin>&nbsp;</span><br>University of Oregon<br></td>
+
+</tr>
+<tr>
+<td width=20% valign=top><a href=#countries><span class=h404class style=color:red>Texas</a></span><span class=h66class><br><a href=texas.htm>Back of the Moon Neighborhood: A beautiful emphasis on the common land which binds the neighborhood together.</span></td><td width=20% valign=top><a href=#countries><span class=h404class style=color:red>Colombia</a></span><span class=h66class><br><a href=santarosa.htm>Santa Rosa de Cabal: A process for a neighborhood of 70 houses entirely built by the seventy families themselves.</a><P></td>
+<td width=20% valign=top><a href=#countries><span class=h404class style=color:red>Venezuela</a></span><span class=h66class><br>Guasare new town</td>
+<td width=20% valign=top><a href=#countries><span class=h404class style=color:red>India</a></span><span class=h66class><br><!-- <a href=bavra.htm> -->Bavra village</a></td>
+<td width=20% valign=top><a href=#countries><span class=h404class style=color:red>Florida</a></span><span class=h66class><br>Fort Lauderdale, Progresso district<P></td>
+
+</span>
+</td></tr>
+
+<tr>
+<td width=20% valign=top><a href=#countries><span class=h404class style=color:red>Uzbekistan</a></span><span class=h66class><br><a href=samarkand.htm>Samarkand: a new city center, revivifying modern feelings and ancient values in modern form</a></td><td width=20% valign=top><span class=h404class><a href=#countries><span class=h404class style=color:red>Germany</a></span><span class=h66class><br>Frankfurt, Hoechst</td><td width=20% valign=top><a href=#countries><span class=h404class style=color:red>Massachusetts</a></span><span class=h66class><br>Boston, Somerville<P><span class=thin>&nbsp;</span><br></td>
+</span>
+</tr>
+</table>
+
+
+<table align=center width=500 border=0>
+
+<tr><td align=center colspan=3><SPAN STYLE=font-size:14px><b>EXAMPLES OF OUR <!-- ONGOING --> WORK <!-- AND PAST WORK --> IN PARTICULAR NEIGHBORHOODS IN VARIOUS COUNTRIES</span></a></b><br> </td></tr>
+<tr><td align=center colspan=3><span class=h6class>  <span style='color: 0000ff'>Click on the neighborhood you would like to see</span></td></tr>
+<tr><td align=center colspan=3><hr height=10 color=ff0000></td></tr>
+
+</table>
+<br><center>
+<span class=h5class style='font-weight:normal;color:black;font-size:11px;'>
+&copy; 2006 CES <a href="javascript:clickWindow('../clickagreement/clickagreementces.htm','window2')";><span class=h5class style='font-weight:normal;color:black;font-size:11px;'>Terms of Use & Copyright Notice<span class=h5class style='font-weight:normal;color:black;font-size:11px;'></a>
+</span>
+<br><br></center>
+</div>
+
+
+</BODY>
+</HTML>
+

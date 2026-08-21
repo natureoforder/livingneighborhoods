@@ -10,6 +10,10 @@ test -f site/actions.md
 test -f site/theory.md
 test -f site/archive.md
 test -f archive/www.livingneighborhoods.org/ARCHIVE-METADATA.txt
+test -f archive/www.livingneighborhoods.org/manifest.json
+
+python3 -m unittest discover -s tests -v
+python3 scripts/verify_archive.py
 
 python3 - <<'PY'
 import json
@@ -25,7 +29,7 @@ html_count=$(find archive/www.livingneighborhoods.org -type f \( -name '*.htm' -
 markdown_count=$(find site -type f -name '*.md' | wc -l | tr -d ' ')
 asset_count=$(find site -type f \! -name '*.md' \! -name 'config.json' | wc -l | tr -d ' ')
 
-test "$html_count" -ge 40
+test "$html_count" -ge 200
 test "$markdown_count" -ge 40
 test "$asset_count" -ge 50
 

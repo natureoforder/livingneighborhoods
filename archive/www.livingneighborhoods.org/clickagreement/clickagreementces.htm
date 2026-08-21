@@ -1,0 +1,46 @@
+<!-- PatternL: Free -->
+<HTML>
+<HEAD>
+<TITLE>COPYRIGHT NOTICE AND TERMS OF USE</TITLE>
+<META name="description" content="">
+<META name="keywords" content="">
+<META name="generator" content="CuteHTML">
+<script language="javascript">
+  var host='%%HOST%%';
+  var path='%%PATH%%';
+  var timedelta = Math.round((new Date()).getTime()/1000)-parseInt('%%CURTIME%%');
+  var agreementkey='%%AGREEMENTKEYPREFIX%%' + timedelta;
+  var prefix = "/clickagreement/";
+  if (host == "%%" + "HOST" + "%%")
+    { prefix = "";
+    }
+
+  //////////////////////////////////////
+  var banner="bannerces.htm";
+  var agreementtext="agreementtextces.htm";
+  var buttons="buttonsces.htm";
+  //////////////////////////////////////
+  var bannerpath= prefix+banner;
+  var agreementtextpath= prefix+agreementtext;
+  var buttonspath= prefix+buttons;
+</script>
+</HEAD>
+
+
+<SCRIPT>
+document.write('<FRAMESET rows="20%,65%,15%">');
+	document.write('<FRAME SRC="' + bannerpath + '" NAME="A" scrolling="no">');
+	document.write('<FRAME SRC="' + agreementtextpath + '" NAME="C" >');
+	document.write('<FRAME SRC="' + buttonspath + '" NAME="D" scrolling="no">');
+document.write('</FRAMESET>');
+</SCRIPT>
+
+
+
+
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+
+
+</BODY>
+</HTML>
+
