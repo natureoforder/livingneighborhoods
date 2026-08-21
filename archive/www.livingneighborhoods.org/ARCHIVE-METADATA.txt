@@ -1,0 +1,14 @@
+Source: https://www.livingneighborhoods.org/
+Crawled: 2026-08-21
+URLs visited: 163
+Files downloaded: 154
+Failed URLs: 9
+FAILED https://www.livingneighborhoods.org/actions/minorcenters.htm: HTTP Error 404: Not Found
+FAILED https://www.livingneighborhoods.org/actions/paths.htm: HTTP Error 404: Not Found
+FAILED https://www.livingneighborhoods.org/packets/gps.htm: HTTP Error 404: Not Found
+FAILED https://www.livingneighborhoods.org/actions/pics/density/naples1.jpg: HTTP Error 404: Not Found
+FAILED https://www.livingneighborhoods.org/actions/definedensity.htm: HTTP Error 404: Not Found
+FAILED https://www.livingneighborhoods.org/actions/healsurroundings.htm: HTTP Error 404: Not Found
+FAILED https://www.livingneighborhoods.org/actions/clustering.htm: HTTP Error 404: Not Found
+FAILED https://www.livingneighborhoods.org/apl/apl106/apl106x.htm: HTTP Error 404: Not Found
+FAILED https://www.livingneighborhoods.org/actions/universal/universal.js: HTTP Error 404: Not Found

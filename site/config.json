@@ -1,0 +1,31 @@
+{
+  "siteName": "Living Neighbourhoods",
+  "description": "A more accessible Markdown edition of the Living Neighbourhoods material on generative codes, building practice, and living communities.",
+  "theme": "lessflowery",
+  "showSidebar": true,
+  "showToc": true,
+  "nav": {
+    "title": "Living Neighbourhoods",
+    "links": [
+      { "name": "Home", "href": "/" },
+      {
+        "name": "Action & Practice",
+        "links": [
+          { "name": "Overview", "href": "/actions" },
+          { "name": "Generative Codes", "href": "/actions/baselinecode" },
+          { "name": "Repair", "href": "/actions/repair" },
+          { "name": "Vision", "href": "/actions/vision3" }
+        ]
+      },
+      {
+        "name": "Theory & Examples",
+        "links": [
+          { "name": "Overview", "href": "/theory" },
+          { "name": "Nature of Order", "href": "/ht-0/natureoforder" }
+        ]
+      },
+      { "name": "Archive", "href": "/archive" },
+      { "name": "About", "href": "/about" }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+- id: direct-archive
+  description: The source site and linked assets are preserved under archive/
+  passes: true
+- id: markdown-edition
+  description: Archived HTML pages are converted into Markdown under site/
+  passes: true
+- id: navigation
+  description: Flowershow-ready landing pages preserve the major source navigation
+  passes: true
+- id: flowershow-config
+  description: The site uses the lessflowery Flowershow theme
+  passes: true
+- id: verification
+  description: scripts/verify.sh validates the repository invariants
+  passes: true
