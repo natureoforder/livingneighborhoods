@@ -40,6 +40,7 @@ The original folder names (`ht-0/`, `actions/`, `packets/`…) were the authors'
 ## Sources
 
 - **Live site**, captured on 2026-08-21: 209 HTML pages, plus images and PDFs. The archive, with checksums and a list of the links that were already dead, is kept in the [natureoforder/livingneighborhoods](https://github.com/natureoforder/livingneighborhoods) repository.
+- **Papers (PDFs)**: the 25 PDFs in the library are linked at their original addresses on livingneighborhoods.org rather than copied here; copies are kept in the archive. Turning them into pages is a later job.
 - **Java applets**: the drawing pad and the three "unfolding movies" (St Mark's Square, Strood, a window at Lake Travis) were Java applets that modern browsers no longer run. Their pages are kept, with a note.
 - Pages that were already missing on the live site may be recovered from the Internet Archive later.
 

@@ -6,8 +6,9 @@
 
 Pages land under <wiki>/living-neighborhoods/ (the wiki's Living Neighborhoods section). In a partial sync, links to edition pages
 that are not (yet) in the wiki are pointed at the original page on livingneighborhoods.org, so
-nothing breaks. Build-only frontmatter (`edited`, `generated`) is dropped. Assets are copied
-byte-for-byte. Re-running is safe: synced files are overwritten from edition/.
+nothing breaks. Build-only frontmatter (`edited`, `generated`) is dropped. Images are copied
+byte-for-byte; PDFs are not copied (Rufus, 27 Nov: they stay in this repo's archive for now) and
+links to them point at the original file on livingneighborhoods.org. Re-running is safe: synced files are overwritten from edition/.
 """
 
 from pathlib import Path
@@ -19,6 +20,8 @@ import shutil
 ROOT = Path(__file__).resolve().parent.parent
 EDITION = ROOT / "edition"
 TARGET = "living-neighborhoods"
+ORIGINAL = "https://www.livingneighborhoods.org/"
+NOT_COPIED = (".pdf",)
 
 PILOT = [
     "index",
@@ -72,6 +75,8 @@ def main():
             except ValueError:
                 return m.group(0)
             if rel.startswith("assets/"):
+                if rel.lower().endswith(NOT_COPIED):
+                    return f"{bang}[{label}]({ORIGINAL}{rel[len('assets/'):]})"
                 assets.add(rel)
                 return m.group(0)
             if rel.endswith(".md"):
@@ -87,8 +92,9 @@ def main():
         out.parent.mkdir(parents=True, exist_ok=True)
         out.write_text(text, encoding="utf-8")
 
-    if args.all:  # every asset, including PDFs that no page links to
-        assets |= {p.relative_to(EDITION).as_posix() for p in (EDITION / "assets").rglob("*") if p.is_file()}
+    if args.all:  # every asset, including images that no page links to, except NOT_COPIED types
+        assets |= {p.relative_to(EDITION).as_posix() for p in (EDITION / "assets").rglob("*")
+                   if p.is_file() and not p.name.lower().endswith(NOT_COPIED)}
     for a in sorted(assets):
         target = out_root / a
         if not target.exists() or target.stat().st_size != (EDITION / a).stat().st_size:
