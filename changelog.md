@@ -1,6 +1,6 @@
 ## 2026-11-26 — Reader edition of all 209 pages
 
-Every page of the original site is now accounted for in a clean edition re-arranged for readers: the six phases of the generative code in order, then further unfoldings, running a project, examples, ideas and the library, with images at full size and a link back to each original. A first nine pages are going into the Alexander Wiki under Works for review before the rest follow.
+Every page of the original site is now accounted for in a clean edition re-arranged for readers: the six phases of the generative code in order, then further unfoldings, running a project, examples, ideas and the library, with images at full size and a link back to each original. It is published as the [Living Neighborhoods section of the Alexander Wiki](https://alexander.wiki/living-neighborhoods), starting with ten pilot pages; the rest follow after review.
 
 ## 2026-08-21 — Searchable archive page inventory
 

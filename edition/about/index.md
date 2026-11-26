@@ -12,6 +12,31 @@ The original site at [livingneighborhoods.org](https://www.livingneighborhoods.o
 
 This edition keeps the authors' words and images (at full size) and re-arranges them for readers: the six phases of the generative code in order, then further unfoldings, running a project, examples, ideas and the library. Legacy menus, "back to" links, spacer images and repeated copyright lines were removed; every page links to its original. Where the authors pointed to parts of their own site (the ACTION & PRACTICE pages, the archive page), the words are kept and linked to the matching section here. Their spelling is kept as written; shouted all-capital headings and openings are set in ordinary case.
 
+## How this edition is arranged
+
+It follows the original site's own two halves, Action and Theory & Examples, in reading order: do it, then understand it, then see it.
+
+```
+living-neighborhoods/
+├── start-here           the authors' welcome and how the process works
+├── generative-code/     the method: six phases, each with its steps
+│   ├── 1-startup-and-vision/
+│   ├── 2-diagnosis/
+│   ├── 3-density/
+│   ├── 4-modifying-the-code/
+│   ├── 5-public-spaces/
+│   └── 6-building-volumes/
+├── unfoldings/          further steps (surveying, land tenure, cars…)
+├── running-a-project/   main steps of work, contracts, developers
+├── examples/            Eishin, Mexicali, West Dean, Fresno, Strood…
+├── ideas/               the theory, Nature of Order references
+├── library/             papers, essays, interviews
+├── tools/               workbook, drawing pad
+└── about/               how it was made; old URL → new page table
+```
+
+The original folder names (`ht-0/`, `actions/`, `packets/`…) were the authors' working folders, so they are not kept as addresses. Every page links to its original at the foot, and the tables below map every original page to its place here.
+
 ## Sources
 
 - **Live site**, captured on 2026-08-21: 209 HTML pages, plus images and PDFs. The archive, with checksums and a list of the links that were already dead, is kept in the [natureoforder/livingneighborhoods](https://github.com/natureoforder/livingneighborhoods) repository.

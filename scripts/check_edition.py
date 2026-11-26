@@ -95,6 +95,8 @@ def main():
     md_files = sorted(p for p in root.rglob("*.md") if "_build" not in p.parts)
     for path in md_files:
         dest = path.relative_to(root).with_suffix("").as_posix()
+        if args.partial and not (ROOT / "edition" / f"{dest}.md").exists():
+            continue  # a wiki page of its own that lives in the section (e.g. first-walk)
         text = path.read_text(encoding="utf-8")
         front, body = front_and_body(text)
         need = ["title", "description"] if dest in HAND_WRITTEN else REQUIRED

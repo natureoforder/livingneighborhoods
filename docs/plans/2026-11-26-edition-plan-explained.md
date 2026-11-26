@@ -1,7 +1,7 @@
 ---
 title: Living Neighborhoods edition — what we are doing, in one page
 date: 2026-11-26
-status: for Rufus
+status: agreed with Rufus, 26 Nov
 ---
 
 # Living Neighborhoods edition — what we are doing

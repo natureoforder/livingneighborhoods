@@ -4,7 +4,7 @@
     python3 scripts/sync_to_wiki.py --wiki ~/src/natureoforder/alexander-wiki --pilot
     python3 scripts/sync_to_wiki.py --wiki ~/src/natureoforder/alexander-wiki --all
 
-Pages land under <wiki>/works/living-neighborhoods/. In a partial sync, links to edition pages
+Pages land under <wiki>/living-neighborhoods/ (the wiki's Living Neighborhoods section). In a partial sync, links to edition pages
 that are not (yet) in the wiki are pointed at the original page on livingneighborhoods.org, so
 nothing breaks. Build-only frontmatter (`edited`, `generated`) is dropped. Assets are copied
 byte-for-byte. Re-running is safe: synced files are overwritten from edition/.
@@ -18,7 +18,7 @@ import shutil
 
 ROOT = Path(__file__).resolve().parent.parent
 EDITION = ROOT / "edition"
-TARGET = "works/living-neighborhoods"
+TARGET = "living-neighborhoods"
 
 PILOT = [
     "index",
@@ -30,6 +30,7 @@ PILOT = [
     "generative-code/5-public-spaces/positive-space",
     "generative-code/5-public-spaces/recursive-positive-space",
     "examples/eishin-campus",
+    "about/index",
 ]
 
 
