@@ -10,7 +10,8 @@
 - `scripts/verify_archive.py` checks archived-file integrity and link-graph closure.
 - `scripts/convert_site.py` converts archived HTML to Markdown and copies non-HTML assets into `site/`.
 - `scripts/verify.sh` is the machine-checkable done condition.
-- `NEXT.md` is the ordered handoff plan; archive hardening and historical recovery precede conversion work.
+- Plan: `docs/plans/2026-11-26-plan.md`. Tasks live in Beads (epic `ln-93z`); `NEXT.md` is superseded history.
+- `git push` also pushes Beads through `.beads/hooks/pre-push`; `bd dolt push` is the manual fallback.
 
 ## Working rules
 

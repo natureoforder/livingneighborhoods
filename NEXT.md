@@ -1,5 +1,7 @@
 # Next
 
+> **Superseded (26 Nov 2026).** The current plan is [docs/plans/2026-11-26-plan.md](docs/plans/2026-11-26-plan.md) and tasks live in Beads (epic `ln-93z`). Kept below for history; archive hardening and Wayback recovery are now separate Beads tasks.
+
 ## Current checkpoint
 
 Archive preservation comes before conversion or visual redesign.
