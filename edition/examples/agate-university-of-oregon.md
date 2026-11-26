@@ -40,6 +40,4 @@ Further discussions of the generative code for this project
 
 [Second generative pattern Sequence](samarkand.md)
 
-and
-
 *From* Building Living Neighborhoods *by Christopher Alexander, Maggie Moore Alexander, Randy Schmidt and Nick Littlestone, with Bev Behrman and Howard Davis. © Center for Environmental Structure. [Original page](https://www.livingneighborhoods.org/ht-0/agate.htm).*

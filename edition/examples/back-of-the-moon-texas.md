@@ -70,8 +70,6 @@ Inside other houses
 
 ![](../assets/pics/texas/texasmasons.jpg)
 
-and
-
 ## Window unfolding movie (applet no longer runs)
 
 ## Study the steps of the unfolding

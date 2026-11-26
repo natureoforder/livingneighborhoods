@@ -11,7 +11,7 @@ merged_from:
 edited: true
 ---
 
-**Wherever you are in the world, if you are intent on planning and building a thriving neighborhood, this is for you.** Its purpose is to help you draw from yourself and your colleagues your own maximum insights and feelings, to bring them into play constructively, and by doing so to help the Earth.
+**Wherever you are in the world, if you are intent on planning and building a thriving neighborhood, this website is for you.** Its purpose is to help you draw from yourself and your colleagues your own maximum insights and feelings, to bring them into play constructively, and by doing so to help the Earth.
 
 ![Eishin campus: the archway](assets/pics/eishin/archway.jpg)
 
@@ -23,21 +23,21 @@ The tools offered are intended for the use of ordinary people, families, communi
 
 ## Who it is for
 
-If you are one of **a group of friends** who are talking about building a new place to live a better life, this website can show you ways of working that are inspiring and related to the things which matter in your lives. [The generative code](generative-code/index.md) will guide you.
+If you are one of **a group of friends** who are talking about building a new place to live a better life, this website can show you ways of working that are inspiring and related to the things which matter in your lives. The [ACTION & PRACTICE](generative-code/index.md) pages will guide you.
 
-If you are a **developer** or **landowner**, this website can show you ways of working that are more capable of creating healthy, hospitable and beautiful places for people to live, than present forms of practice typically allow. It does not cost more. See [for developers](running-a-project/for-developers.md).
+If you are a **developer** or **landowner**, this website can show you ways of working that are more capable of creating healthy, hospitable and beautiful places for people to live, than present forms of practice typically allow. It does not cost more. See the [DEVELOPER'S PAGE](running-a-project/for-developers.md).
 
 If your **family** or **business** is helping to rebuild an old neighborhood, or moving to a new one, this website will give you tools and a voice which will be heard, so you can genuinely influence what happens.
 
 If you are a **community organizer**, or a **leader** in a local community, this website will give you tools to be sure that residents and local businesses can play an effective and practical part in decision making, which will be heard.
 
-If you are a **mayor**, **city manager**, **local official** or **city planner** who wants to help create a vibrant addition to your town or city, [the generative code](generative-code/index.md) will show you how to support and become involved in such a process so it can be effective.
+If you are a **mayor**, **city manager**, **local official** or **city planner** who wants to help create a vibrant addition to your town or city, the [ACTION & PRACTICE](generative-code/index.md) pages will show you how to support and become involved in such a process so it can be effective.
 
 If you are a **builder** or a **craftsperson**, this site will show you a way of offering your services that allows the making of beauty in buildings to be a fundamental part of your contribution -- more so than is typically allowed in the present commercial context.
 
 If you are an **architect** or **engineer**, this site will show you how working with a community, when done well, is likely to create a neighborhood with real beauty and spirit.
 
-If you are a **teacher** or a **student** or an **academic** you will find material throughout this website that naturally forms a basis for class instruction, research, and student projects. To consider teaching the use of generative codes, see [the ideas](ideas/index.md) and [examples](examples/index.md). The [library](library/index.md) provides academic papers, history and background of how generative codes were developed.
+If you are a **teacher** or a **student** or an **academic** you will find material throughout this website that naturally forms a basis for class instruction, research, and student projects. To consider teaching the use of generative codes, visit the THEORY & EXAMPLES section ([ideas](ideas/index.md), [examples](examples/index.md)). The [archive page](library/index.md) provides academic papers, history and background of how generative codes were developed.
 
 ![West Dean: a couple walking out](assets/pics/westdean/couple-walkingout.jpg)
 
@@ -47,7 +47,7 @@ This website gives you a step-by-step process, for laying out large neighborhood
 
 The process begins with large and general aspects of layout, and gradually works its way down to detailed issues of planning, buildings, road layout, common public space, gardens. It also includes material helping you to manage, or build, the implementation, or parts of the implementation of such a project.
 
-To lay out a neighborhood, or any portion of a neighborhood, you use the "unfoldings" of [the generative code](generative-code/index.md), one at a time. This will allow the design, layout and structure of the neighborhood to unfold, step by step, until it is complete.
+To lay out a neighborhood, or any portion of a neighborhood, you use the "unfoldings" that appear on the [ACTION & PRACTICE](generative-code/index.md) pages, one at a time. This will allow the design, layout and structure of the neighborhood to unfold, step by step, until it is complete.
 
 The unfoldings are arranged in groups, each dealing with a typical phase in creating or repairing a neighborhood. To simplify your tasks, use the groups of unfoldings roughly in the order they are presented. As you become familiar with and work with the unfoldings, you'll find that you can modify them, and create new ones that are specific to the physical attributes and culture of your neighborhood.
 

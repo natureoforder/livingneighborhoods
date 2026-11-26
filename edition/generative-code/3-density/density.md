@@ -100,6 +100,6 @@ Do not think that you can achieve the same end, by plucking the beautiful fragme
 
 ---
 
-↑ [Phase 3: Choosing density](index.md)
+↑ [Phase 3: Setting density](index.md)
 
 *From* Building Living Neighborhoods *by Christopher Alexander, Maggie Moore Alexander, Randy Schmidt and Nick Littlestone, with Bev Behrman and Howard Davis. © Center for Environmental Structure. [Original page](https://www.livingneighborhoods.org/actions/density.htm).*

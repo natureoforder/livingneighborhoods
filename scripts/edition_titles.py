@@ -26,7 +26,7 @@ TITLES = {
     f"{GC}/4-modifying-the-code/baseline-code": "The baseline code",
     f"{GC}/4-modifying-the-code/genetics": "The genetics of a generative code",
     f"{GC}/4-modifying-the-code/local-and-cultural-patterns": "Local and cultural patterns",
-    f"{GC}/3-density/index": "Phase 3: Choosing density",
+    f"{GC}/3-density/index": "Phase 3: Setting density",
     f"{GC}/3-density/density": "Density",
     f"{GC}/5-public-spaces/index": "Phase 5: Public spaces",
     f"{GC}/5-public-spaces/pedestrians-first": "Pedestrians come first",

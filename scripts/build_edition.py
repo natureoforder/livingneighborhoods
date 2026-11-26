@@ -41,7 +41,7 @@ BOILERPLATE = [
     r"^©.*\bCES\b.*$", r"^copyright\b.*$", r"^terms of use.*$",
     r"^text coming$", r"^back to\b.*$", r"^go back$", r"^back$", r"^top$", r"^menu$",
     r"^(center|centre) for environmental structure.*$", r"^established (1967|2005)\b.*$",
-    r"^more to come\b.*$", r"^\.$",
+    r"^and$", r"^\.$",
     r"^jump to action$", r"^we recommend using.*$", r"^print this page$",
     r"^back to (top level|neighborhood list|countries menu).*$",
 ]
@@ -704,7 +704,7 @@ def write_generated_indexes(titles):
 
 The original site at [livingneighborhoods.org](https://www.livingneighborhoods.org/) holds valuable material, but it was hard to use: frames, a JavaScript menu, two overlapping versions of many pages (an older "Environmental Structure" site and the newer "Building Living Neighborhoods" one), the same step at several addresses, and navigation that followed the authors' working folders. It also described itself as a beta site, still being written.
 
-This edition keeps the authors' words and images (at full size) and re-arranges them for readers: the six phases of the generative code in order, then further unfoldings, running a project, examples, ideas and the library. Legacy menus, "back to" links, spacer images and repeated copyright lines were removed; every page links to its original.
+This edition keeps the authors' words and images (at full size) and re-arranges them for readers: the six phases of the generative code in order, then further unfoldings, running a project, examples, ideas and the library. Legacy menus, "back to" links, spacer images and repeated copyright lines were removed; every page links to its original. Where the authors pointed to parts of their own site (the ACTION & PRACTICE pages, the archive page), the words are kept and linked to the matching section here. Their spelling is kept as written; shouted all-capital headings and openings are set in ordinary case.
 
 ## Sources
 

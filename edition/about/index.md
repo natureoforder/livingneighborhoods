@@ -10,7 +10,7 @@ generated: true
 
 The original site at [livingneighborhoods.org](https://www.livingneighborhoods.org/) holds valuable material, but it was hard to use: frames, a JavaScript menu, two overlapping versions of many pages (an older "Environmental Structure" site and the newer "Building Living Neighborhoods" one), the same step at several addresses, and navigation that followed the authors' working folders. It also described itself as a beta site, still being written.
 
-This edition keeps the authors' words and images (at full size) and re-arranges them for readers: the six phases of the generative code in order, then further unfoldings, running a project, examples, ideas and the library. Legacy menus, "back to" links, spacer images and repeated copyright lines were removed; every page links to its original.
+This edition keeps the authors' words and images (at full size) and re-arranges them for readers: the six phases of the generative code in order, then further unfoldings, running a project, examples, ideas and the library. Legacy menus, "back to" links, spacer images and repeated copyright lines were removed; every page links to its original. Where the authors pointed to parts of their own site (the ACTION & PRACTICE pages, the archive page), the words are kept and linked to the matching section here. Their spelling is kept as written; shouted all-capital headings and openings are set in ordinary case.
 
 ## Sources
 
@@ -106,7 +106,7 @@ Of the 209 original pages: 99 became pages here, 44 were merged into another pag
 | [noorefs/annotated-index.htm](https://www.livingneighborhoods.org/noorefs/annotated-index.htm) | [References to The Nature of Order](../ideas/nature-of-order-references.md) |
 | [packets/buildingvolumes-phase.htm](https://www.livingneighborhoods.org/packets/buildingvolumes-phase.htm) | [Phase 6: Building volumes](../generative-code/6-building-volumes/index.md) |
 | [packets/code-phase.htm](https://www.livingneighborhoods.org/packets/code-phase.htm) | [Phase 4: Modifying the code](../generative-code/4-modifying-the-code/index.md) |
-| [packets/density-phase.htm](https://www.livingneighborhoods.org/packets/density-phase.htm) | [Phase 3: Choosing density](../generative-code/3-density/index.md) |
+| [packets/density-phase.htm](https://www.livingneighborhoods.org/packets/density-phase.htm) | [Phase 3: Setting density](../generative-code/3-density/index.md) |
 | [packets/diagnosis-phase.htm](https://www.livingneighborhoods.org/packets/diagnosis-phase.htm) | [Phase 2: Diagnosis of the land](../generative-code/2-diagnosis/index.md) |
 | [packets/publicspaces-phase.htm](https://www.livingneighborhoods.org/packets/publicspaces-phase.htm) | [Phase 5: Public spaces](../generative-code/5-public-spaces/index.md) |
 | [packets/vision-phase.htm](https://www.livingneighborhoods.org/packets/vision-phase.htm) | [Phase 1: Startup and vision](../generative-code/1-startup-and-vision/index.md) |

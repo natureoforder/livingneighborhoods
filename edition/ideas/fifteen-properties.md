@@ -168,7 +168,7 @@ Courtesy of www.natureoforder.com
 
 xxxxxxxx
 
-on the remainder of the fifteen properties, with discussions of the ways they may most helpfully make their appearance and give life to a neighborhood
+More to come on the remainder of the fifteen properties, with discussions of the ways they may most helpfully make their appearance and give life to a neighborhood
 
 7\. Local Symmetries
 

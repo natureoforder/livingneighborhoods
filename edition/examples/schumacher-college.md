@@ -134,6 +134,4 @@ That is, I believe, a direct result of the approach used to produce the design. 
 
 A living result of morphogenesis A design made through a process which allows each step, slowly, slowly, to preserve the existing whole, and create something that fits into, and enhances, and makes precious, the existing land
 
-and
-
 *From* Building Living Neighborhoods *by Christopher Alexander, Maggie Moore Alexander, Randy Schmidt and Nick Littlestone, with Bev Behrman and Howard Davis. © Center for Environmental Structure. [Original page](https://www.livingneighborhoods.org/ht-0/schumacher.htm).*

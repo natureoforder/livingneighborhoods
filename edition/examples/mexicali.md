@@ -108,6 +108,4 @@ A more complete description of this generative code for the community in Mexical
 
 ![](../assets/pics/mexicali/lowcost-mexicali.jpg)
 
-and
-
 *From* Building Living Neighborhoods *by Christopher Alexander, Maggie Moore Alexander, Randy Schmidt and Nick Littlestone, with Bev Behrman and Howard Davis. © Center for Environmental Structure. [Original page](https://www.livingneighborhoods.org/ht-0/mexicali.htm).*

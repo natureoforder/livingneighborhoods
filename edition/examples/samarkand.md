@@ -64,8 +64,6 @@ Further discussions of the two generative codes for Samarkand
 
 [Second generative pattern sequence](samarkand.md)
 
-and
-
 ## The poem
 
 I wrote the following ‘‘poem’’ — a list of partially formed centers — at the very beginning of our work on the Samarkand city center, almost the day we began, long before we had worked it through.

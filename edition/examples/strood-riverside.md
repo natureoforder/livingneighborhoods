@@ -58,8 +58,6 @@ Below, the project we prepared for Medway council. The organization of the site 
 
 ![](../assets/pics/greendetail-text-perspective.jpg)
 
-and
-
 ## Strood neighbourhood-making
 
 ## An example

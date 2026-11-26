@@ -150,11 +150,7 @@ To make an appointment for a phone consultation, please send us an email by clic
 
 If you have a problem that is rather different from the ones described above, and feel you need help, but do not know that the help you need fits into these categories, please describe the problem to us. It will help us and other users of this website, and we will try, if possible, to suggest some way of solving your problem, or talking it through with you. Please [contact us](mailto:info@livingneighborhoods.org) and talk to us.
 
-and
-
 ## Examples of services
-
-and
 
 ## Examples of our services
 

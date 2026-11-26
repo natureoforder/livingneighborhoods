@@ -11,7 +11,7 @@ merged_from:
 edited: true
 ---
 
-This page is dedicated to Hisae Hosoi, Mr. Sakaida, Murakoshi-san, Mr. Nodera, Sumiyoshi-san, Hiro Nakano, Miyoko Tsutsui,and all the other teachers, staff, and students who gave their work and support to the creation of this campus
+This page is dedicated to Hisae Hosoi, Mr. Sakaida, Murakoshi-san, Mr. Nodera, Sumiyoshi-san, Hiro Nakano, Miyoko Tsutsui, and all the other teachers, staff, and students who gave their work and support to the creation of this campus
 
 ## Project history
 
@@ -49,11 +49,19 @@ Of all the projects we have done, this is one where the development of the patte
 
 ![](../assets/pics/eishin/snowtree2.jpg)
 
-The campus in winter. ![](../assets/pics/eishin/eishinlake.jpg) Gymnasium, classrooms, and the lake.
+The campus in winter.
+
+![Gymnasium, classrooms and the lake](../assets/pics/eishin/eishinlake.jpg)
+
+Gymnasium, classrooms, and the lake.
 
 ![](../assets/pics/eishin/cafeteria.jpg)
 
-![](../assets/pics/eishin/gardenwallview.jpg) ![](../assets/pics/eishin/snowonrooftops.jpg)Tea bushes left in place to form gardens on the campus
+![](../assets/pics/eishin/gardenwallview.jpg)
+
+![](../assets/pics/eishin/snowonrooftops.jpg)
+
+Tea bushes left in place to form gardens on the campus
 
 ![](../assets/pics/eishin/walking.jpg)
 
@@ -67,15 +75,11 @@ Hosoi, deep in thought.
 
 This is the drawing made after placing of all the flags, as shown in the process at head of this page. These flags were carefully transcribed, by position, from the exact position in the field. These became the basis of the plan, and gave the life to the positions of the buildings as they may be seen in photographs: a rather simple naturalness, which arsies, actually, from careful, careful attention to the land, when placing the flags originally.
 
-Further discussion of the generative code for the Eishin campus
-
-Final version of the pattern language for the stepwise conception and layout of the Eishin campus 14 pages
+The original page also linked to a further discussion of the generative code for the Eishin campus, and to the final version of its pattern language (14 pages); neither was preserved on the site.
 
 Below, the Eishin Campus from the distance, at sunset.
 
 ![](../assets/pics/eishin/sunset.jpg)
-
-and
 
 ## Eishin College (built two years later)
 
@@ -105,9 +109,9 @@ Students in the college neighborhood
 
 College buildings
 
-## Points of special interest in this project
+## How the Eishin process worked
 
-The pattern language (given under Eishin Campus), was made into a generative code by several important features of the process we used.
+The pattern language (given above), was made into a generative code by several important features of the process we used.
 
 - We ran the construction
 
@@ -125,8 +129,6 @@ The pattern language (given under Eishin Campus), was made into a generative cod
 
 Even more important, though, was a unique form of management which we undertook in the overall aspect of the construction works.
 
-on the form of management
-
-and
+More to come on the form of management.
 
 *From* Building Living Neighborhoods *by Christopher Alexander, Maggie Moore Alexander, Randy Schmidt and Nick Littlestone, with Bev Behrman and Howard Davis. © Center for Environmental Structure. [Original page](https://www.livingneighborhoods.org/ht-0/eishincampus.htm).*

@@ -40,6 +40,4 @@ All the materials and processes described on this site emphasize the need for pe
 
 This short [Note from Chris](../ideas/building-on-relationship.md) describes the human under-structure of community, and the way this under-structure liberates the possibility of unfolding and morphogenesis, then allowing a **real** neighborhood to form itself in human and geometric terms.
 
-and
-
 *From* Building Living Neighborhoods *by Christopher Alexander, Maggie Moore Alexander, Randy Schmidt and Nick Littlestone, with Bev Behrman and Howard Davis. © Center for Environmental Structure. [Original page](https://www.livingneighborhoods.org/ht-0/community.htm).*

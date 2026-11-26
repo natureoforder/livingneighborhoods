@@ -108,6 +108,4 @@ A very rough conception of the way the trellises, road, parking, and gardens int
 
 Further ongoing discussion of the generative code for the stepwise conception and layout and construction of the Fresno neighborhood, and how its future can be made to unfold successfully, while dealing with the financial uncertainties of a small-town developer, will be presented in an open document that can be accessed here. 10 pages
 
-and
-
 *From* Building Living Neighborhoods *by Christopher Alexander, Maggie Moore Alexander, Randy Schmidt and Nick Littlestone, with Bev Behrman and Howard Davis. © Center for Environmental Structure. [Original page](https://www.livingneighborhoods.org/ht-0/fresno.htm).*

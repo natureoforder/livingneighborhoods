@@ -1,5 +1,5 @@
 ---
-title: "Phase 3: Choosing density"
+title: "Phase 3: Setting density"
 description: "Section 3 Setting Appropriate Density Trying to find the right density for this…"
 source: "https://www.livingneighborhoods.org/packets/density-phase.htm"
 archive_path: "archive/www.livingneighborhoods.org/packets/density-phase.htm"
