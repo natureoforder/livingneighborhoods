@@ -35,8 +35,10 @@ Once this first phase is completed, you should have a good grounding in the natu
 
 ## Related unfoldings and tools
 
+*Cross-references added for this edition; the original site did not link these from the phase.*
+
 - [Community discussion](../../unfoldings/community-discussion.md): working hard to get at what people really have in their hearts.
-- [Topographic survey](../../unfoldings/topographic-survey.md) and [surveying](../../unfoldings/surveying.md): drawings and survey work that support the base map.
+- [Topographic survey](../../unfoldings/topographic-survey.md) and [surveying](../../unfoldings/surveying.md): surveying the land.
 - [Workbook section 1](../../tools/workbook-section-1.md) and the [workpad for startup and vision](../../tools/workpad-startup-and-vision.md): the original site's printable pages for this phase.
 
 ---

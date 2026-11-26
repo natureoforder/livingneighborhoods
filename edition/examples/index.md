@@ -12,7 +12,7 @@ edited: true
 ## Examples by country
 
 - **California:** [Fresno farmers' market](fresno-market.md): bringing neighborhood and commercial space together.
-- **England:** [West Dean](west-dean.md): a place where the beauty of the architecture plays a large part in the sense of community that people feel. [Schumacher College](schumacher-college.md): a contrast of two processes. [Strood Riverside](strood-riverside.md). [A village story](a-village-story.md): Maggie Moore Alexander on the village of Binsted, in the South Downs.
+- **England:** [West Dean](west-dean.md): a place where the beauty of the architecture plays a large part in the sense of community that people feel. [Schumacher College](schumacher-college.md): a contrast of two processes. [Strood Riverside](strood-riverside.md).
 - **Japan:** [Eishin campus](eishin-campus.md) (the original lists Higashino, a twenty-acre neighborhood for 1200 people, and Eishin College, both pointing here). [Komagome](komagome.md): a five story apartment building laid out to enhance the two streets of the neighborhood.
 - **Mexico:** [Mexicali: houses for $3,000](mexicali.md): a community of $3000 houses.
 - **Oregon:** [Agate](agate-university-of-oregon.md): a small student neighborhood for the University of Oregon.
@@ -20,13 +20,16 @@ edited: true
 - **Colombia:** [Santa Rosa de Cabal](santa-rosa.md): a process for a neighborhood of 70 houses entirely built by the seventy families themselves.
 - **Uzbekistan:** [Samarkand](samarkand.md): a new city center, revivifying modern feelings and ancient values in modern form.
 
-## An unfolding in history
+## Also in this edition
 
+Not on the original examples page, but elsewhere on the site:
+
+- [A village story](a-village-story.md): Maggie Moore Alexander on the village of Binsted, in the South Downs.
 - [St Mark's Square](st-marks-square.md): the thousand year unfolding of St Mark's Square in Venice from 560 AD to 1600 AD, in a cycle of four basic steps repeated again and again.
 
 ## Never written up on the original site
 
-The original page also listed these places by name, without pages: San Jose Homeless community, Sanders estate, Modesto clinic, Waldorf (Altadena), Fort Mason (California); Sheffield Parson Cross (England); Sapporo apartments (Japan); Harbor Hills new town, Fairview (Salem), University of Oregon (Oregon); Guasare new town (Venezuela); Bavra village (India); Fort Lauderdale, Progresso district (Florida); Frankfurt, Hoechst (Germany); Boston, Somerville (Massachusetts).
+The original page also listed these places by name, without pages: San Jose Homeless community, Sanders estate, Modesto clinic, Waldorf (Altadena), Fort Mason (California); London, Sheffield Parson Cross (England); Sapporo apartments (Japan); Harbor Hills new town, Fairview (Salem), University of Oregon (Oregon); Guasare new town (Venezuela); Bavra village (India); Fort Lauderdale, Progresso district (Florida); Frankfurt, Hoechst (Germany); Boston, Somerville (Massachusetts).
 
 ---
 

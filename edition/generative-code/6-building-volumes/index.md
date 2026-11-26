@@ -11,7 +11,7 @@ edited: true
 
 ## The steps
 
-1. **Density.** Place buildings to form living centers throughout the neighborhood. *(Never written up on the original site.)*
+1. **[Density](../3-density/density.md).** Place buildings to form living centers throughout the neighborhood.
 2. **[Building shape](building-shape.md).** Place buildings to form living centers throughout the neighborhood.
 3. **Building volumes.** Shape each building to give it a volume that helps and contributes to the space. *(Never written up on the original site.)*
 4. **Building positions.** Place buildings to form living centers throughout the neighborhood. *(Never written up on the original site.)*
@@ -19,6 +19,8 @@ edited: true
 6. **[House fronts](building-fronts.md).** Place buildings to form the boundary of space.
 
 ## Related unfoldings
+
+*Cross-references added for this edition; the original site did not link these from the phase.*
 
 - [Surveying](../../unfoldings/surveying.md): originally written for the Brookings Generative Master Plan.
 - [Foundations and plinth](../../unfoldings/foundations-and-plinth.md): originally written for the Martinez house, Martinez, California.

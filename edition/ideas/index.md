@@ -37,10 +37,8 @@ When the concepts of life from *The Nature of Order* are applied to neighborhood
 
 ## Elsewhere in this edition
 
-On the main steps page, the subtle human interactions, and the practical technical arrangements that are at the heart of a generative process, are set out in a straightforward manner to ensure that each is covered, and genuine life can be achieved.
-
 - [Creating community](../running-a-project/creating-community.md): creating human community as a necessary and fundamental basis for neighborhood building.
-- [The main steps of work](../running-a-project/main-steps-of-work.md): how to build with generative codes, with an extended overview of the process, from phases of thought, community discussion, generative code, design, planning, building, money and craft, to overall implementation.
+- [The main steps of work](../running-a-project/main-steps-of-work.md): how to build with generative codes, with an extended overview of the process, from phases of thought, community discussion, generative code, design, planning, building, money and craft, to overall implementation. The subtle human interactions, and the practical technical arrangements that are at the heart of a generative process, are set out in a straightforward manner to ensure that each is covered, and genuine life can be achieved.
 - [The library of unfoldings](../unfoldings/index.md): the elements of a generative code that do all the work. They resemble patterns, but their emphasis is on dynamic action-oriented steps by which structure is introduced into the neighborhood, thus giving it shape.
 - [Example neighborhoods](../examples/index.md): plans, discussion, and photographs of places and neighborhoods the authors have built and helped to build, or are working on.
 - [The archive of papers and essays](../library/index.md): recent writings focusing on key theoretical, scientific, and practical aspects of the neighborhood-building process, providing evidence supporting the assertions on this website.

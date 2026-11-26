@@ -11,7 +11,7 @@ edited: true
 
 ## The steps
 
-1. **[Wholeness](everything-arises-from-wholeness.md).** Becoming aware of the deep wholeness which exists in the place.
+1. **[Wholeness](wholeness-structure.md).** Becoming aware of the deep wholeness which exists in the place.
 2. **[Introduction to diagnosis](introduction.md).** Introduce yourself to the idea of diagnosis.
 3. **[The large structure diagram](wholeness-structure.md).** Identify in a single sweep the overall geometric structure of the wholeness.
 4. **[Precious places](precious-places.md), [magic configurations](magic-configurations.md).** In detail, find the places of wonder, and delight, and pin everything on them, and on the process of supporting them and keeping them intact.
@@ -19,11 +19,11 @@ edited: true
 6. **[Centers and latent centers](latent-centers.md).** Identify the places where living centers are present and latent, and capable of growing into some larger whole.
 7. **[Giving accurate positions for all of the above](gps.md).** Take readings from the stakes you have set in the land, to fix their position on your map.
 
+*The original numbers these steps 2.1 to 2.6, using 2.6 twice.*
+
 See also [drawing the diagnosis](drawing-the-diagnosis.md): observing, in the land, the vital structure of the whole, which must be extended, preserved, and repaired.
 
 ## The purpose of this phase
-
-What is the purpose of this phase of work? We establish an overall diagnosis of the area -- buildings, streets, and land -- as the basis for moving forward.
 
 Throughout all the efforts at neighborhood building inspired by this website, we have one over arching purpose -- to maintain the wholeness of the living Earth in the place where we are working. This is a point of view that must be consistently applied to every step of building a neighborhood -- the way we conceeive it, lay it out, and build it physically. The primary task is healing the place and making it whole.
 
@@ -52,7 +52,7 @@ This means, astonishingly, that we always aim to make the place **better** than 
 
 First, to lay a basis for this work, it is necessary to make a sketch of the wholeness structure as it appears throughout the entire neighborhood. This is a way of understanding the largest pattern and structure of the place. It is illustrated and discussed in [Wholeness Structure](wholeness-structure.md).
 
-Next, we need to focus very carefully, on those places or areas where it may be said that there is some measure of wholeness there, glimpses of eternity, visible in the land. All these places need to be singled out and protected, so that we do not mistakenly destroy them. We can identify at least the following: Beautiful views; places that have a deep feeling; places where an ecological system is in good order and should only reluctantly be disturbed; buildings or structures which have the mark of the place in their bones; great trees; small businesses that have built the life of the place before. These are expanded in [Precious Places](precious-places.md) and [Magic Configurations](magic-configurations.md).
+Next, we need to focus very carefully, on those places or areas where it may be said that there is some measure of wholeness there, glimpses of eternity, visible in the land. All these places need to be singled out and protected, so that we do not mistakenly destroy them. We can identify at least the following: Beautiful views; places that have a deep feeling; places where an ecological system is in good order and should only reluctantly be disturbed; buildings or structures which have the mark of the place in their bones; great trees; small businesses that have built the life of the place before. These are expanded in [Precious Places](precious-places.md).
 
 We also need to make a map that identifies all the damaged areas, since in our effort at reconstruction we must **use** these damaged areas as the places where we build new things, and leave the precious places as far as possible intact. See [Repairing Damaged Places](damage-and-repair.md).
 
@@ -61,6 +61,8 @@ Possibly most important as a springboard for the future, we need to search out t
 Finally, in order to use what has been established by the diagnosis, all of the elements described above must be accurately placed on the basemap. Otherwise they may be destroyed accidentally as the plan matures. We are developing a way to use a GPS system to transfer the findings of a diagnosis to the Drawing Pad basemap. Please consult the technique which addresses these things through an [accurate positioning system](gps.md).
 
 ## Related unfoldings
+
+*Cross-references added for this edition; the original site did not link these from the phase.*
 
 - [Topographic survey](../../unfoldings/topographic-survey.md) and [surveying](../../unfoldings/surveying.md): survey drawings and work on the land.
 

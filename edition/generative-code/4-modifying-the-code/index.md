@@ -23,6 +23,8 @@ edited: true
 
 ## Related unfoldings
 
+*Cross-references added for this edition; the original site did not link these from the phase.*
+
 - [Land tenure](../../unfoldings/land-tenure.md): the kind of land tenure that goes with the project.
 - [Zoning](../../unfoldings/zoning.md): an unfolding originally written for a 3 acre site in Charlottesville, Virginia.
 
