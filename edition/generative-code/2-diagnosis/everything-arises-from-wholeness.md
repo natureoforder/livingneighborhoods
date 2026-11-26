@@ -6,8 +6,6 @@ archive_path: "archive/www.livingneighborhoods.org/unfoldings/fromwholeness.htm"
 source_sha256: "2ae2f279a0367fd590e943109a62d319cf9b798403df49ed2f114d1f02c97099"
 ---
 
-Fragment of Generative Code for Neighborhoods
-
 ## From wholeness
 
 **Everything arises from the wholeness of the land and what is there**

@@ -10,8 +10,6 @@ source_sha256: "d7d444da78f83bbd69d513956326689dde97478143d490e85b8d59044310f112
 
 ## The need for generative code
 
-![](../assets/images/noo.gif)
-
 How to make key features of a neighborhood specific to a unique site
 
 let us consider a site for a neighborhood, brownfield or greenfield. And let us say, that one of the elements high on our list of key features, is a neighborhood center (See [key features](key-features-of-a-living-neighborhood.md)). According to typical 20th-century practice, In a contemporary development, a planned neighborhood center (if there is one at all) is very likely to be an artificial thing, that started life as a mark on a piece of tracing paper, or as an area on a CAD file. Not surprisingly this does not have much life, when it is finally built. Let us, instead, consider a generative rule, or rules, which will **generate** the center, tell us where to put it, and tell us how to shape it! For example:

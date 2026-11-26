@@ -6,8 +6,6 @@ archive_path: "archive/www.livingneighborhoods.org/unfoldings/communitydiscussio
 source_sha256: "c5cd42f918c7751eb77cad67f7f6b78813821c353a08a29eb774b0b9a84f0984"
 ---
 
-Fragment of Generative Code for Neighborhoods
-
 ## Community discussion
 
 **Encourage a spirit of community growing from the very first day, with community discussion**

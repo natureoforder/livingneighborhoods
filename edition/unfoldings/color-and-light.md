@@ -6,8 +6,6 @@ archive_path: "archive/www.livingneighborhoods.org/unfoldings/colorandlight.htm"
 source_sha256: "0eea9d1335534c99b05cd6692be489fca60bc0f5009d83b95cc17813d9ce4ef8"
 ---
 
-Fragment of Generative Code for Neighborhoods
-
 ## Color and light
 
 **Seeing the quality and color of light which exists in a particular place, and then conceiving a kind of construction which is harmonious with that light**

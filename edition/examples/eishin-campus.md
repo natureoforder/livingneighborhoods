@@ -1,6 +1,6 @@
 ---
 title: "Eishin campus, Japan"
-description: "This page is dedicated to Hisae Hosoi, Mr."
+description: "The Eishin campus near Tokyo: a school community that wrote its own pattern language, laid out the campus with flags on the land, and built it with Alexander's team managing construction and money."
 source: "https://www.livingneighborhoods.org/ht-0/eishincampus.htm"
 archive_path: "archive/www.livingneighborhoods.org/ht-0/eishincampus.htm"
 source_sha256: "17b374690d6b7cf598220ca2b3b8ecbe29690db20f0f65dfc2e39a3d512608d3"
@@ -8,15 +8,14 @@ merged_from:
   - source: "https://www.livingneighborhoods.org/ht-0/eishincollege.htm"
     archive_path: "archive/www.livingneighborhoods.org/ht-0/eishincollege.htm"
     source_sha256: "65decc8ed6e659fd4588aa305899023a2700b4baa206066fdb8a0a2f78be92ba"
+edited: true
 ---
-
-![](../assets/images/livingneighborhoods-red.jpg)
-
-## Japan, higashino: the eishin campus
 
 This page is dedicated to Hisae Hosoi, Mr. Sakaida, Murakoshi-san, Mr. Nodera, Sumiyoshi-san, Hiro Nakano, Miyoko Tsutsui,and all the other teachers, staff, and students who gave their work and support to the creation of this campus
 
-PROJECT HISTORY Eishin Gakuen, an innovative private high school, was originally located in Musashino-shi, outside Tokyo. They decided to build a new school which was to become a combination high-school and college, on a new site of 9 hectares, once tea bush land, outside Tokyo, in Iruma-shi, Saitama Prefecture.
+## Project history
+
+Eishin Gakuen, an innovative private high school, was originally located in Musashino-shi, outside Tokyo. They decided to build a new school which was to become a combination high-school and college, on a new site of 9 hectares, once tea bush land, outside Tokyo, in Iruma-shi, Saitama Prefecture.
 
 The architectural commission to build this community, came with the explicit insistence, by the managing director of the school, Hisae Hosoi, that he wanted the project to be done under conditions where faculty, staff, and students, were all taking part in the design process. And by this he meant, not the pablum of token "participation" and "charettes" that has become common in the last twenty years, but honest-to-goodness decision making by the people in the school, based on individual and group understanding.
 
@@ -68,7 +67,7 @@ Hosoi, deep in thought.
 
 This is the drawing made after placing of all the flags, as shown in the process at head of this page. These flags were carefully transcribed, by position, from the exact position in the field. These became the basis of the plan, and gave the life to the positions of the buildings as they may be seen in photographs: a rather simple naturalness, which arsies, actually, from careful, careful attention to the land, when placing the flags originally.
 
-Further discussion of the generative code for the eishin campus
+Further discussion of the generative code for the Eishin campus
 
 Final version of the pattern language for the stepwise conception and layout of the Eishin campus 14 pages
 
@@ -76,23 +75,13 @@ Below, the Eishin Campus from the distance, at sunset.
 
 ![](../assets/pics/eishin/sunset.jpg)
 
-## Center for environmental structure
+and
 
-established 1967 and
-
-## Centre for environmental structure, europe
-
-established 2005
-
-## Eishin College
-
-![](../assets/images/livingneighborhoods-red.jpg)
-
-## Japan, the eishin college
+## Eishin College (built two years later)
 
 ![](../assets/pics/eishin/closeup.jpg)
 
-PROJECT HISTORY Two years after the campus was completed, the school authorities began to implement their plan to build college buildings for the beginning of their two-year college program. This new neighborhood was immediately next to the original Eishin campus, and interconnected with it. It is still not finished.
+Two years after the campus was completed, the school authorities began to implement their plan to build college buildings for the beginning of their two-year college program. This new neighborhood was immediately next to the original Eishin campus, and interconnected with it. It is still not finished.
 
 ![](../assets/pics/eishin/greener-college-buildings.jpg)
 
@@ -109,8 +98,6 @@ PROJECT HISTORY Two years after the campus was completed, the school authorities
 ![](../assets/pics/volleyball.jpg)
 
 Students in the college neighborhood
-
-## Project history
 
 ![](../assets/pics/eishin/campus-long-view.jpg)
 
@@ -136,18 +123,10 @@ The pattern language (given under Eishin Campus), was made into a generative cod
 
 - we ourselves undertook the site work directly and managed the process completely
 
-.
-
 Even more important, though, was a unique form of management which we undertook in the overall aspect of the construction works.
 
-More to come on the form of management
+on the form of management
 
-## Center for environmental structure
-
-established 1967 and
-
-## Centre for environmental structure, europe
-
-established 2005
+and
 
 *From* Building Living Neighborhoods *by Christopher Alexander, Maggie Moore Alexander, Randy Schmidt and Nick Littlestone, with Bev Behrman and Howard Davis. © Center for Environmental Structure. [Original page](https://www.livingneighborhoods.org/ht-0/eishincampus.htm).*

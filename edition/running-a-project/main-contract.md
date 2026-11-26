@@ -78,7 +78,7 @@ from the Employer, as long as these decisions do not increase the base price of 
 
 CES-initiated design changes will also be required to contain costs within the agreed base price for the Project.  For example as a result of some unforeseeable problem, or as a result of a potential increase in price due to a previous design change, it will become necessary to make changes in the building to offset the increase.  This is not something that might happen, it is something that will happen.  Although often seen as negative, these types of changes are more often than not positive changes which ultimately result in producing the best building.
 
-CES will confer with the Employer in those design decisions which the Employer has identified as important ahead of time, and before making any major design changes, Nevertheless, in lesser matters, CES has the main commitment and responsibility to "listen" to the emerging building, and to do what is in the best interests of the building. 
+CES will confer with the Employer in those design decisions which the Employer has identified as important ahead of time, and before making any major design changes, Nevertheless, in lesser matters, CES has the main commitment and responsibility to "listen" to the emerging building, and to do what is in the best interests of the building.
 
 ## Article 6. changes not covered by article 5
 
@@ -158,7 +158,7 @@ The basis for payment will be the list of construction operations;  summarised i
 
 The remaining 5% on substantial completion as Article 15. (or on earlier agreed substantial completion by a Sub Contractor).
 
-As each cheque is deposited to the account, CES will withdraw the appropriate amount from the management category (as shown at Appendix 2) to make payment for construction management fees, and regulate interim payments to Sub-Contractors based on progress. 
+As each cheque is deposited to the account, CES will withdraw the appropriate amount from the management category (as shown at Appendix 2) to make payment for construction management fees, and regulate interim payments to Sub-Contractors based on progress.
 
 All records from the project account and all invoices for materials and labour, and all subcontractor's billings will be available for the Employer's review.  CES will provide to the Employer monthly financial statements showing Project chequing account credits and debits; Project expenditure against progress and expenditure commitment and forecasts.
 
@@ -174,7 +174,7 @@ The relationship between CES and the Sub-Contractors shall be a Contractor-Sub-C
 
 The work to be performed under this agreement shall commence within 28 days of the signing of this contract.  The work shall be completed in accordance with a construction programme subject to:
 
-Both the Employer and CES desire to complete the project in 9 months starting from the date of commencement. 
+Both the Employer and CES desire to complete the project in 9 months starting from the date of commencement.
 
 CES will provide the Employer with an estimated construction schedule for the project.  This schedule shall indicate the dates for the starting and completion of the various stages of the construction and shall contain the necessary information to allow the Employer to monitor the progress of the work.  It shall be revised as required by the conditions of the work and those conditions and events which are beyond the control of CES.
 
@@ -196,7 +196,7 @@ Following full completion of the work as defined by the defect and deficiency li
 
 ## Article 16. CES obligation and maintenance period
 
-CES will maintain 5% of the total of all contingency sums, in the Project account, for a period of 6 months after substantial completion.  The money will be spent for repairs and maintenance items which occur after substantial completion and are not provided for through the defect and deficiency list and retentions held on Sub-Contractors.  CES will use the money to fix items that are unsatisfactory to the Employer. 
+CES will maintain 5% of the total of all contingency sums, in the Project account, for a period of 6 months after substantial completion.  The money will be spent for repairs and maintenance items which occur after substantial completion and are not provided for through the defect and deficiency list and retentions held on Sub-Contractors.  CES will use the money to fix items that are unsatisfactory to the Employer.
 
 If 6 months after substantial completion, this money or any part of it remains unspent, CES will use the balance in consultation with the Employer, to make some nice small improvements to the buildings.  CES shall have no further obligation, beyond that covered by this money, for making repairs or improvements on items considered unsatisfactory by the Employer  but CES will make its best efforts to help the Employer enforce the warranties provided by Sub-Contractors.
 

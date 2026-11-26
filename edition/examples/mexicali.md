@@ -1,18 +1,18 @@
 ---
 title: "Mexicali: houses for $3,000"
-description: "PROJECT HISTORY Under the sponsorship of the Governor of Baja California, we built a small community of houses and community buildings."
+description: "Under the sponsorship of the Governor of Baja California, we built a small community of houses and community buildings."
 source: "https://www.livingneighborhoods.org/ht-0/mexicali.htm"
 archive_path: "archive/www.livingneighborhoods.org/ht-0/mexicali.htm"
 source_sha256: "a1cc70a5060ae2469b52bb9f3b93d42c2af4a69e647a5ceb39b2c99103f55bc4"
 ---
 
-![](../assets/images/nbdmaking-red-white.jpg)
-
-## Mexico, the mexicali community
+## Mexico, the Mexicali community
 
 ![](../assets/pics/mexicali/mexicali-layout.jpg)
 
-PROJECT HISTORY Under the sponsorship of the Governor of Baja California, we built a small community of houses and community buildings. The families built their own houses, assisted by students. The construction system and method were new -- designed an invented by us. We ran a small block-making factory on site, using soil-cement instead of raw concrete for the blocks. The vaults were woven baskets of thin lattice strips, with burlap and chicken wire stapled to them, and the shell of the vault then plastered over the top. Each house was different. It was inherent in the construction process, that a family could lay out their own house, as they wished. We then placed stakes at the corners of all rooms, and the construction system, which included special corner blocks, allowed us to build the columns in the positions marked by stakes, then to build the walls between the columns, then stretch the beams and pour them, and then to weave the vault for each room as it fell out naturally.
+## Project history
+
+Under the sponsorship of the Governor of Baja California, we built a small community of houses and community buildings. The families built their own houses, assisted by students. The construction system and method were new -- designed an invented by us. We ran a small block-making factory on site, using soil-cement instead of raw concrete for the blocks. The vaults were woven baskets of thin lattice strips, with burlap and chicken wire stapled to them, and the shell of the vault then plastered over the top. Each house was different. It was inherent in the construction process, that a family could lay out their own house, as they wished. We then placed stakes at the corners of all rooms, and the construction system, which included special corner blocks, allowed us to build the columns in the positions marked by stakes, then to build the walls between the columns, then stretch the beams and pour them, and then to weave the vault for each room as it fell out naturally.
 
 People and places in the mexcali community
 
@@ -50,7 +50,7 @@ Inside some of the houses
 
 ## A generative code for construction
 
-A code for the construction process of the mexicali buildings
+A code for the construction process of the Mexicali buildings
 
 The beauty of this construction code, is that it does not merely constrain construction (as a normal building code does). Instead it provides the step-by-step instructions for building the building, not unlike the step-by-step instructions for putting up a tent. But the typical instructions for a tent only work when applied to one particular tent design.**The purpose of generative construction code goes far beyond this. The remarkable thing about this kind of generative code, is that it does NOT require a prefixed design.** As each family lays out their house in chalk -- see picture at the top of this page -- they are then able to generate their house form as they build it, by following the construction steps in order. The result of this procedure is that each house comes out unique, simply as a result of the interaction between the unique house plan, sketched out in chalk on the ground, and the construction operations -- which will then generate a coherent building.
 
@@ -108,12 +108,6 @@ A more complete description of this generative code for the community in Mexical
 
 ![](../assets/pics/mexicali/lowcost-mexicali.jpg)
 
-## Center for environmental structure
-
-established 1967 and
-
-## Centre for environmental structure, europe
-
-established 2005
+and
 
 *From* Building Living Neighborhoods *by Christopher Alexander, Maggie Moore Alexander, Randy Schmidt and Nick Littlestone, with Bev Behrman and Howard Davis. © Center for Environmental Structure. [Original page](https://www.livingneighborhoods.org/ht-0/mexicali.htm).*

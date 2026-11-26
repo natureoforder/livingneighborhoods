@@ -6,8 +6,6 @@ archive_path: "archive/www.livingneighborhoods.org/unfoldings/carpositions.htm"
 source_sha256: "4ee040469558488d02a87626998b599699f3a39a269e5e0a1f3a1159fb639e0d"
 ---
 
-Fragment of Generative Code for Neighborhoods
-
 ## Car positions
 
 **Spatial distribution of cars within the neighborhood**

@@ -6,11 +6,7 @@ archive_path: "archive/www.livingneighborhoods.org/ht-0/wholeness.htm"
 source_sha256: "fddb10885d0f1e31df5bad6335188559745bff59765a6507015b39f75b74dfee"
 ---
 
-![](../assets/pics/white.jpg)
-
 ***Building Living Neighborhoods***
-
-![](../assets/images/noonew5-r.jpg)
 
 ## Wholeness
 

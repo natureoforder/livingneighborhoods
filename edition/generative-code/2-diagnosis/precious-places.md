@@ -8,35 +8,21 @@ source_sha256: "efa780b83c6626b5d67ff3e4333ebcc4f5a1e4de49cc5a798e47d7c2a880fb84
 
 ![](../../assets/actions/pics/diagnosis/ricefields-words.jpg)
 
-![](../../assets/drawing-pad/buttons/pencil-button.jpg)
-
 This unfolding needs you to DRAW. After reading and thinking (on the land), go to the DRAWPAD. Link is at bottom of page.
-
-![](../../assets/drawing-pad/buttons/pencil-button.jpg)
 
 ![](../../assets/actions/pics/diagnosis/hillock.jpg)
 
 A center to be preserved
 
-![](../../assets/actions/pics/diagnosis/codys.jpg)
+![](../../assets/actions/pics/diagnosis/codys.jpg) How can this site be developed and keep the painting on the wall?
 
-How can this site be developed and keep the painting on the wall?
+![](../../assets/actions/pics/people/maggiesophie-inthesnow.jpg) Walking the land
 
-![](../../assets/actions/pics/people/maggiesophie-inthesnow.jpg)
+![](../../assets/actions/pics/people/listening-to-oneanother.jpg) Looking for precious places, and comparing lists
 
-Walking the land
+![](../../assets/actions/pics/people/looking3.jpg) Looking at the land together
 
-![](../../assets/actions/pics/people/listening-to-oneanother.jpg)
-
-Looking for precious places, and comparing lists
-
-![](../../assets/actions/pics/people/looking3.jpg)
-
-Looking at the land together
-
-![](../../assets/actions/pics/people/working.jpg)
-
-Working together
+![](../../assets/actions/pics/people/working.jpg) Working together
 
 ## Protecting the land for ever
 

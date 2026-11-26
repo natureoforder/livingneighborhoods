@@ -6,19 +6,11 @@ archive_path: "archive/www.livingneighborhoods.org/ht-0/libraryofunfoldings.htm"
 source_sha256: "d573c1c9d4c7b0d9bd4cf60f69c62bddf885c453cc1af38a8877b26a1117986c"
 ---
 
-![](../assets/pics/white.jpg)
-
-![](../assets/images/bln-blue-livingneighborhoods.jpg)
-
-![](../assets/images/bln-blue-theory-background.jpg)
-
 [What is an Unfolding?](what-is-an-unfolding.md)
 
 [jump](#jump)
 
 ## Library of unfoldings in progress
-
-![](../assets/images/noo.gif)
 
 Re-usable packets and fragments of generative code for use in your own projects
 
@@ -40,23 +32,23 @@ The library follows:
 
 0  **General principles of morphogenesis** This packet is the foundation on which everything else rests.
 
-0.1 
+0.1
 
 [Becoming aware of wholeness](../generative-code/2-diagnosis/wholeness-structure.md)
 
-0.2 
+0.2
 
 [Everything arises from the wholeness of the land](../generative-code/2-diagnosis/everything-arises-from-wholeness.md)
 
-0.3 
+0.3
 
 Apply wholeness-extending transformations whenever you can
 
-0.4 
+0.4
 
 [Do unfoldings in the order they must be done](the-order-of-things.md)
 
-0.5 
+0.5
 
 [Recursion: Each unfolding may be visited and used many times, and at many scales](recursion.md)
 
@@ -64,43 +56,43 @@ Apply wholeness-extending transformations whenever you can
 
 1  **Allow a Vision to Unfold in your Imagination** This packet provides some of the unfolding processes needed for people to learn to see their own vision of the neighborhood
 
-1.1 
+1.1
 
 [Your vision of the neighborhood](../generative-code/1-startup-and-vision/vision.md)
 
-1.2 
+1.2
 
 [Statistics: Set some numbers to make it concrete](../generative-code/1-startup-and-vision/parameters.md)
 
-1.3 
+1.3
 
 [Encourage a spirit of community growing from day one, through community discussion](community-discussion.md)
 
-1.4 
+1.4
 
 [Form a first written vision of the neighborhood with a rough and ready pattern language](../generative-code/1-startup-and-vision/poetic-pattern-language.md)
 
-1.5 
+1.5
 
-[Identify the main types of entities that will be most important establishing this vision](../generative-code/3-modifying-the-code/entities.md)
+[Identify the main types of entities that will be most important establishing this vision](../generative-code/4-modifying-the-code/entities.md)
 
 ## \*\*\*\*\*\*\*\*\*packet-2\*\*\*\*\*\*\*\*\*\*\*
 
 2  **Diagnosis: drawing the beginnings of coherent form from the latent centers in the land** This packet unfolds a skeleton structure from the land, by strengthening the latent centers that exist there
 
-2.1 
+2.1
 
 [Diagnosis: Extracting that vital structure of wholeness which must be extended, preserved, and repaired](../generative-code/2-diagnosis/introduction.md)
 
-2.2 
+2.2
 
 [Identifying magic configurations that are already in the place](../generative-code/2-diagnosis/magic-configurations.md)
 
-2.3 
+2.3
 
 [Topographic survey of the land](topographic-survey.md)
 
-2.4 
+2.4
 
 Protecting trees and plants
 
@@ -108,27 +100,27 @@ Protecting trees and plants
 
 3  **Unfolding the pedestrian structure of the neighborhood** This packet contains the steps needed to unfold the pedestrian spaces, squares, and paths
 
-3.1 
+3.1
 
 [Unfolding the main center of the neighborhood](../generative-code/5-public-spaces/main-center.md)
 
-3.2 
+3.2
 
-[Finding and establishing other key pedestrian centers in the neighborhood (if within a green-field site)](../generative-code/5-public-spaces/pedestrian-centers.md)
+[Finding and establishing other key pedestrian centers in the neighborhood (if within a green-field site)](../generative-code/5-public-spaces/pedestrians-first.md)
 
-3.3 
+3.3
 
-[Finding and establishing pedestrian centers in the neighborhood (if within an urban or brown field setting)](../generative-code/5-public-spaces/pedestrian-centers.md)
+[Finding and establishing pedestrian centers in the neighborhood (if within an urban or brown field setting)](../generative-code/5-public-spaces/pedestrians-first.md)
 
-3.4 
+3.4
 
 [Positive space: making every piece of every part of outdoor space well-shaped and positive](../generative-code/5-public-spaces/positive-space.md)
 
-3.5 
+3.5
 
 [Recursive positive space rule](../generative-code/5-public-spaces/recursive-positive-space.md)
 
-3.6 
+3.6
 
 Shaping each public space while standing on the land, according to deep feeling
 
@@ -136,11 +128,11 @@ Shaping each public space while standing on the land, according to deep feeling
 
 4  **Placing Buildings to form living Centers** This packet contains the key steps needed to make buildings generate positive space, and thus create a living spatial background for the neighborhood
 
-4.1 
+4.1
 
 The main job of the buildings is to generate the beautiful and positive space of the neighborhood
 
-4.2 
+4.2
 
 Shape each pedestrian center that has been identified, by placing buildings to form its boundary, and intensify it geometrically.
 
@@ -148,11 +140,11 @@ Shape each pedestrian center that has been identified, by placing buildings to f
 
 5  **Land Tenure and Preparing to Plan** This packet contains certain steps needed to provide background legal structure to the neighborhood
 
-5.1 
+5.1
 
 [Alternative forms of land tenure arising from the nature of a neighborhood](land-tenure.md)
 
-5.2 
+5.2
 
 [Getting a grasp of local zoning and city requirements](zoning.md)
 
@@ -160,11 +152,11 @@ Shape each pedestrian center that has been identified, by placing buildings to f
 
 6  **Cars and Parking** This packet provides a more subtle approach to the placing of cars, parking, and roads, which leaves the environment more pedestrian friendly
 
-6.1 
+6.1
 
 [Select positions for cars and roads](car-positions.md)
 
-6.2 
+6.2
 
 Cars, parking, and driveways are given their positions only **AFTER** houses and gardens and pedestrian spaces are already settled
 
@@ -172,23 +164,23 @@ Cars, parking, and driveways are given their positions only **AFTER** houses and
 
 7  **House positions** This packet provides essential background and rules of behavior for the siting of houses and apartments, going deep to correct the current malaise of present house layout in cookie-cutter neighborhoods
 
-7.1 
+7.1
 
 The lot structure in a neighborhood is of huge importance in shaping genuine community
 
-7.2 
+7.2
 
 [Place house fronts so as to generate positive space in the space between the houses, whether that is street, or path, or park, or garden.](../generative-code/6-building-volumes/building-fronts.md)
 
-7.3 
+7.3
 
 Identify the subtle and framed views: Look toward view, toward downslope, toward the sun.
 
-7.4 
+7.4
 
 Garden positions must unfold before house positions
 
-7.5 
+7.5
 
 If possible, place and build houses gradually -- one by one -- over time
 
@@ -196,11 +188,11 @@ If possible, place and build houses gradually -- one by one -- over time
 
 8  **Individual House Design** This packet provides for the generic qualities of houses and flats as they impact the neighborhood
 
-8.1 
+8.1
 
 [Unfolding color and light with respect to place](color-and-light.md)
 
-8.2 
+8.2
 
 Choosing materials from the place which will make houses harmonious with the place
 
@@ -208,11 +200,11 @@ Choosing materials from the place which will make houses harmonious with the pla
 
 9  **Who Does What?** This packet deals with uniqueness and belonging -- the way that each dwelling is unique to a family, or person, or group of people
 
-9.1 
+9.1
 
 [Who should design each dwelling?](who-designs.md)
 
-9.2 
+9.2
 
 What are the practical ways in which individuality and pride of possession can be made to coexist with a modern layout and productions process?
 
@@ -220,7 +212,7 @@ What are the practical ways in which individuality and pride of possession can b
 
 10  **The Construction Process** This packet deals with the interlocking of construction, evaluation, design, and modification, then moving forward with further construction -- as the normal (and necessary) way to build.
 
-10.1 
+10.1
 
 [Fitting the foundations to the land, by hand](foundations-and-plinth.md)
 
@@ -228,11 +220,11 @@ What are the practical ways in which individuality and pride of possession can b
 
 15  **New building contracts** This packet contains new types of construction contracts that will allow, and are consistent with unfolding
 
-15.1 
+15.1
 
 [Fixed price contract, with management powers and flexible modification during construction, all built in thus allowing unfolding to occur](../running-a-project/main-contract.md)
 
-15.2 
+15.2
 
 Craftsman's contract, with the same provisions for fixed price combined with flexible management allowing unfolding to occur
 
@@ -240,7 +232,7 @@ Craftsman's contract, with the same provisions for fixed price combined with fle
 
 20  **New methods of Surveying** This packet contains a radical innovation in the placing of buildings and building footprints on the ground
 
-20.1 
+20.1
 
 [Surveying method in which stakes are first placed intuitively by members of the community, and surveying follows](surveying.md)
 
@@ -248,7 +240,7 @@ Craftsman's contract, with the same provisions for fixed price combined with fle
 
 25  **New methods of Cost Control** This packet contains innovations in the dynamic control of cost, within a fixed price framework
 
-25.1 
+25.1
 
 Cost control method which keeps price fixed, and modifies design dynamically, to make best use of available funds
 

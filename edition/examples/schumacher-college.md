@@ -6,9 +6,7 @@ archive_path: "archive/www.livingneighborhoods.org/ht-0/schumacher.htm"
 source_sha256: "6c92e68ca366264d8f6a12a2fc7d0fb8d7e46e6027b82b9a9d28094ae67254fe"
 ---
 
-![](../assets/images/nbdmaking-red-white.jpg)
-
-## England, schumacher college extension
+## England, Schumacher College extension
 
 Comparison of the results of two different methods for the same neighborhood
 
@@ -136,12 +134,6 @@ That is, I believe, a direct result of the approach used to produce the design. 
 
 A living result of morphogenesis A design made through a process which allows each step, slowly, slowly, to preserve the existing whole, and create something that fits into, and enhances, and makes precious, the existing land
 
-## Center for environmental structure
-
-established 1967 and
-
-## Centre for environmental structure, europe
-
-established 2005
+and
 
 *From* Building Living Neighborhoods *by Christopher Alexander, Maggie Moore Alexander, Randy Schmidt and Nick Littlestone, with Bev Behrman and Howard Davis. © Center for Environmental Structure. [Original page](https://www.livingneighborhoods.org/ht-0/schumacher.htm).*

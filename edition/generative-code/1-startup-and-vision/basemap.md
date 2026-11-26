@@ -12,27 +12,17 @@ merged_from:
 
 ![](../../assets/actions/pics/mapmaking/liffey650rs-words.jpg)
 
-![](../../assets/drawing-pad/buttons/pencil-button.jpg)
-
 This unfolding needs you to DRAW. After reading and thinking about your best course of action, go to the DRAWPAD. Link is at bottom of page.
 
-![](../../assets/drawing-pad/buttons/pencil-button.jpg)
-
-![](../../assets/actions/pics/mapmaking/dartington.jpg)
-
-Example 1: An aerial photo downloaded from the web
+![](../../assets/actions/pics/mapmaking/dartington.jpg) Example 1: An aerial photo downloaded from the web
 
 ![](../../assets/actions/pics/mapmaking/virginia-siteplan.jpg)
 
 Example 2: A map sketched by a client
 
-![](../../assets/actions/pics/mapmaking/shorashim.jpg)
+![](../../assets/actions/pics/mapmaking/shorashim.jpg) Example 3: A base map made professionally by a surveyor
 
-Example 3: A base map made professionally by a surveyor
-
-![](../../assets/actions/pics/mapmaking/nicksplacemed.jpg)
-
-Example 4: A more elaborate base map consisting of an aerial photo with portions of an ordinance survey superimposed upon it.
+![](../../assets/actions/pics/mapmaking/nicksplacemed.jpg) Example 4: A more elaborate base map consisting of an aerial photo with portions of an ordinance survey superimposed upon it.
 
 ## Why you need a base map
 
@@ -142,21 +132,13 @@ A person who knows their way around computers, can easily make a more complex ba
 
 ![a hand-drawn site plan](../../assets/actions/pics/mapmaking/liffey-words.jpg)
 
-![](../../assets/actions/pics/mapmaking/virginia-siteplan.jpg)
+![](../../assets/actions/pics/mapmaking/virginia-siteplan.jpg) Example 1: A hand-drawn base map
 
-Example 1: A hand-drawn base map
+![](../../assets/actions/pics/mapmaking/dartington.jpg) Example 2: A base map downloaded from the web
 
-![](../../assets/actions/pics/mapmaking/dartington.jpg)
+![](../../assets/actions/pics/mapmaking/shorashim.jpg) Example 3: A base map made by a surveyor
 
-Example 2: A base map downloaded from the web
-
-![](../../assets/actions/pics/mapmaking/shorashim.jpg)
-
-Example 3: A base map made by a surveyor
-
-![](../../assets/actions/pics/mapmaking/nicksplacemed.jpg)
-
-Example 4: A more elaborate base map made by one of our clients
+![](../../assets/actions/pics/mapmaking/nicksplacemed.jpg) Example 4: A more elaborate base map made by one of our clients
 
 ## Why you need a base map
 

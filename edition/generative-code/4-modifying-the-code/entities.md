@@ -88,6 +88,6 @@ This example gives an idea of the vital role which generic centers can play in c
 
 ---
 
-↑ [Phase 3: Modifying the code](index.md) · → [The baseline code](baseline-code.md)
+↑ [Phase 4: Modifying the code](index.md) · → [The baseline code](baseline-code.md)
 
 *From* Building Living Neighborhoods *by Christopher Alexander, Maggie Moore Alexander, Randy Schmidt and Nick Littlestone, with Bev Behrman and Howard Davis. © Center for Environmental Structure. [Original page](https://www.livingneighborhoods.org/actions/entities.htm).*

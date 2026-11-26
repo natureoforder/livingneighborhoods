@@ -44,6 +44,6 @@ If you follow these rules, it will give the place you are making, an altogether 
 
 ---
 
-← [The genetics of a generative code](genetics.md) · ↑ [Phase 3: Modifying the code](index.md) · → [Writing a generative code](writing-a-generative-code.md)
+← [The genetics of a generative code](genetics.md) · ↑ [Phase 4: Modifying the code](index.md) · → [Writing a generative code](writing-a-generative-code.md)
 
 *From* Building Living Neighborhoods *by Christopher Alexander, Maggie Moore Alexander, Randy Schmidt and Nick Littlestone, with Bev Behrman and Howard Davis. © Center for Environmental Structure. [Original page](https://www.livingneighborhoods.org/actions/culture.htm).*

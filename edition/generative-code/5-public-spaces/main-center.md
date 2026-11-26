@@ -52,6 +52,6 @@ And that is where a lasting sense of unity and harmony within the neighborhood c
 
 ---
 
-← [Pedestrians come first](pedestrians-first.md) · ↑ [Phase 5: Public spaces](index.md) · → [Other pedestrian centers](pedestrian-centers.md)
+← [Pedestrians come first](pedestrians-first.md) · ↑ [Phase 5: Public spaces](index.md) · → [Positive space](positive-space.md)
 
 *From* Building Living Neighborhoods *by Christopher Alexander, Maggie Moore Alexander, Randy Schmidt and Nick Littlestone, with Bev Behrman and Howard Davis. © Center for Environmental Structure. [Original page](https://www.livingneighborhoods.org/actions/maincenter.htm).*

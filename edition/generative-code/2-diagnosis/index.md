@@ -6,8 +6,6 @@ archive_path: "archive/www.livingneighborhoods.org/packets/diagnosis-phase.htm"
 source_sha256: "e507fd4ed3730ae225a0345e162e756812f2b3438f4e2f07806e4476b582f196"
 ---
 
-![](../../assets/pics/white.jpg)
-
 ***Section Two***
 
 ## Second phase of unfolding
@@ -16,43 +14,43 @@ source_sha256: "e507fd4ed3730ae225a0345e162e756812f2b3438f4e2f07806e4476b582f196
 
 Section 2 Diagnosis of the Land Looking for what the land tells you, so the new neighborhood can grow naturally from its surroundings
 
-2.1 
+2.1
 
 ## Wholeness
 
 Becoming aware of the deep wholeness which exists in the place.
 
-2.2 
+2.2
 
 ## Introduction to diagnosis
 
 Introduce yourself to the idea of diagnosis.
 
-2.3 
+2.3
 
 ## The large structure diagram
 
 Identify in a single sweep the overall geometric structure of the wholeness.
 
-2.4 
+2.4
 
 ## Precious places, magic configurations
 
 In detail, find the places of wonder, and delight, and pin everything on them, and on the process of supporting them and keeping them intact.
 
-2.5 
+2.5
 
 ## Repairing damaged space
 
 Identify damaged places which urgently need repair.
 
-2.6 
+2.6
 
 ## Centers & latent centers
 
 Identify the places where living centers are present and latent, and capable of growing into some larger whole
 
-2.6 
+2.6
 
 ## Giving accurate positions for all of the above
 

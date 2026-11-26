@@ -168,7 +168,7 @@ Courtesy of www.natureoforder.com
 
 xxxxxxxx
 
-More to come on the remainder of the fifteen properties, with discussions of the ways they may most helpfully make their appearance and give life to a neighborhood
+on the remainder of the fifteen properties, with discussions of the ways they may most helpfully make their appearance and give life to a neighborhood
 
 7\. Local Symmetries
 
@@ -238,7 +238,9 @@ xxxxxxxx
 
 ![](../assets/pics/fifteen/simplicity-weird.jpg)
 
-NOVA SCOTIA   Courtesy of www.natureoforder.com
+## Nova scotia
+
+Courtesy of www.natureoforder.com
 
 xxxxxxxx
 

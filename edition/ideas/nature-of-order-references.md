@@ -58,8 +58,6 @@ merged_from:
 
 ## The nature of order
 
-![](../assets/images/noo.gif)
-
 Under each index heading, references identify **volume** of *The Nature of Order*, and **chapter** in that volume. When you click, you will find a more detailed summary of the issues raised on that topic, chapter by chapter. For example I-8   means Book I, chapter 8, and so on.
 
 ## A thousand beings
@@ -176,7 +174,7 @@ Pages 341-68: Obtaining detailed information from individiaul members of the com
 
 Working References to Explanations and Examples in Nature of Order
 
-## Topic the eishin process
+## Topic the Eishin process
 
 ## Book 1
 

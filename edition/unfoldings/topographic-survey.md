@@ -6,8 +6,6 @@ archive_path: "archive/www.livingneighborhoods.org/unfoldings/toposurvey.htm"
 source_sha256: "2715a927efa3443f4de2061c8e37f9b2b2fbea4eb67d3ee147f2be31d96a0353"
 ---
 
-Fragment of Generative Code for Neighborhoods
-
 ## Topographic survey
 
 **Topographic survey of the land**

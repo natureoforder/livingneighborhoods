@@ -6,8 +6,6 @@ archive_path: "archive/www.livingneighborhoods.org/library/writing-generative-co
 source_sha256: "7ba0285ecc106ea78fb0e6a1668b7aa678619b2afa8fec9524a7c9ff58c0f760"
 ---
 
-![](../../assets/images/noo.gif)
-
 Writing Generative Codes
 
 Generative codes have a different form and format than other building codes that are widely used today. And each neighborhood will have a code that is unique to its land formation, purpose, inhabitants, etc. However, it is likely that the process of writing generative codes that support the unique unfolding of a particular place will begin in a similar way: gradually identifying the naturally occurring centers in the land and the built structures that are already there.
@@ -90,6 +88,6 @@ Thus, the future actions of development, once the neighborhood, and the town to 
 
 ---
 
-← [Local and cultural patterns](local-and-cultural-patterns.md) · ↑ [Phase 3: Modifying the code](index.md)
+← [Local and cultural patterns](local-and-cultural-patterns.md) · ↑ [Phase 4: Modifying the code](index.md)
 
 *From* Building Living Neighborhoods *by Christopher Alexander, Maggie Moore Alexander, Randy Schmidt and Nick Littlestone, with Bev Behrman and Howard Davis. © Center for Environmental Structure. [Original page](https://www.livingneighborhoods.org/library/writing-generative-code.htm).*

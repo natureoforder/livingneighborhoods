@@ -64,17 +64,17 @@ MAP = {
     "actions/gps.htm": (P, f"{GC}/2-diagnosis/gps", ""),
     "unfoldings/fromwholeness.htm": (P, f"{GC}/2-diagnosis/everything-arises-from-wholeness", ""),
 
-    # phase 3: modifying the code
-    "packets/code-phase.htm": (P, f"{GC}/3-modifying-the-code/index", ""),
-    "actions/entities.htm": (P, f"{GC}/3-modifying-the-code/entities", ""),
-    "unfoldings/entities.htm": (D, f"{GC}/3-modifying-the-code/entities", "Library of Unfoldings version"),
-    "actions/baselinecode.htm": (P, f"{GC}/3-modifying-the-code/baseline-code", ""),
-    "actions/genetics.htm": (P, f"{GC}/3-modifying-the-code/genetics", ""),
-    "actions/culture.htm": (P, f"{GC}/3-modifying-the-code/local-and-cultural-patterns", ""),
+    # phase 3: density
+    "packets/density-phase.htm": (P, f"{GC}/3-density/index", ""),
+    "actions/density.htm": (P, f"{GC}/3-density/density", ""),
 
-    # phase 4: density
-    "packets/density-phase.htm": (P, f"{GC}/4-density/index", ""),
-    "actions/density.htm": (P, f"{GC}/4-density/density", ""),
+    # phase 4: modifying the code
+    "packets/code-phase.htm": (P, f"{GC}/4-modifying-the-code/index", ""),
+    "actions/entities.htm": (P, f"{GC}/4-modifying-the-code/entities", ""),
+    "unfoldings/entities.htm": (D, f"{GC}/4-modifying-the-code/entities", "Library of Unfoldings version"),
+    "actions/baselinecode.htm": (P, f"{GC}/4-modifying-the-code/baseline-code", ""),
+    "actions/genetics.htm": (P, f"{GC}/4-modifying-the-code/genetics", ""),
+    "actions/culture.htm": (P, f"{GC}/4-modifying-the-code/local-and-cultural-patterns", ""),
 
     # phase 5: public spaces
     "packets/publicspaces-phase.htm": (P, f"{GC}/5-public-spaces/index", ""),
@@ -83,9 +83,9 @@ MAP = {
     "actions/maincenter.htm": (P, f"{GC}/5-public-spaces/main-center", ""),
     "unfoldings/maincenter.htm": (D, f"{GC}/5-public-spaces/main-center", "Library of Unfoldings version"),
     "library/three-rules.htm": (D, f"{GC}/5-public-spaces/main-center", "same text under another title"),
-    "actions/pedestriancenters.htm": (P, f"{GC}/5-public-spaces/pedestrian-centers", ""),
-    "unfoldings/pedestriancenters.htm": (D, f"{GC}/5-public-spaces/pedestrian-centers", "Library of Unfoldings version"),
-    "unfoldings/pedestriancenters-urban.htm": (M, f"{GC}/5-public-spaces/pedestrian-centers", "urban or brownfield variant"),
+    "actions/pedestriancenters.htm": (D, f"{GC}/5-public-spaces/pedestrians-first", "same text: the step list calls this step 'Pedestrian centers'"),
+    "unfoldings/pedestriancenters.htm": (D, f"{GC}/5-public-spaces/pedestrians-first", "Library of Unfoldings version"),
+    "unfoldings/pedestriancenters-urban.htm": (M, f"{GC}/5-public-spaces/pedestrians-first", "In an urban or brownfield setting"),
     "actions/positivespace.htm": (P, f"{GC}/5-public-spaces/positive-space", ""),
     "unfoldings/positivespace.htm": (M, f"{GC}/5-public-spaces/positive-space", "Library of Unfoldings version, longer"),
     "actions/recursivepositivespace.htm": (P, f"{GC}/5-public-spaces/recursive-positive-space", ""),
@@ -133,7 +133,7 @@ MAP = {
     "library/construction-organisation.htm": (P, "running-a-project/construction-organisation", ""),
     "library/conversations/intro.htm": (P, "running-a-project/conversations", ""),
     "library/conversations/sustainability.htm": (P, "running-a-project/conversation-on-sustainability", "December 2003"),
-    "library/writing-generative-code.htm": (P, f"{GC}/3-modifying-the-code/writing-a-generative-code", ""),
+    "library/writing-generative-code.htm": (P, f"{GC}/4-modifying-the-code/writing-a-generative-code", ""),
 
     # ---- tools: workbook and drawing pad
     "ht-0/workbook.htm": (P, "tools/workbook", ""),

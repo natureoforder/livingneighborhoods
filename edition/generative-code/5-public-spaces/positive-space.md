@@ -64,8 +64,6 @@ You may find additional functional discussion of *Positive Outdoor Space* in *A 
 
 ## Library of Unfoldings version, longer
 
-Fragment of Generative Code for Neighborhoods
-
 ## Positive space
 
 **Making a place positive, one step at a time**
@@ -126,6 +124,6 @@ St Mark’s Square seen from the water
 
 ---
 
-← [Other pedestrian centers](pedestrian-centers.md) · ↑ [Phase 5: Public spaces](index.md) · → [Recursive positive space](recursive-positive-space.md)
+← [The main center of the neighborhood](main-center.md) · ↑ [Phase 5: Public spaces](index.md) · → [Recursive positive space](recursive-positive-space.md)
 
 *From* Building Living Neighborhoods *by Christopher Alexander, Maggie Moore Alexander, Randy Schmidt and Nick Littlestone, with Bev Behrman and Howard Davis. © Center for Environmental Structure. [Original page](https://www.livingneighborhoods.org/actions/positivespace.htm).*

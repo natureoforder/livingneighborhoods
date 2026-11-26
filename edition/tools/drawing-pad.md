@@ -16,11 +16,7 @@ merged_from:
     source_sha256: "45452f18cd268de6a5c1a5c6d1a513dd4b289dcc67cf2bb6b6f03fdb610c675e"
 ---
 
-![](../assets/pics/white.jpg)
-
 ***Building Living Neighborhoods***
-
-![](../assets/images/noonew5-g.jpg)
 
 Coming soon: not yet fully operational
 
@@ -41,10 +37,6 @@ As you develop each "layer" on the drawing pad, print it, and include it in your
 With practice, we hope this will enable you, gradually, to bring the whole to a harmonious order.
 
 ## Instructions
-
-![](../assets/pics/white.jpg)
-
-![](../assets/images/noonew5-g.jpg)
 
 The unfolding process happens:
 
@@ -134,32 +126,6 @@ project name
 
 **To edit the step list right click the steps or the layer. This will give you options that allow you to edit the list, rename them, create them, and move items,**
 
-![move drawing across the screen](../assets/drawing-pad/buttons/lynx-hand.jpg)
-
-![zoom + to enlarge](../assets/drawing-pad/buttons/lynx-zoomplus.jpg)
-
-![zoom + to enlarge](../assets/drawing-pad/buttons/lynx-zoomminus.jpg)
-
-![select color for pen or fill or text](../assets/drawing-pad/buttons/lynx-color2.jpg)
-
-![this is the currently selected color](../assets/drawing-pad/buttons/color-light-whitering4.gif)
-
-![set line thickness](../assets/drawing-pad/buttons/lynx-thickness.jpg)
-
-![start to draw](../assets/drawing-pad/buttons/lynx-pencil2.jpg)
-
-![fill with selected color](../assets/drawing-pad/buttons/lynx-lasso.jpg)
-
-![type statement at cursor](../assets/drawing-pad/buttons/text-button.jpg)
-
-![erase](../assets/drawing-pad/buttons/lynx-erase.jpg)
-
-![check and repair positive space in the selected area](../assets/drawing-pad/buttons/positive-space.jpg)
-
-![undo the previous act](../assets/drawing-pad/buttons/lynx-undo.jpg)
-
-![redo the undo](../assets/drawing-pad/buttons/lynx-redo.jpg)
-
 project
 
 project file
@@ -172,7 +138,9 @@ current map width in feet
 
 BASEMAP   First find an aerial photograph of the area where the future neighborhood will be. You can get it from many sources, save it as a jpg in your file for the project. It is the reality of this photograph, with trees, water, roads, buildings, that will make it possible to conceive a place that grows naturally from the details of the land itself.
 
-BASEMAP CORRECTIONS   Now improve the detail of the background map to include details and dimensions that are important, or that will be important to have in exactly the right place during the unfolding. You can draw this on a separate layer, and continue to improve these details, while your overall process goes forward.
+## Basemap corrections
+
+Now improve the detail of the background map to include details and dimensions that are important, or that will be important to have in exactly the right place during the unfolding. You can draw this on a separate layer, and continue to improve these details, while your overall process goes forward.
 
 DIAGNOSIS   Now look for places, all over the neighborhood area, where beautiful things need to be protected and enhanced, and bad places where improvements need to be made. Draw these in, on this map layer. The places you identify and draw on the maplayer, should be in the following categories:
 
@@ -184,6 +152,8 @@ Places where latent centers exist, that have the potential for being made more b
 
 WHOLENESS   Try to make a diagram which captures the most important pattern or wholeness of the place: a structure which comes from that place, is of that place, and embraces the whole extent of the neighborhood.
 
-MAIN CENTER   Find the main center of the neighborhood: that place in the land, or among the existing built places, which is the most natural and magnetic center, which will have the quality that people in the neighborhood will be drawn to it, and without thinking, will go there all the time.
+## Main center
+
+Find the main center of the neighborhood: that place in the land, or among the existing built places, which is the most natural and magnetic center, which will have the quality that people in the neighborhood will be drawn to it, and without thinking, will go there all the time.
 
 *From* Building Living Neighborhoods *by Christopher Alexander, Maggie Moore Alexander, Randy Schmidt and Nick Littlestone, with Bev Behrman and Howard Davis. © Center for Environmental Structure. [Original page](https://www.livingneighborhoods.org/drawing-pad/intro.htm).*

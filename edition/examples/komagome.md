@@ -6,11 +6,7 @@ archive_path: "archive/www.livingneighborhoods.org/ht-0/emoto.htm"
 source_sha256: "802f5c3468915a459b34f5b82c63bdc2df8bd7656c63eff59443d671bfb19138"
 ---
 
-![](../assets/images/livingneighborhoods-red.jpg)
-
-## Japan komagome district
-
-![](../assets/images/noo.gif)
+## Japan Komagome district
 
 ## Project history
 
@@ -42,12 +38,6 @@ Further discussion of the generative code for this project
 
 [Read on screen](../assets/library/emotopages-b3-chapt-5.pdf) [Download and Print](../assets/library/emotopages-b3-chapt-5.pdf)
 
-## Center for environmental structure
-
-established 1967 and
-
-## Centre for environmental structure, europe
-
-established 2005
+and
 
 *From* Building Living Neighborhoods *by Christopher Alexander, Maggie Moore Alexander, Randy Schmidt and Nick Littlestone, with Bev Behrman and Howard Davis. © Center for Environmental Structure. [Original page](https://www.livingneighborhoods.org/ht-0/emoto.htm).*

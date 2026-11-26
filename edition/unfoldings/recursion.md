@@ -6,8 +6,6 @@ archive_path: "archive/www.livingneighborhoods.org/unfoldings/recursion.htm"
 source_sha256: "9d11052d7b3c6f77e452151bc3fe3b3cbe401e41e3744c2425501ad1305ed229"
 ---
 
-Fragment of Generative Code for Neighborhoods
-
 ## Recursion
 
 **Repeated use of the unfoldings, for different contexts and at different scales**

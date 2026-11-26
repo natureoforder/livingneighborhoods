@@ -6,11 +6,9 @@ archive_path: "archive/www.livingneighborhoods.org/ht-0/agate.htm"
 source_sha256: "782707afe3875fda61ab5008dfe6369885258c602cd355b04827886545592b76"
 ---
 
-![](../assets/images/nbdmaking-red-white.jpg)
+## Oregon eugene, Agate student housing
 
-## Oregon eugene, agate student housing
-
-## A neighborhood for the university of oregon
+## A neighborhood for the University of Oregon
 
 ![](../assets/pics/agate/four-buildings.jpg)
 
@@ -42,12 +40,6 @@ Further discussions of the generative code for this project
 
 [Second generative pattern Sequence](samarkand.md)
 
-## Center for environmental structure
-
-established 1967 and
-
-## Centre for environmental structure, europe
-
-established 2005
+and
 
 *From* Building Living Neighborhoods *by Christopher Alexander, Maggie Moore Alexander, Randy Schmidt and Nick Littlestone, with Bev Behrman and Howard Davis. © Center for Environmental Structure. [Original page](https://www.livingneighborhoods.org/ht-0/agate.htm).*

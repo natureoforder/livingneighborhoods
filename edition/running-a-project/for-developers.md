@@ -6,10 +6,6 @@ archive_path: "archive/www.livingneighborhoods.org/ht-0/developers.htm"
 source_sha256: "3f5e8f5ae291036ecdd5a534f3610b72ab406c7f2f3ff3d433d4179c9c7d0d3c"
 ---
 
-![](../assets/pics/white.jpg)
-
-![](../assets/images/noonew5-g.jpg)
-
 Most developers are idealistic people who wish to make a difference, who are proud to be spending their lives building communities for others.
 
 Yet over the last fifty or sixty years, the development industry has changed, markedly. The philosophy, assumptions, practices, and techniques, have gradually created an industry which -- in the eyes of many, many people -- has been destroying the Earth.

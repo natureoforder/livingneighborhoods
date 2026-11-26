@@ -22,13 +22,9 @@ merged_from:
     source_sha256: "4433c979dbd4778f936b29c22d4f372e9e14b01304745dad134430befd3d3034"
 ---
 
-![](../assets/pics/white.jpg)
-
 ![](../assets/pics/open-workbook.jpg)
 
 ***Building Living Neighborhoods***
-
-![](../assets/images/noonew5-t.jpg)
 
 ## The workbook
 
@@ -55,8 +51,6 @@ When you work through the sections that come later in the process of building yo
 The LivingNeighborhoods.org website guides your understanding of how to grow a neighborhood. The workbook, which you can print and keep in a binder, allows you to document each step you take.
 
 ## Instructions
-
-![](../assets/images/noonew5-t.jpg)
 
 ## Your living neighborhoods workbook
 
@@ -86,8 +80,6 @@ To compile the workbook, please follow these instructions. For each section of U
 
 ## Instructions for use with the website
 
-![](../assets/images/noonew5-t.jpg)
-
 ## Your living neighborhoods workbook
 
 **To be used in conjunction with the Website**
@@ -116,8 +108,6 @@ The following phases are currently available for download: 1.0 Start-up / Vision
 
 ## Downloads
 
-![](../assets/images/noonew5-t.jpg)
-
 You can download and print out the material for your workbook, in phases, one phase at a time. Each phase contains the published unfoldings, together with a worksheet for each unfolding which gives you additional information about how to carry out the unfolding effectively.
 
 This phase includes five unfoldings, and the five worksheets that go with them, for your notes, comments, and drawings
@@ -134,11 +124,7 @@ This table of contents corresponds to the "Unfolding List" on the website. (Pres
 
 ## Assembly
 
-![](../assets/pics/white.jpg)
-
 ![](../assets/pics/open-workbook.jpg)
-
-![](../assets/images/noonew5-t.jpg)
 
 **Workbook Assembly**
 
@@ -173,8 +159,6 @@ To compile the workbook, please follow these instructions. For each group of Unf
 ## Printing pages
 
 ![](../assets/pics/open-workbook.jpg)
-
-![](../assets/images/noonew5-g.jpg)
 
 **To use the website effectively, you need copies of various pages. Printing pages from the website, to use them, read them, study them, look at them while walking about the neighborhood site or in the comfort of your own home or office, is an essential part of the way this website works.**
 

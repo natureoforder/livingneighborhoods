@@ -6,19 +6,9 @@ archive_path: "archive/www.livingneighborhoods.org/ht-0/contact.htm"
 source_sha256: "1ee5485e6e948d02ec6a3e1252e8f17ed0039dc17f269a558b88de91ec87ef41"
 ---
 
-![](../assets/pics/white.jpg)
-
-![](../assets/images/nbdmaking-red-white.jpg)
-
 [jump](#anchor)
 
 ## If you wish to contact US
-
-![](../assets/images/noo.gif)
-
-## Center for environmental structure
-
-established 1967
 
 We hope the materials on this website support the efforts of your community to build, or rebuild, your neighborhood. if you would like more support from US, please contact US and let US know the ways in which you need help.
 

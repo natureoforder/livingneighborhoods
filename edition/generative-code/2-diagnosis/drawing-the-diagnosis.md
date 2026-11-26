@@ -10,7 +10,7 @@ source_sha256: "e2ed821dc1e947ecb62bff14279cb21c476c241649486476773914159c2ddc3f
 
 Observe, in the land, the vital structure of the whole, which must be extended, preserved, and repaired.
 
-Work on your drawing        
+Work on your drawing
 
 Detailed explanation of what to do
 
@@ -18,25 +18,15 @@ Detailed explanation of what to do
 
 Example 1: Good and bad places in a neighborhood of San Francisco
 
-![](../../assets/actions/pics/people/twopeople.jpg)
+![](../../assets/actions/pics/people/twopeople.jpg) Example 2: Thinking together
 
-Example 2: Thinking together
+![](../../assets/actions/pics/people/maggiesophie-inthesnow.jpg) Example 3: Walking the land
 
-![](../../assets/actions/pics/people/maggiesophie-inthesnow.jpg)
+![](../../assets/actions/pics/people/listening-to-oneanother.jpg) Example 4: Listening
 
-Example 3: Walking the land
+![](../../assets/actions/pics/people/looking3.jpg) Example 5: Looking at the land together
 
-![](../../assets/actions/pics/people/listening-to-oneanother.jpg)
-
-Example 4: Listening
-
-![](../../assets/actions/pics/people/looking3.jpg)
-
-Example 5: Looking at the land together
-
-![](../../assets/actions/pics/people/working.jpg)
-
-Example 6: Working together
+![](../../assets/actions/pics/people/working.jpg) Example 6: Working together
 
 ## General introduction to diagnosis
 

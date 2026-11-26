@@ -6,8 +6,6 @@ archive_path: "archive/www.livingneighborhoods.org/unfoldings/whodesigns.htm"
 source_sha256: "1f682eb82ce65eb1a5e1f1d1ccbf60bc5ae79f47abc5a713b7498f21b2162df7"
 ---
 
-Fragment of Generative Code for Neighborhoods
-
 ## Who designs?
 
 **Giving maximum involvement and opportunity to each family and business.**

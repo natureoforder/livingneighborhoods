@@ -8,8 +8,6 @@ source_sha256: "97d6ed100edbff66bb72a59b885d05d6fd7cedc4037fd8f46038e610a3a7fd64
 
 ## Key features of neighborhoods that are vibrant and alive
 
-![](../assets/images/noo.gif)
-
 ## Core
 
 There are so many different kinds of neighborhoods. A neighborhood may be small or large. It may be dense and urban, it may be village-like, it may be on the prairie or the tundra. It may be rural in spirit, or based on heavy manufacturing; it may be more oriented toward old people, or it may be filled with children; it may be a cultural enclave, or it may be rich in the variety of people and cultures who live there. So there is immense variety among neighborhoods in different parts of the world.

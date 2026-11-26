@@ -1,12 +1,10 @@
 ---
-title: "Phase 4: Choosing density"
+title: "Phase 3: Choosing density"
 description: "Section 3 Setting Appropriate Density Trying to find the right density for this…"
 source: "https://www.livingneighborhoods.org/packets/density-phase.htm"
 archive_path: "archive/www.livingneighborhoods.org/packets/density-phase.htm"
 source_sha256: "a81c2452ac95901a1a36f022fbf4f44d2bad8fdf2d25ecb503d01c13f9d398ca"
 ---
-
-![](../../assets/pics/white.jpg)
 
 ***Section Three***
 
@@ -16,25 +14,25 @@ source_sha256: "a81c2452ac95901a1a36f022fbf4f44d2bad8fdf2d25ecb503d01c13f9d398ca
 
 Section 3 Setting Appropriate Density Trying to find the right density for this place
 
-3.1 
+3.1
 
 ## Defining density
 
 Define density as the total area of built space per unit area of land.
 
-3.2 
+3.2
 
 ## Setting overall density
 
 Choose an appropriate density from a table of different densities based on the human experience they create.
 
-3.3 
+3.3
 
 ## Clustering and second order density
 
 Variations in density to make it non-homogeneous, are very, very important.
 
-3.4 
+3.4
 
 ## Making the surroundings whole
 

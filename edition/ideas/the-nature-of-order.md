@@ -6,11 +6,7 @@ archive_path: "archive/www.livingneighborhoods.org/ht-0/natureoforder.htm"
 source_sha256: "cd1f26a75d0952af79ccc85562cab8d4ff916e3b185406ea44b7a3c388b0e615"
 ---
 
-![](../assets/images/nbdmaking-red-white.jpg)
-
 ## The nature of order
-
-![](../assets/images/noo.gif)
 
 **The capacity to generate life in a neighborhood, comes from issues that are discussed in the four volumes of** ***The Nature of Order***. **We strongly suggest that you make yourself familiar with the materials in these books, in order to get a solid foundation for the use of generative code, and for the ability to make buildings which please people.**
 

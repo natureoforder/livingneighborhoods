@@ -10,15 +10,9 @@ merged_from:
     source_sha256: "e18f6aab3db13273a79f06b9ff640ee2e01e17c3871610ed7a919e528ed59104"
 ---
 
-![](../assets/pics/white.jpg)
-
-![](../assets/images/nbdmaking-red-white.jpg)
-
 [jump](#menu)
 
 ## Our services
-
-![](../assets/images/noo.gif)
 
 Our services provide a system of support and production that allows people to take back the conception, planning, building, making, and care of their own environments.
 
@@ -84,8 +78,7 @@ Undertaking direct bricks and mortar construction in a public place: a gift to t
 
 It could be that a city, a neighborhood group, a church council, a charitable trust, or a company want to make a mark in a public place, for the public benefit -- something as small as a fountain, or as grand as the medieval cross in Chichester, West Sussex, UK. If there are groups hoping for such a thing, to be undertaken in a craftsman spirit, with the aim of providing something memorable, and profound to mark a spot, we are able to undertake such work. In particular we can work to involve local citizens and craftspeople, and teach them the way such work is done to make something truly beautiful and memorable, perhaps making a lasting trace that animates the place for a very long time.
 
-**Professional Services\
-In Case You Would Like More Full-Scope Help, We Offer These Professional Services** [next             [previous             [jump back to menu](#menu)](#lowcost)](#working)
+**Professional Services In Case You Would Like More Full-Scope Help, We Offer These Professional Services** [next             [previous             [jump back to menu](#menu)](#lowcost)](#working)
 
 ## Planning and building an entire neighborhood with you
 
@@ -157,15 +150,11 @@ To make an appointment for a phone consultation, please send us an email by clic
 
 If you have a problem that is rather different from the ones described above, and feel you need help, but do not know that the help you need fits into these categories, please describe the problem to us. It will help us and other users of this website, and we will try, if possible, to suggest some way of solving your problem, or talking it through with you. Please [contact us](mailto:info@livingneighborhoods.org) and talk to us.
 
-## Center for environmental structure
-
-established 1967 and
-
-Centre for environmental structure, europe established 2005
+and
 
 ## Examples of services
 
-Center for environmental structure established 1967 and CENTRE FOR ENVIRONMENTAL STRUCTURE, EUROPE established 2005
+and
 
 ## Examples of our services
 

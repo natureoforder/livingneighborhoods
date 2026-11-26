@@ -6,10 +6,6 @@ archive_path: "archive/www.livingneighborhoods.org/ht-0/charter.htm"
 source_sha256: "4e005286d918ae8dfe3fba2959be6e82f6190a01caae62c14fc957ec646273f7"
 ---
 
-![](../assets/pics/white.jpg)
-
-![](../assets/images/noonew5-g.jpg)
-
 ## Charter for responsible
 
 ## Professional developers
@@ -48,8 +44,7 @@ To Protect and Care for the Beauty of the Living Earth
 
 8.  Trust the judgment of others, and believe in them as you believe in yourself.
 
-*Tertiary Practical Articles\
-The Methods and Assumptions which we believe any Developer will need to Subscribe to, in order to act practically on his/her Devotion to the Earth.*
+*Tertiary Practical Articles The Methods and Assumptions which we believe any Developer will need to Subscribe to, in order to act practically on his/her Devotion to the Earth.*
 
 9.  Recognize yourself as a fee-based professional.
 

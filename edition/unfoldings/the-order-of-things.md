@@ -6,8 +6,6 @@ archive_path: "archive/www.livingneighborhoods.org/unfoldings/order.htm"
 source_sha256: "9312a4751559aa313e0dc926cd93871072b7f941b61d983e9dd2b49d710c2b93"
 ---
 
-Fragment of Generative Code for Neighborhoods
-
 ## From wholeness
 
 **The order in which things are done**

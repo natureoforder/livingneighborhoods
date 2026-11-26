@@ -6,8 +6,6 @@ archive_path: "archive/www.livingneighborhoods.org/ht-0/theory.htm"
 source_sha256: "870301f1d18ebd0e3bb72a92da23f3b743bc027dee1f9e3d8f3687dc9cb1bc26"
 ---
 
-![](../assets/pics/white.jpg)
-
 ## Theory
 
 and BACKGROUND
@@ -16,15 +14,7 @@ Why building communities and neighborhoods should be done this way...
 
 ![](../assets/pics/cambridge-chris.jpg)
 
-[**BASICS\
-[WHAT IS A GENERATIVE CODE](generative-codes.md)\
-[CREATING COMMUNITY](../running-a-project/creating-community.md)\
-[MAIN STEPS OF WORK](../running-a-project/main-steps-of-work.md)\
-[UNFOLDINGS the elements of generative code](../unfoldings/index.md)\
-[NEIGHBORHOODS built using this theory](../examples/index.md)\
-[ARCHIVE of papers and essays](../library/index.md)**](what-makes-a-neighborhood-live.md)
-
-![](../assets/images/noonew5-b2.jpg)
+[**BASICS [WHAT IS A GENERATIVE CODE](generative-codes.md) [CREATING COMMUNITY](../running-a-project/creating-community.md) [MAIN STEPS OF WORK](../running-a-project/main-steps-of-work.md) [UNFOLDINGS the elements of generative code](../unfoldings/index.md) [NEIGHBORHOODS built using this theory](../examples/index.md) [ARCHIVE of papers and essays](../library/index.md)**](what-makes-a-neighborhood-live.md)
 
 ## Overview of theory
 

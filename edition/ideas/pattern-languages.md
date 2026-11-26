@@ -8,8 +8,6 @@ source_sha256: "5545fd191d811186c2cf349b99d84c72caf0cb66078da1391989d723dfa41b3b
 
 ## The relationships between pattern languages, sequences, and generative codes
 
-![](../assets/images/noo.gif)
-
 The evolution of generative codes from pattern languages and sequences pattern languages came first, about 1967. There were many pattern languages of various kinds, published. Each pattern language contained a number of patterns, in a rough order going from the largest patterns to the smallest. The pattern language gave a descripiton of a certain kind of environment, by displaying the functional barebones, so that one could be sure that buildings or other environments would at least respond adequately, through their geometry, to the functional needs which were identified in the patterns.
 
 MORPHOGENETIC SEQUENCES, also known just as SEQUENCES CAME SECOND, about 1990. A sequence is a pattern language which places emphasis on the order of unfolding, and gives much more importance to the orderly unfolding, so that by applying the steps in the sequence, in the order specified, a coherent geometric order will unfold, which also contains the patterns and is therefore well behaved as an environment.

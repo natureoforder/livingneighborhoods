@@ -6,8 +6,6 @@ archive_path: "archive/www.livingneighborhoods.org/packets/vision-phase.htm"
 source_sha256: "34360cb9065e78c7b1bfc16a795a46090407db1028f672267a570132c4f02c62"
 ---
 
-![](../../assets/pics/white.jpg)
-
 ***Section One***
 
 ## First phase of unfolding
@@ -16,31 +14,31 @@ source_sha256: "34360cb9065e78c7b1bfc16a795a46090407db1028f672267a570132c4f02c62
 
 Section 1 Startup & Vision **Get your teeth into the project: do the first things you need to get the project rolling**
 
-1.1 
+1.1
 
 ## Parameters
 
 Writing down your first idea of the neighborhood. What is its character? Where is it? How big?
 
-1.2 
+1.2
 
 ## People
 
 Starting to work with those people who will play a natural part in creating this neighborhood.
 
-1.3 
+1.3
 
 ## Vision
 
 Imagining, physically and viscerally, the sort of place that -- ideally -- you have in mind to build.
 
-1.4 
+1.4
 
 ## Base map
 
 Making, or getting, a rough base map which shows the land where you are thinking of building.
 
-1.5 
+1.5
 
 ## Poetic language
 

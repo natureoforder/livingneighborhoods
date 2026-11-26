@@ -60,25 +60,25 @@
   "resolved": "packets/gps.htm"
  },
  {
-  "page": "generative-code/4-density/index",
+  "page": "generative-code/3-density/index",
   "source": "packets/density-phase.htm",
   "href": "../actions/definedensity.htm",
   "resolved": "actions/definedensity.htm"
  },
  {
-  "page": "generative-code/4-density/index",
+  "page": "generative-code/3-density/index",
   "source": "packets/density-phase.htm",
   "href": "../actions/clustering.htm",
   "resolved": "actions/clustering.htm"
  },
  {
-  "page": "generative-code/4-density/index",
+  "page": "generative-code/3-density/index",
   "source": "packets/density-phase.htm",
   "href": "../actions/healsurroundings.htm",
   "resolved": "actions/healsurroundings.htm"
  },
  {
-  "page": "generative-code/4-density/index",
+  "page": "generative-code/3-density/index",
   "source": "packets/density-phase.htm",
   "img": "../actions/pics/density/naples1.jpg",
   "resolved": "actions/pics/density/naples1.jpg"

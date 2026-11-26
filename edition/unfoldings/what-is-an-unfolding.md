@@ -8,8 +8,6 @@ source_sha256: "02f30395f8cf002e6844e29313ef915f619890179e4850d19f939864e6fe4c32
 
 ## What is an unfolding?
 
-![](../assets/images/noo.gif)
-
 The elements of a generative code are **"unfoldings"**. Whether in the evolution of a neighborhood or in the evolution of a building, each unfolding is an operation which gets you from one stage or moment of development (whether conceptual or physical), to the next moment of development. The full sequence of unfoldings gets you all the way from the first stages of conception when a project is no more than a gleam in somebody's eye, all the way to the final stages of physical, built completion and use.
 
 Unfoldings slightly resemble patterns, in that they are nuggets of information, which help you shape some part or aspect of the environment. However, unfoldings are vastly different from patterns in the way they work, and it is these differences which give them their power and effectiveness.

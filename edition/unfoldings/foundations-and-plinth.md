@@ -6,8 +6,6 @@ archive_path: "archive/www.livingneighborhoods.org/unfoldings/foundationsandplin
 source_sha256: "cf7f6303f03069cb598d1ca51018723c9b847f52a95efbd5225ea6e792d10027"
 ---
 
-Fragment of Generative Code for Neighborhoods
-
 ## Plinth and foundations
 
 **Fitting the foundations to the land, by hand, and making the plinth beautiful**

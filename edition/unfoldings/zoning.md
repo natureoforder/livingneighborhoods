@@ -6,8 +6,6 @@ archive_path: "archive/www.livingneighborhoods.org/unfoldings/zoning.htm"
 source_sha256: "c8a3d71909c19fd24391b6527f371da1d2dfef61d15dcc2682cc58f557d91f2a"
 ---
 
-Fragment of Generative Code for Neighborhoods
-
 ## Zoning
 
 **Establishing the impact of local zoning and city requirements on your site**

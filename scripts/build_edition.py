@@ -37,10 +37,11 @@ ASSET_EXT = {".jpg", ".jpeg", ".gif", ".png", ".bmp", ".pdf"}
 SPACER_MAX_BYTES = 200  # tiny gifs used as spacers
 
 BOILERPLATE = [
-    r"^a fragment of the generative code for neighbou?rhoods\.?$",
-    r"^fragment of the generative code for neighbou?rhoods\.?$",
+    r"^(a )?fragment of (the )?generative code for neighbou?rhoods\.?$",
     r"^©.*\bCES\b.*$", r"^copyright\b.*$", r"^terms of use.*$",
     r"^text coming$", r"^back to\b.*$", r"^go back$", r"^back$", r"^top$", r"^menu$",
+    r"^(center|centre) for environmental structure.*$", r"^established (1967|2005)\b.*$",
+    r"^more to come\b.*$", r"^\.$",
     r"^jump to action$", r"^we recommend using.*$", r"^print this page$",
     r"^back to (top level|neighborhood list|countries menu).*$",
 ]
@@ -100,11 +101,18 @@ def sentence_case(text):
         return text
     words = text.split()
     keep = {"I", "CES", "GPS", "UK", "USA", "US", "II", "III", "IV"}
+    proper = {"japan", "higashino", "eishin", "mexicali", "mexico", "fresno", "samarkand", "strood", "west", "dean",
+              "texas", "tokyo", "england", "alexander", "christopher", "chris", "maggie", "schumacher", "oregon",
+              "santa", "rosa", "komagome", "st", "mark's", "kent", "medway", "binsted", "god", "agate", "riverside",
+              "california", "london", "europe", "america", "american", "berkeley", "sheffield", "uzbekistan",
+              "travis", "moon", "riverside", "college", "university"}
     out = []
     for i, w in enumerate(words):
         core = re.sub(r"[^A-Za-z]", "", w)
         if core in keep:
             out.append(w)
+        elif w.lower().strip(",.:;()\"'") in proper and core:
+            out.append(w[:1].upper() + w[1:].lower() if w[:1].isalpha() else w[:2].upper() + w[2:].lower())
         elif i == 0:
             out.append(w[:1].upper() + w[1:].lower())
         else:
@@ -121,6 +129,48 @@ def rel(from_dest, to_path):
     """Relative URL from edition page `from_dest` (no .md) to edition path `to_path`."""
     start = PurePosixPath(from_dest).parent
     return os.path.relpath(to_path, start or ".").replace(os.sep, "/")
+
+
+def image_size(path):
+    """(width, height) for GIF, PNG and JPEG files, or None."""
+    import struct
+    data = path.read_bytes()[:65536]
+    if data[:6] in (b"GIF87a", b"GIF89a"):
+        return struct.unpack("<HH", data[6:10])
+    if data[:8] == b"\x89PNG\r\n\x1a\n":
+        return struct.unpack(">II", data[16:24])
+    if data[:2] == b"\xff\xd8":
+        i = 2
+        while i + 9 < len(data):
+            if data[i] != 0xFF:
+                i += 1
+                continue
+            marker = data[i + 1]
+            if marker in (0xC0, 0xC1, 0xC2, 0xC3, 0xC5, 0xC6, 0xC7, 0xC9, 0xCA, 0xCB, 0xCD, 0xCE, 0xCF):
+                h, w = struct.unpack(">HH", data[i + 5:i + 9])
+                return w, h
+            if marker in (0xD8, 0x01) or 0xD0 <= marker <= 0xD7:
+                i += 2
+                continue
+            i += 2 + struct.unpack(">H", data[i + 2:i + 4])[0]
+    return None
+
+
+def is_chrome(path):
+    """Site furniture rather than content: spacers, icons, title banners."""
+    if path.as_posix().endswith(("images/noo.gif",)):
+        return True
+    size = image_size(path)
+    if not size:
+        return False
+    w, h = size
+    if w < 32 or h < 32:
+        return True
+    if w < 100 and h < 100:
+        return True  # small icons (book covers used as buttons, symbols)
+    if h <= 70 and w / max(h, 1) >= 4:
+        return True  # lettered title banners
+    return False
 
 
 # ---------------------------------------------------------------- link resolution
@@ -180,7 +230,7 @@ class Resolver:
             if path is not None:
                 self.dead.append({"page": page_dest, "source": page_src, "img": url, "resolved": path})
             return None
-        if (ARCHIVE / path).stat().st_size <= SPACER_MAX_BYTES:
+        if (ARCHIVE / path).stat().st_size <= SPACER_MAX_BYTES or is_chrome(ARCHIVE / path):
             return None
         self.assets.add(path)
         return rel(page_dest, f"{ASSETS}/{path}")
@@ -220,7 +270,7 @@ class Cleaner:
                     out.append({"t": "Image", "c": [["", [], []], [{"t": "Str", "c": alt_text}] if alt_text else [], [new, ""]]})
             elif t == "Link":
                 attr, text, (url, title) = c
-                text = self.inlines(text)
+                text = trim([{"t": "Space"} if i.get("t") == "LineBreak" else i for i in self.inlines(text)])
                 if is_boiler(stringify(text)) and re.match(r"(?i)\s*(back|go back|top|menu)", stringify(text)):
                     continue
                 new = self.r.link(self.src, self.dest, url)
@@ -231,7 +281,8 @@ class Cleaner:
             elif t in ("Span",):
                 out.extend(self.inlines(c[1]))
             elif t in ("Emph", "Strong", "Underline", "SmallCaps", "Strikeout", "Superscript", "Subscript"):
-                inner = self.inlines(c)
+                inner = [{"t": "Space"} if i.get("t") == "LineBreak" else i for i in self.inlines(c)]
+                inner = trim(inner)
                 if stringify(inner).strip():
                     out.append({"t": "Emph" if t == "Underline" else t, "c": inner})
                 else:
@@ -374,10 +425,14 @@ def to_markdown(blocks):
     md = re.sub(r"\n{3,}", "\n\n", md)
     md = re.sub(r"(?m)^\\$\n?", "", md)
     md = md.replace(" ", " ")
+    md = re.sub(r"[ \t]+$", "", md, flags=re.M)
     # lower-case shouty lead-ins at the start of a paragraph: "IF ONE THING, MORE THAN ANY OTHER, distinguishes"
     def fix(m):
         return sentence_case(m.group(1)) + m.group(2)
     md = re.sub(r"(?m)^((?:[A-Z][A-Z'’,\-]*\s+){2,}[A-Z][A-Z'’,\-]*)(\s+[a-z])", fix, md)
+    # "PROJECT HISTORY Eishin Gakuen, ..." -> heading plus paragraph
+    md = re.sub(r"(?m)^((?:[A-Z]{2,}\s+){1,3}[A-Z]{2,})\s+([A-Z][a-z])",
+                lambda m: "## " + sentence_case(m.group(1)) + "\n\n" + m.group(2), md)
     # whole shouty paragraphs (not headings, lists or images)
     def calm(m):
         line = m.group(0)
@@ -427,7 +482,7 @@ def description(md):
         p = re.sub(r"!\[[^\]]*\]\([^)]*\)", "", p)
         p = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", p)
         p = re.sub(r"[*_`]", "", p).strip()
-        m = re.match(r"(.{40,200}?[.!?])(\s|$)", p)
+        m = re.match(r"(.{40,200}?(?<!\bMr)(?<!\bMrs)(?<!\bDr)(?<!\bSt)[.!?])(\s|$)", p)
         return (m.group(1) if m else p[:157].rsplit(" ", 1)[0] + "…")
     text = re.sub(r"!\[[^\]]*\]\([^)]*\)|\[([^\]]*)\]\([^)]*\)|[#*_`>|-]", lambda m: m.group(1) or "", md)
     text = " ".join(text.split())
@@ -574,6 +629,8 @@ def build():
         text = text.rstrip() + "\n\n" + CREDIT.format(source=source) + "\n"
         path.write_text(text, encoding="utf-8")
 
+    write_generated_indexes(titles)
+
     # PDFs are all kept, linked or not
     for pdf in ARCHIVE.rglob("*.pdf"):
         resolver.assets.add(pdf.relative_to(ARCHIVE).as_posix())
@@ -593,6 +650,101 @@ def build():
           f"({copied} copied); {len(resolver.dead)} dead or unmapped links")
     if report["stale_edited"]:
         print("source changed for hand-edited pages:", ", ".join(report["stale_edited"]))
+
+
+SECTION_INTROS = {
+    "running-a-project": ("Running a project",
+        "The people, money and contracts side of building a living neighborhood: the main steps of work, "
+        "creating community, working with developers, the construction contracts, and how construction is organised."),
+    "tools": ("Tools",
+        "The workbook and workpads the original site offered for taking the steps onto the land, and the online drawing pad. "
+        "The drawing pad was a Java applet, which modern browsers no longer run."),
+}
+
+
+def page_description(path):
+    front, _ = read_front(path)
+    try:
+        return json.loads(front.get("description", '""'))
+    except json.JSONDecodeError:
+        return front.get("description", "").strip('"')
+
+
+def write_generated_indexes(titles):
+    """Section index pages for sections without a source index page, and about/index."""
+    for section, (title, intro) in SECTION_INTROS.items():
+        pages = [d for d in titles if d.startswith(section + "/")]
+        lines = [frontmatter({"title": title, "description": intro, "generated": True}), intro, ""]
+        for d in pages:
+            desc = page_description(EDITION / f"{d}.md")
+            lines.append(f"- [{titles[d]}]({rel(section + '/index', d + '.md')})" + (f": {desc}" if desc else ""))
+        (EDITION / section / "index.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+    rows_merge, rows_dup, rows_ex, rows_page = [], [], [], []
+    for src, (role, dest, note) in sorted(MAP.items()):
+        url = MAP_URL(src)
+        archive_link = f"[{src}]({url})"
+        if role == P:
+            rows_page.append(f"| {archive_link} | [{titles[dest]}]({rel('about/index', dest + '.md')}) |")
+        elif role == M:
+            rows_merge.append(f"| {archive_link} | [{titles[dest]}]({rel('about/index', dest + '.md')}) | {note} |")
+        elif role == D:
+            rows_dup.append(f"| {archive_link} | [{titles[dest]}]({rel('about/index', dest + '.md')}) | {note} |")
+        else:
+            rows_ex.append(f"| {archive_link} | {note} |")
+    meta = (ARCHIVE / "ARCHIVE-METADATA.txt").read_text().splitlines()
+    crawled = next((l.split(":", 1)[1].strip()[:10] for l in meta if l.startswith("Crawled:")), "")
+    text = frontmatter({
+        "title": "About this edition",
+        "description": "How this reader edition of Building Living Neighborhoods was made: sources, what was merged or left out, and a concordance from every original page to its place here.",
+        "generated": True,
+    }) + f"""*Building Living Neighborhoods* was written by Christopher Alexander, Maggie Moore Alexander, Randy Schmidt and Nick Littlestone, with Bev Behrman and Howard Davis, at the Center for Environmental Structure (established 1967) and the Centre for Environmental Structure, Europe (established 2005). All text and images are theirs, © Center for Environmental Structure, unless a page says otherwise.
+
+## Why a new edition
+
+The original site at [livingneighborhoods.org](https://www.livingneighborhoods.org/) holds valuable material, but it was hard to use: frames, a JavaScript menu, two overlapping versions of many pages (an older "Environmental Structure" site and the newer "Building Living Neighborhoods" one), the same step at several addresses, and navigation that followed the authors' working folders. It also described itself as a beta site, still being written.
+
+This edition keeps the authors' words and images (at full size) and re-arranges them for readers: the six phases of the generative code in order, then further unfoldings, running a project, examples, ideas and the library. Legacy menus, "back to" links, spacer images and repeated copyright lines were removed; every page links to its original.
+
+## Sources
+
+- **Live site**, captured on {crawled}: {len(MAP)} HTML pages, plus images and PDFs. The archive, with checksums and a list of the links that were already dead, is kept in the [natureoforder/livingneighborhoods](https://github.com/natureoforder/livingneighborhoods) repository.
+- **Java applets**: the drawing pad and the three "unfolding movies" (St Mark's Square, Strood, a window at Lake Travis) were Java applets that modern browsers no longer run. Their pages are kept, with a note.
+- Pages that were already missing on the live site may be recovered from the Internet Archive later.
+
+## What happened to each original page
+
+Of the {len(MAP)} original pages: {len(rows_page)} became pages here, {len(rows_merge)} were merged into another page as a section, {len(rows_dup)} were duplicates or older versions of another page, and {len(rows_ex)} held no reader content.
+
+### Pages
+
+| Original | Here |
+|---|---|
+""" + "\n".join(rows_page) + """
+
+### Merged into another page
+
+| Original | Merged into | As |
+|---|---|---|
+""" + "\n".join(rows_merge) + """
+
+### Duplicates and older versions
+
+| Original | Duplicate of | Note |
+|---|---|---|
+""" + "\n".join(rows_dup) + """
+
+### Left out
+
+| Original | Why |
+|---|---|
+""" + "\n".join(rows_ex) + """
+
+## Historical pages
+
+The original site's [services](services.md), [contact](contact.md) and [terms of use](terms-of-use.md) pages are kept as records; the contact details and offers may no longer be current.
+"""
+    (EDITION / "about" / "index.md").write_text(text, encoding="utf-8")
 
 
 def MAP_URL(src):

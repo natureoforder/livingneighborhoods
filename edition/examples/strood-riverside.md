@@ -1,6 +1,6 @@
 ---
 title: "Strood Riverside"
-description: "PROJECT HISTORY Strood is a town in Kent, on the river Medway, just across from the ancient town of Rochester."
+description: "Strood is a town in Kent, on the river Medway, just across from the ancient town of Rochester."
 source: "https://www.livingneighborhoods.org/ht-0/strood-riverside.htm"
 archive_path: "archive/www.livingneighborhoods.org/ht-0/strood-riverside.htm"
 source_sha256: "86947bfa6c4c12a3896e07b1de68dc080efbcb01a1290085a89c29e06abeebd8"
@@ -16,11 +16,11 @@ merged_from:
     source_sha256: "4ae2963a536c4083f5e0bbc1f38476498d0e75036820ada379492dd0439a0577"
 ---
 
-![](../assets/images/livingneighborhoods-red.jpg)
-
 ## ENGLAND, near LONDON,   STROOD RIVERSIDE
 
-PROJECT HISTORY Strood is a town in Kent, on the river Medway, just across from the ancient town of Rochester. A neighborhood on the north bank of the river, locally known as Strood Riverside, is about 7 hectares. It consists, at present, of broken down industry, a few houses, an old and very nice pub, Strood railway station, and a number of small businesses, and some poorly built social housing from the 1950s. The area has been earmarked for redevelopment by Medway council.
+## Project history
+
+Strood is a town in Kent, on the river Medway, just across from the ancient town of Rochester. A neighborhood on the north bank of the river, locally known as Strood Riverside, is about 7 hectares. It consists, at present, of broken down industry, a few houses, an old and very nice pub, Strood railway station, and a number of small businesses, and some poorly built social housing from the 1950s. The area has been earmarked for redevelopment by Medway council.
 
 ![](../assets/pics/strood/strood-river.jpg)
 
@@ -46,10 +46,9 @@ The social difficulty of convincing both the council, and the financing companie
 
 ![](../assets/pics/strood/stroodaerial.jpg)
 
-Above: Aerial photograph of the strood riverside area. ![](../assets/pics/strood/strood-003.jpg) Right: railway arches on the western boundary of the site. **Below: Bird's eye view of the whole Strood\
-Riverside neighborhood, as proposed by us.**
+Above: Aerial photograph of the strood riverside area. ![](../assets/pics/strood/strood-003.jpg) Right: railway arches on the western boundary of the site. **Below: Bird's eye view of the whole Strood Riverside neighborhood, as proposed by us.**
 
-## Further discussions of the generative code for strood
+## Further discussions of the generative code for Strood
 
 [First generative code for the stepwise conception and layout of the new Strood Riverside neighborhood](../assets/library/stroodcode-v13.pdf) 3 pages
 
@@ -59,19 +58,11 @@ Below, the project we prepared for Medway council. The organization of the site 
 
 ![](../assets/pics/greendetail-text-perspective.jpg)
 
-## Center for environmental structure
-
-established 1967 and
-
-## Centre for environmental structure, europe
-
-established 2005
+and
 
 ## Strood neighbourhood-making
 
 ## An example
-
-![](../assets/images/noo.gif)
 
 This is a bird's eye view of a new plan for a brown field site in Strood, Kent, 30 miles southeast of London. In this view, we are looking south toward the river Medway. The plan shown, which includes about 400 houses (300 new and 100 refurbished), has been created with generative codes. More information about how this was done is given in [Generative Code for Strood Riverside](../assets/library/stroodcode-v13.pdf) and [Unfolding of Strood Riverside](../assets/library/stroodunfolding-v19.pdf), also found on the Work Plan page.
 

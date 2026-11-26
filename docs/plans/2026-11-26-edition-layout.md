@@ -22,7 +22,7 @@ Under `works/living-neighborhoods/` in the wiki (and `edition/` here):
 |---|---|---|
 | `index` | What the collection is, who made it, four ways in: do it (generative code), understand it (ideas), see it (examples), go deeper (library) | hand-written |
 | `start-here` | The original welcome (who it is for) and the overall process | 1 |
-| `generative-code/` | The heart: six phases in order, each a folder with an intro and its steps: 1 startup and vision, 2 diagnosis, 3 modifying the code, 4 density, 5 public spaces, 6 building volumes | 34 |
+| `generative-code/` | The heart: six phases in order, each a folder with an intro and its steps: 1 startup and vision, 2 diagnosis, 3 density, 4 modifying the code, 5 public spaces, 6 building volumes | 34 |
 | `unfoldings/` | The Library of Unfoldings steps not already in the six phases: survey, land tenure, zoning, cars, foundations, colour and light, who designs, community discussion | 13 |
 | `running-a-project/` | People, money and contracts: main steps of work, creating community, developers and their charter, main contract and craftsperson's subcontract, construction organisation, conversations, writing a generative code | 11 |
 | `examples/` | Eishin, Mexicali, West Dean, Fresno, Schumacher College, Strood, Samarkand, Back of the Moon (Texas), Santa Rosa, Agate, Komagome, St Mark's, a village story | 14 |

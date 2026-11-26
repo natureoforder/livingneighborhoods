@@ -21,17 +21,11 @@ merged_from:
 
 Below you will find pictures of some of the kinds of places where your neighborhood might be. It makes a difference, because according to these circumstances, you need a different approach to making the neighborhood
 
-![](../../assets/actions/pics/worksheet/santarosa.jpg)
+![](../../assets/actions/pics/worksheet/santarosa.jpg) Greenfield site
 
-Greenfield site
+![](../../assets/actions/pics/worksheet/somerville.jpg) Brownfield site
 
-![](../../assets/actions/pics/worksheet/somerville.jpg)
-
-Brownfield site
-
-![](../../assets/actions/pics/infill/codys1.jpg)
-
-Infill urban
+![](../../assets/actions/pics/infill/codys1.jpg) Infill urban
 
 As a **very** rough beginning, just to get started, write down a few specifics, to grasp the meaning of what you are thinking about.
 
@@ -39,7 +33,7 @@ The more realistic this verbal sketch is, the better. If you are not currently e
 
 ## Where is it?
 
-Country          
+Country
 
 State               or Province, County or District as most helpful
 
@@ -103,8 +97,6 @@ By answering these questions, a very vague picture will have begun to develop in
 
 Whatever it is you are thinking of working on, try to express the dream that lies behind it
 
-![](../../assets/images/noo.gif)
-
 **We suggest that you make a copy of this page (select *all*, then *copy*) then paste the page into a blank word file and save it somewhere convenient. In this file, you can use the questions to clarify your ideas about your project, write your own thoughts and comments against the various questions, as you wish, and correct the whole picture over time, as it becomes more clear.**
 
 Getting Started
@@ -166,8 +158,6 @@ To the extent possible, please give us some additional practical details. Visual
 11. What are the funding triggers that bring money to the project? Are there specific events or achievements which act as milestones to unleash funds?
 
 ## Statistics worksheet (Library of Unfoldings version)
-
-Fragment of Generative Code for Neighborhoods
 
 **Statistics: Set some numbers to provide a concrete framework**
 

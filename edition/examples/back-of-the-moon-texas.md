@@ -10,9 +10,7 @@ merged_from:
     source_sha256: "cc2fe0b57dbbb613777a4a4fdd301b2f83c2e890a3d7290def49d1768d082f71"
 ---
 
-![](../assets/images/nbdmaking-red-white.jpg)
-
-## Texas, back of the moon neighborhood
+## Texas, back of the Moon neighborhood
 
 A beautiful emphasis on the common land which binds the neighborhood together
 
@@ -72,13 +70,7 @@ Inside other houses
 
 ![](../assets/pics/texas/texasmasons.jpg)
 
-## Center for environmental structure
-
-established 1967 and
-
-## Centre for environmental structure, europe
-
-established 2005
+and
 
 ## Window unfolding movie (applet no longer runs)
 
@@ -86,7 +78,7 @@ established 2005
 
 This window-design process follows the steps below
 
-***First, let the computer run the playback** of the unfolding automatically:  click here  . You can dynamically see the steps as they come into play.*  
+***First, let the computer run the playback** of the unfolding automatically:  click here  . You can dynamically see the steps as they come into play.*
 
 ***Or, you may control the playback** of the unfolding: VERY slowly **mouse-over the list** of steps to view the unfolding at your own pace.*
 

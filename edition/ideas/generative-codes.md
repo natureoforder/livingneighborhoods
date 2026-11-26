@@ -6,17 +6,9 @@ archive_path: "archive/www.livingneighborhoods.org/ht-0/generative.htm"
 source_sha256: "b5180d4fe5f6c3f4f60bb34b8fbd328b9797b634ccdb3ebeef09d9f773a8a360"
 ---
 
-![](../assets/pics/white.jpg)
-
-![](../assets/images/bln-blue-livingneighborhoods.jpg)
-
-![](../assets/images/bln-blue-theory-background.jpg)
-
 [jump](#anchor)
 
 ## Generative codes
-
-![](../assets/images/noo.gif)
 
 Generative codes have evolved from pattern languages, but are much more sophisticated generating systems.
 
@@ -70,7 +62,7 @@ If you continue the generative way of thinking when you go through detailed desi
 
 ## Writing generative code
 
-A paper describing the first steps of a typical generative code, which shows you how to get started, and also gives you a feel, immediately, for the huge difference between this generative kind of code, and the urban codes being used today, which are little more than rigid rule-books.[Writing Generative Codes](../generative-code/3-modifying-the-code/writing-a-generative-code.md)     5 pages
+A paper describing the first steps of a typical generative code, which shows you how to get started, and also gives you a feel, immediately, for the huge difference between this generative kind of code, and the urban codes being used today, which are little more than rigid rule-books.[Writing Generative Codes](../generative-code/4-modifying-the-code/writing-a-generative-code.md)     5 pages
 
 ## A completed generative code as an example
 
@@ -88,7 +80,7 @@ Below, *a house in California created with a generative code: the house fits the
 
 ## Definition of generative codes
 
-[What is a Generative Code?](../assets/library/generativecodesv10.pdf) A paper discussing the nature of generative codes and the reasons why they work:   25 pages   
+[What is a Generative Code?](../assets/library/generativecodesv10.pdf) A paper discussing the nature of generative codes and the reasons why they work:   25 pages
 
 ## Morphogenesis and sustainability
 

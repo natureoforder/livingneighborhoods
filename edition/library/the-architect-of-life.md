@@ -10,13 +10,11 @@ source_sha256: "6cb26c37183622850a2ed58dd8f99ddaee9aaa9736abde3b60a5074decf8a67c
 
 Search the ISIS website
 
-![](../assets/library/the-architect-of-life_files/bottombar_black.gif)
-
 ISIS Members Area Login \[[membership details](http://www.i-sis.org.uk/membership.php)\]
 
-USERNAME![](../assets/library/the-architect-of-life_files/transparent.gif)
+## Username
 
-![](../assets/library/the-architect-of-life_files/transparent.gif)PASSWORD![](../assets/library/the-architect-of-life_files/transparent.gif)
+## Password
 
 ### ISIS Review 04/11/03
 
@@ -202,7 +200,7 @@ from the ISIS website (see all articles on the [SITE MAP](http://www.i-sis.org.u
 
 Recent Publications
 
-[![The Fluid Genome](../assets/library/the-architect-of-life_files/fluidgenometiny.gif)](http://www.i-sis.org.uk/onlinestore/books.php#1)The Fluid Genome *Mae-Wan Ho* 220 pages, optional cd-rom [Buy Now](http://www.i-sis.org.uk/onlinestore/books.php#1).
+[](http://www.i-sis.org.uk/onlinestore/books.php#1)The Fluid Genome *Mae-Wan Ho* 220 pages, optional cd-rom [Buy Now](http://www.i-sis.org.uk/onlinestore/books.php#1).
 
 [](http://www.i-sis.org.uk/onlinestore/books.php#28)The Case for a GM-free Sustainable World - Report by the Independent Science Panel [Buy Now](http://www.i-sis.org.uk/onlinestore/books.php#28).
 
@@ -216,6 +214,6 @@ The Institute of Science in Society, PO Box 32097, London NW1 OXR telephone: \[4
 
 General Enquiries <sam@i-sis.org.uk> - Website/Mailing List <press-release@i-sis.org.uk> - ISIS Director <m.w.ho@i-sis.org.uk>
 
-**MATERIAL ON THIS SITE MAY BE REPRODUCED IN ANY FORM WITHOUT PERMISSION, ON CONDITION THAT IT IS ACCREDITED ACCORDINGLY AND CONTAINS A LINK TO http://www.i-sis.org.uk/** [![](../assets/library/the-architect-of-life_files/transparent.gif)](http://www.chakra-gems.co.uk/) [![](../assets/library/the-architect-of-life_files/transparent.gif)](http://www.blacksun.eclipse.co.uk/) [![](../assets/library/the-architect-of-life_files/transparent.gif)](http://www.indsp.org/) [![](../assets/library/the-architect-of-life_files/transparent.gif)](http://www.vintagegroove.co.uk/) [![](../assets/library/the-architect-of-life_files/transparent.gif)](http://www.bka.org.uk/) [![](../assets/library/the-architect-of-life_files/transparent.gif)](http://www.thebomb.clara.co.uk/)
+**MATERIAL ON THIS SITE MAY BE REPRODUCED IN ANY FORM WITHOUT PERMISSION, ON CONDITION THAT IT IS ACCREDITED ACCORDINGLY AND CONTAINS A LINK TO http://www.i-sis.org.uk/** [](http://www.chakra-gems.co.uk/) [](http://www.blacksun.eclipse.co.uk/) [](http://www.indsp.org/) [](http://www.vintagegroove.co.uk/) [](http://www.bka.org.uk/) [](http://www.thebomb.clara.co.uk/)
 
 *From* Building Living Neighborhoods *by Christopher Alexander, Maggie Moore Alexander, Randy Schmidt and Nick Littlestone, with Bev Behrman and Howard Davis. © Center for Environmental Structure. [Original page](https://www.livingneighborhoods.org/library/the-architect-of-life.htm).*

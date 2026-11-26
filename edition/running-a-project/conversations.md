@@ -6,8 +6,6 @@ archive_path: "archive/www.livingneighborhoods.org/library/conversations/intro.h
 source_sha256: "45f8c3d26c6be8631e7bd3b3bf3898b5298cccfca5fc7edbdeba70f5dbd733be"
 ---
 
-![](../assets/images/conversations-2.jpg)
-
 **Introduction**
 
 Maggie Moore Alexander

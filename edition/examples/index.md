@@ -6,17 +6,9 @@ archive_path: "archive/www.livingneighborhoods.org/ht-0/neighborhoods.htm"
 source_sha256: "fb9f6102fe6e4d66dfe355dbd553780a98a148e6d32ec8211a53424c05236b60"
 ---
 
-![](../assets/pics/white.jpg)
-
-![](../assets/images/bln-blue-livingneighborhoods.jpg)
-
-![](../assets/images/bln-blue-theory-background.jpg)
-
 [jump](#countries)
 
 ## Building a new class of neighborhoods
-
-![](../assets/images/noo.gif)
 
 Examples of living neighborhoods and the generative codes which created them
 
@@ -24,18 +16,7 @@ They show how "life" takes many, extraordinarily different forms in different pl
 
 Under each country, click on the neighborhood you would like to see. Plain black descriptions are not active yet.
 
-[California\
-[Fresno market community, bringing neighborhood and commercial space together](fresno-market.md)\
- \
-San Jose Homeless community\
- \
-Sanders estate\
- \
-Modesto clinic\
- \
-Waldorf, Altadena\
- \
-Fort Mason](#countries)
+[California [Fresno market community, bringing neighborhood and commercial space together](fresno-market.md)   San Jose Homeless community   Sanders estate   Modesto clinic   Waldorf, Altadena   Fort Mason](#countries)
 
 England [West Dean: A place where the beauty of the architecture plays a large part in the sense of community that people feel](west-dean.md) London [Schumacher College: A contrast of two processes](schumacher-college.md) Sheffield Parson Cross [Strood Riverside](strood-riverside.md)
 
@@ -53,8 +34,7 @@ Texas
 
 Back of the Moon Neighborhood: A beautiful emphasis on the common land which binds the neighborhood together.
 
-[Colombia\
-[Santa Rosa de Cabal: A process for a neighborhood of 70 houses entirely built by the seventy families themselves.](santa-rosa.md)](#countries)
+[Colombia [Santa Rosa de Cabal: A process for a neighborhood of 70 houses entirely built by the seventy families themselves.](santa-rosa.md)](#countries)
 
 Venezuela
 
@@ -64,8 +44,7 @@ India
 
 Bavra village
 
-[Florida\
-Fort Lauderdale, Progresso district](#countries)
+[Florida Fort Lauderdale, Progresso district](#countries)
 
 Uzbekistan
 
@@ -75,8 +54,7 @@ Germany
 
 Frankfurt, Hoechst
 
-[Massachusetts\
-Boston, Somerville](#countries)
+[Massachusetts Boston, Somerville](#countries)
 
 **EXAMPLES OF OUR WORK IN PARTICULAR NEIGHBORHOODS IN VARIOUS COUNTRIES**
 

@@ -1,6 +1,6 @@
 ---
 title: "The generative code: six phases"
-description: "Evolved from pattern languages, but are much more sophisticated generating systems."
+description: "A generative code is a system of unfolding steps that lets the people of a community lay out and build a living neighborhood, one decision at a time, in six phases."
 source: "https://www.livingneighborhoods.org/ht-0/gcwelcome.htm"
 archive_path: "archive/www.livingneighborhoods.org/ht-0/gcwelcome.htm"
 source_sha256: "21e46987d21ab071f63fbad2a09e6b329ceac6fbd29e7d4bf6792f134bedb957"
@@ -11,15 +11,10 @@ merged_from:
   - source: "https://www.livingneighborhoods.org/ht-0/steplist.htm"
     archive_path: "archive/www.livingneighborhoods.org/ht-0/steplist.htm"
     source_sha256: "9a1f73116a7629f048f9ed9e81f49c2524d383150ec58b27ed85553617e04ec6"
+edited: true
 ---
 
-![](../assets/pics/white.jpg)
-
-![](../assets/images/noonew5-r.jpg)
-
-## Generative codes have
-
-Evolved from pattern languages, but are much more sophisticated generating systems.
+Generative codes evolved from pattern languages, but are much more sophisticated generating systems.
 
 A generative code is a system of unfolding steps that enable people in a community to create a wholesome and healthy neighborhood. The steps are governed by rules of unfolding that are not rigid, but depend on context, and on what came before. The rules work in a way that is similar to the rules that nature follows to unfold an organism or a natural landscape, much as genetic codes unfold embryos. But these rules unfold a neighborhood and its buildings from the whole, and lead to a unique result for each particular place.The rules tell you how to take specific steps, in a certain way that allows unfolding to proceed.
 
@@ -51,7 +46,7 @@ When a generative code is used, the order in which things are done plays a **dec
 
 In an unfolding sequence, these things occur in this unusual order, not in the order we might expect from conventional contemporary building methods. This is because each activity is unfolding from the wholeness of the place. The changes of sequence are not whimsical, but necessary, to make sure that each thing can be adapted to the whole, in a successful fashion. They are necessary, in order to allow a coherent unfolding, of the neighborhood, where the right things come first, and the lesser ones take their place in the context provided by the major things. The "right" things, are the ones which have the biggest impact on the environment from a human and emotional point of view, which is capable of making people healthy because their deepest feelings are respected.
 
-## Footnote
+## How this differs from conventional development
 
 In order to see the contrast, here is the order in which these things were usually done in conventional 20th-century development work, many of them specified in existing city codes. In current practice, there are many conventions of sequence, which have become part of the accepted wisdom, in planning, architecture, and development.
 
@@ -75,139 +70,76 @@ Conventionally: Changes are done by change orders, and therefore become very exp
 
 **These practices do not support the creation of living neighborhoods.**
 
+## How to use it
+
+Each major part of the design and making process is called a *phase*. Each phase is made up of several *unfoldings*: the small steps you take, in sequence, to reach the goal of that phase. Begin with phase 1, startup and vision, to take the first practical steps towards imagining, designing and building your neighborhood.
+
+Read through the unfoldings and choose the ones that fit your project. The original site suggested copying them into a workbook that you and your colleagues take onto the land (see [the workbook](../tools/workbook.md)).
+
+The steps are of three kinds:
+
+1. **Inspiring steps** (marked with a rainbow on the original site) move the design in a direction. The unfolding happens as a dream or image that does not yet change the plan; it is carried forward and made concrete later.
+2. **Transforming steps** (marked with a house) do the actual work: each contributes a definite transformation to the emerging plan or drawing.
+3. **Background steps** (unmarked) give an overall feeling that helps your understanding and your group's discussion, without directly changing the design.
+
 ## The six phases
 
-![](../assets/pics/white.jpg)
+### [1. Startup and vision](1-startup-and-vision/index.md)
 
-***Building Living Neighborhoods***
+Bring people together, describe the idea, and let a shared vision of the place arise.
 
-![](../assets/images/noonew5-r.jpg)
+- [Parameters: a first sketch of your idea](1-startup-and-vision/parameters.md) — fill out a worksheet describing your idea
+- [People and community discussion](1-startup-and-vision/people.md) — slowly and deliberately, bring in people who want to be involved
+- [Vision](1-startup-and-vision/vision.md) — together, close your eyes and imagine the neighborhood as in a true vision
+- [Making a basemap](1-startup-and-vision/basemap.md) — a detailed map of the area where the neighborhood will be
+- [A poetic pattern language](1-startup-and-vision/poetic-pattern-language.md) — write down your vision of the place in the most emotional language
 
-## Action & practice
+### [2. Diagnosis of the land](2-diagnosis/index.md)
 
-A Generative Code for Modern Neighborhoods
+Walk the land and record what is already alive there, what is precious and what needs repair.
 
-In the generative code, each major part of the design and making process is called a "Phase."
+- [Introduction to diagnosis](2-diagnosis/introduction.md)
+- [The large-structure wholeness diagram](2-diagnosis/wholeness-structure.md) — observe and sketch the deep configuration of the whole
+- [Precious places](2-diagnosis/precious-places.md) — identify the most beautiful and precious places
+- [Magic configurations](2-diagnosis/magic-configurations.md) — the special spots and lines that paths should follow
+- [Damage and repair](2-diagnosis/damage-and-repair.md) — identify the spots and areas that most need repair
+- [Latent centers](2-diagnosis/latent-centers.md)
+- [Drawing the diagnosis](2-diagnosis/drawing-the-diagnosis.md) — draw the diagnosis on your map
+- [Accurate positioning with GPS](2-diagnosis/gps.md) — exact positions, transferred to the map
+- [Everything arises from the wholeness that is there](2-diagnosis/everything-arises-from-wholeness.md)
 
-\* \* \*
+### [3. Choosing density](3-density/index.md)
 
-Each Phase is made up of several "Unfoldings" , which are the small steps one needs to undertake, in sequence, to achieve the goal of that Phase.
+- [Density](3-density/density.md) — how much building the land can carry
 
-\* \* \*
+### [4. Modifying the code](4-modifying-the-code/index.md)
 
-Begin with Phase 1, Startup & Vision, to take the first practical steps towards imagining, designing, and building your neighborhood project.
+Adapt the generic code to your place: the special entities and centers that give this neighborhood its character.
 
-![](../assets/pics/mexicali/cementblocks.jpg)
+- [Entities](4-modifying-the-code/entities.md) — identify the most important entities and centers, described by type but not yet located
+- [The baseline code](4-modifying-the-code/baseline-code.md)
+- [The genetics of a generative code](4-modifying-the-code/genetics.md)
+- [Local and cultural patterns](4-modifying-the-code/local-and-cultural-patterns.md)
+- [Writing a generative code](4-modifying-the-code/writing-a-generative-code.md)
 
-## Phases
+### [5. Public spaces](5-public-spaces/index.md)
 
-[**1. STARTUP & VISION\
-[2. DIAGNOSIS OF LAND](2-diagnosis/index.md)\
-[3. SETTING DENSITY](4-density/index.md)\
-[4. MODIFYING THE CODE](3-modifying-the-code/index.md)\
-[5. PUBLIC SPACES](5-public-spaces/index.md)\
-[6. BUILDING VOLUMES](6-building-volumes/index.md)\
-7. BUILDING LAYOUT\
-7. BUILDING DESIGN\
-8. PROJECT MANAGEMENT\
-9. CRAFT AND CONSTRUCTION**](1-startup-and-vision/index.md)
+Place, size and shape the major public spaces, pedestrians first and cars later.
 
-Partial list of currently available phases and unfoldings
+- [Pedestrians come first](5-public-spaces/pedestrians-first.md) — find the naturally occurring pedestrian centers before giving any thought to cars
+- [The main center of the neighborhood](5-public-spaces/main-center.md) — find and locate the main neighborhood center
+- [Positive space](5-public-spaces/positive-space.md) — give each public space a size and shape appropriate to its position
+- [Recursive positive space](5-public-spaces/recursive-positive-space.md) — apply positive space again and again
 
-When you have had a look at the unfoldings, and are familiar with the way they work, the first task is to select the unfoldings that are relevant to your project, and place them in your WORKBOOK (see menu to the left). As you go forward collect pages, your own notes, sketches and ideas about the neighborhood, together with printed pages of the unfoldings you feel to be appropriate.
+### [6. Building volumes](6-building-volumes/index.md)
 
-The DRAWING PAD (see menu to the left) provides a greater level of support to understand the land, and the unfoldings, as they occur.
+Begin decisions about building positions, so that the buildings make positive space between them.
 
-## Step list with the three kinds of unfolding
+- [Building fronts](6-building-volumes/building-fronts.md) — position building fronts to generate valuable positive space between them
+- [Building shape](6-building-volumes/building-shape.md)
 
-## Step list
+## Beyond the six phases
 
-The following list of steps presents the unfoldings roughly in the order in which they will, typically, be used.
+The [library of unfoldings](../unfoldings/index.md) holds further steps written for particular projects: surveying, land tenure, zoning, where the cars go, foundations, colour and light, and who designs. Several steps listed on the original site were never written up; they are named on each phase page.
 
-There are three different kinds of unfoldings.
-
-1.  Those which are marked with the rainbow symbol ![](../assets/images/rainbow3.jpg). These inspire the design to move in a certain direction. They are unfoldings of a kind, but the unfolding occurs as a dream or image, which does not directly impact the concrete geometry of the plan. You may think of these as nascent unfoldings, which are carried forward in the process, remembered, and made concrete later.
-
-2.  Those which are marked with the house symbol ![](../assets/images/house2.gif), are the ones which play the active part in the unfolding process. That is to say, in the geometrical creation of the emerging design Each of these steps, contributes a definite transformation to the emerging design, or drawing, or computer drawing on the drawpad. It is these steps which unfold the plan and design, and cause it to be successful, or not.They are the backbone of the list.
-
-3.  Those which are unmarked and on a gray background, are also important, but less so. They do not have an immediate transformative effect on the emerging design. The provide an overall feeling, which should contribute to your understanding, and to discussion in your group. But they do not have the same unmistakable, concrete, practical effect on the design as the other two.
-
-## Startup & vision
-
-Worksheet: Fill out a worksheet describing your idea
-
-![](../assets/images/rainbow3.jpg)
-
-People: Slowly and deliberately, bring in people you know, who want to be involved
-
-![](../assets/images/rainbow3.jpg)
-
-Vision: Together, close your eyes, and imagine the neighborhood as in a true vision. You wait for it, and let it come of its own accord into your eyes-shut mind.
-
-![](../assets/images/house2.gif)
-
-[Basemap: Make a detailed basemap of the area where your new neighborhood will be](1-startup-and-vision/basemap.md)
-
-[Poetry: In words, write down your vision of the place, in the most emotional language](1-startup-and-vision/poetic-pattern-language.md)
-
-## Diagnosis of the land
-
-[Introduction: Introduction to diagnosis](2-diagnosis/introduction.md)
-
-![](../assets/images/house2.gif)
-
-[The whole: Observe and sketch the deep configuration of the whole](2-diagnosis/drawing-the-diagnosis.md)
-
-![](../assets/images/house2.gif)
-
-[Precious places: Identify the most beautiful and precious places](2-diagnosis/precious-places.md)
-
-![](../assets/images/house2.gif)
-
-[Repair: Identify spots and areas that most need repair](2-diagnosis/damage-and-repair.md)
-
-Draw: Draw diagnosis on your map
-
-[GPS: Use GPS for exact positioning, and transfer to the map](2-diagnosis/gps.md)
-
-## Customize our generative code to fit
-
-## Your project
-
-[Entities: Identify the most important entities and centers that will give the neighborhood its visionary character. These are not yet located, but identified and described, as to type.](3-modifying-the-code/entities.md)
-
-Items of code: Write them up, as items of generative code, generic in nature, not specific to any one location, and having the emotional power of the visions established in \#1.5 above.
-
-Locations: Now -- separately -- consider possible locations in the neighborhood, where these special entities might be built
-
-Workbook entries: Insert the descriptions of these special entities, into this generative code you have downloaded to your workbook. These will need to be given special sheets, that you must make for yourselves inside your workbook.
-
-Publish: If you feel that these entities your neighborhood has discovered, or pioneered, may be helpful to other neighborhoods, then add them to this website, for others to use as well.
-
-## Place, size, and shape major public spaces
-
-[Pedestrians first: A general proposition - Pedestrians first, cars later](5-public-spaces/pedestrians-first.md)
-
-[Main center: Find and locate the main neighborhood center](5-public-spaces/main-center.md)
-
-[Pedestrian centers: A general proposition - Pedestrians first, cars later](5-public-spaces/pedestrian-centers.md)
-
-[Paths: Locate the most paths along beautiful spots and lines](2-diagnosis/magic-configurations.md)
-
-Minor centers: Locate minor public centers as far as makes sense
-
-[Shaping centers: Go back over all the public spaces you have located so far, and give each one a size and shape appropriate to its position. In doing this you are, step by step, to begining to shape the shared space of the community](5-public-spaces/positive-space.md)
-
-## Begin decisions about building positions
-
-[Building fronts: Building fronts must be positioned to generate valuable, positive space between them](6-building-volumes/building-fronts.md)
-
-[Main center: Find and locate the main neighborhood center](5-public-spaces/main-center.md)
-
-[Paths: Locate the most paths along beautiful spots and lines](2-diagnosis/magic-configurations.md)
-
-Minor centers: Locate minor public centers as far as makes sense
-
-[Shaping centers: Go back over all the public spaces you have located so far, and give each one a size and shape appropriate to its position. In doing this you are, step by step, to begining to shape the shared space of the community](5-public-spaces/positive-space.md)
-
-*From* Building Living Neighborhoods *by Christopher Alexander, Maggie Moore Alexander, Randy Schmidt and Nick Littlestone, with Bev Behrman and Howard Davis. © Center for Environmental Structure. [Original page](https://www.livingneighborhoods.org/ht-0/gcwelcome.htm).*
+*From* Building Living Neighborhoods *by Christopher Alexander, Maggie Moore Alexander, Randy Schmidt and Nick Littlestone, with Bev Behrman and Howard Davis. © Center for Environmental Structure. Original pages: [generative code welcome](https://www.livingneighborhoods.org/ht-0/gcwelcome.htm), [action page](https://www.livingneighborhoods.org/ht-0/action.htm), [step list](https://www.livingneighborhoods.org/ht-0/steplist.htm).*

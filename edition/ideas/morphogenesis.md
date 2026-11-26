@@ -10,8 +10,6 @@ source_sha256: "507abfd7d77131b7f4f700a648cd553042978bb448b3eb61d2fb17d94d590ebc
 
 ## Making the land harmonious
 
-![](../assets/images/noo.gif)
-
 ## Terraces in china
 
 Let us now consider a very straightforward example, of architecture: a type of form which is being created continuously, by people for themselves individually and collectively, in many parts of the world...

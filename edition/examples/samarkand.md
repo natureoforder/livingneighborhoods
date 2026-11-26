@@ -16,13 +16,13 @@ merged_from:
     source_sha256: "639af615461f20b1c9a6b72c77875578f4ce277ba029a593fba39e247d737358"
 ---
 
-![](../assets/images/nbdmaking-red-white.jpg)
-
-## Uzbekistan, samarkand
+## Uzbekistan, Samarkand
 
 A new city center, re-vivifying modern feelings and ancient values in modern form
 
-PROJECT HISTORY The Aga Khan fund invited architects to take part in a competition, to define a new city center for the ancient city of Samarkand -- especially since the beauty of the ancient city had been brutalized by Soviet construction.
+## Project history
+
+The Aga Khan fund invited architects to take part in a competition, to define a new city center for the ancient city of Samarkand -- especially since the beauty of the ancient city had been brutalized by Soviet construction.
 
 ![](../assets/pics/samarkand/cityview2.jpg)
 
@@ -58,19 +58,13 @@ In similar fashion, if someone lists the entities they want in a place, the list
 
 ![](../assets/pics/samarkand/oldmandance.jpg)
 
-Further discussions of the two generative codes for samarkand
+Further discussions of the two generative codes for Samarkand
 
 [First generative pattern sequence for the stepwise conception and layout of the new Center of Samarkand](samarkand.md) 3 pages
 
 [Second generative pattern sequence](samarkand.md)
 
-## Center for environmental structure
-
-established 1967 and
-
-## Centre for environmental structure, europe
-
-established 2005
+and
 
 ## The poem
 
@@ -178,7 +172,7 @@ This example gives an idea of the vital role which generic centers can play in c
 
 ## Blow-up of the drawing
 
-A blow-up of the Samarkand drawing, showing more detail of the individual structures   
+A blow-up of the Samarkand drawing, showing more detail of the individual structures
 
 ![](../assets/pics/samarkand-pale.jpg)
 

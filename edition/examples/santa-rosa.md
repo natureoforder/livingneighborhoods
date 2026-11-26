@@ -6,9 +6,7 @@ archive_path: "archive/www.livingneighborhoods.org/ht-0/santarosa.htm"
 source_sha256: "84b958b525fb63d3dd6dd8eb2d47153c1adc4123002bb02b1d912e4271b1fbec"
 ---
 
-![](../assets/images/nbdmaking-red-white.jpg)
-
-## Colombia, santa rosa de cabal
+## Colombia, Santa Rosa de cabal
 
 ## Families building their own houses for themselves
 
@@ -78,16 +76,10 @@ Looking up the hill towards the central space and the crest of the hill. There a
 
 **It is rough and ready, but it is human, real life, unexpected in every pore, a real place..**
 
-## Discussion of the santa rosa generative code
+## Discussion of the Santa Rosa generative code
 
 See [Excerpts from the Santa Rosa Generative Code](../assets/library/srgc.pdf)
 
-## Center for environmental structure
-
-established 1967 and
-
-## Centre for environmental structure, europe
-
-established 2005
+and
 
 *From* Building Living Neighborhoods *by Christopher Alexander, Maggie Moore Alexander, Randy Schmidt and Nick Littlestone, with Bev Behrman and Howard Davis. © Center for Environmental Structure. [Original page](https://www.livingneighborhoods.org/ht-0/santarosa.htm).*

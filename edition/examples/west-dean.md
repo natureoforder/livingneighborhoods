@@ -6,9 +6,7 @@ archive_path: "archive/www.livingneighborhoods.org/ht-0/westdean.htm"
 source_sha256: "79d868aadb57b7e35c3b419987ac4997b1427009952394029bb442eb8bfdbb6d"
 ---
 
-![](../assets/images/nbdmaking-red-white.jpg)
-
-## England, the west dean visitors centre
+## England, the West Dean visitors centre
 
 A place where the beauty of the architecture plays a large part in the sense of community that people feel
 
@@ -80,7 +78,7 @@ The southern view of the place.
 
 ![](../assets/pics/westdean/northwall.jpg)
 
-Further discussion of the generative code for the west dean centre
+Further discussion of the generative code for the West Dean centre
 
 Excerpts from the process followed to make final adjustments on windows, arches, and columns during the use of the generative code. 10 pages
 
@@ -88,12 +86,6 @@ Below, a detail of the north wall.
 
 ![](../assets/pics/westdean/apples-window.jpg)
 
-## Center for environmental structure
-
-established 1967 and
-
-## Centre for environmental structure, europe
-
-established 2005
+and
 
 *From* Building Living Neighborhoods *by Christopher Alexander, Maggie Moore Alexander, Randy Schmidt and Nick Littlestone, with Bev Behrman and Howard Davis. © Center for Environmental Structure. [Original page](https://www.livingneighborhoods.org/ht-0/westdean.htm).*

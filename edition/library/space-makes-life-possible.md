@@ -134,9 +134,7 @@ Order now at fantastic savings for Spring delivery
 
 Allegro Classics Bay Area
 
-**[Place an OnSale ad](http://www.sfgate.com/onsale/)\
-[About OnSale](http://www.sfgate.com/templates/types/onsale/about/about_onsale.html)\
-[View All OnSale Ads](http://www.sfgate.com/cgi-bin/adjacency/onsale/list)**
+**[Place an OnSale ad](http://www.sfgate.com/onsale/) [About OnSale](http://www.sfgate.com/templates/types/onsale/about/about_onsale.html) [View All OnSale Ads](http://www.sfgate.com/cgi-bin/adjacency/onsale/list)**
 
 San Francisco Chronicle SectionsWineDatebookCommentarySportsNewsBay AreaBusiness
 
@@ -248,9 +246,7 @@ Order now at fantastic savings for Spring delivery
 
 Allegro Classics Bay Area
 
-**[Place an OnSale ad](http://www.sfgate.com/onsale/)\
-[About OnSale](http://www.sfgate.com/templates/types/onsale/about/about_onsale.html)\
-[View All OnSale Ads](http://www.sfgate.com/cgi-bin/adjacency/onsale/list)**
+**[Place an OnSale ad](http://www.sfgate.com/onsale/) [About OnSale](http://www.sfgate.com/templates/types/onsale/about/about_onsale.html) [View All OnSale Ads](http://www.sfgate.com/cgi-bin/adjacency/onsale/list)**
 
 San Francisco Chronicle SectionsDatebookCommentarySportsNewsBay AreaBusiness
 

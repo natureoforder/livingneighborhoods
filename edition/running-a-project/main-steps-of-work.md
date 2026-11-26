@@ -13,12 +13,6 @@ merged_from:
     source_sha256: "1d1b7fd4a8e5465956b7c660505df3992af1cb2d4f0ccd97a8b75f3d1948cf05"
 ---
 
-![](../assets/pics/white.jpg)
-
-![](../assets/images/bln-blue-livingneighborhoods.jpg)
-
-![](../assets/images/bln-blue-theory-background.jpg)
-
 [jump](#seven)
 
 ## Main steps of work
@@ -26,8 +20,6 @@ merged_from:
 ## The broad flow of the building process
 
 Those of you who are returning to the Main Steps page will see that the format is changing. We are in the process of simplifying and clarifying this material. This page now gives the Broad Flow of work as an overview, and directs you to the Library of Unfoldings for the means to accomplish each Phase. Unfoldings are bits of generative code that can be selected and adopted depending on the needs of your project. In the next several weeks, the whole of this page will gradually be reorganized to this new format.
-
-![](../assets/images/noo.gif)
 
 Success in building living neighborhoods depends essentially on certain key sequential aspects of unfolding.
 
@@ -189,8 +181,7 @@ Using packet \#1, produce a written description of the vision you have, in as mu
 
 Keep these issues handy as you move into phase 2. As your vision gets grounded in the land itself, you'll have an opportunity to consider the issues deeply together, and resolve them.
 
-**PHASE 2    THE LAND:\
-GETTING A FEELING FOR ITS STRUCTURE**    [next step            [previous step            [jump back to eight-phase menu](#seven)](#step1)](#step3)
+**PHASE 2    THE LAND: GETTING A FEELING FOR ITS STRUCTURE**    [next step            [previous step            [jump back to eight-phase menu](#seven)](#step1)](#step3)
 
 Starting to work with an actual piece of land
 
@@ -230,7 +221,7 @@ If possible, this map should be in a place where they can be shared by all the p
 
 ## Intro to phase 3
 
-Having moved through phases 1 and 2, you have developed some unfoldings -- rudimentary elements in a generative code. Now it is time to begin to write the generative code, using the unfoldings you have done so far, and being careful to identify the things which really matter most: the things that will bring the greatest deep feeling into the place. In order to help yourself write a generative code for your neighborhood, read a simple primer which will give you a hint on how to get going: [Writing Generative Codes](../generative-code/3-modifying-the-code/writing-a-generative-code.md).
+Having moved through phases 1 and 2, you have developed some unfoldings -- rudimentary elements in a generative code. Now it is time to begin to write the generative code, using the unfoldings you have done so far, and being careful to identify the things which really matter most: the things that will bring the greatest deep feeling into the place. In order to help yourself write a generative code for your neighborhood, read a simple primer which will give you a hint on how to get going: [Writing Generative Codes](../generative-code/4-modifying-the-code/writing-a-generative-code.md).
 
 ## Start by thinking of unfoldings
 
@@ -262,8 +253,7 @@ For a more informal or more private situation, the format can be more relaxed.
 
 A jointly written notebook, in the format of the template, dealing specifically with your piece of land, and reflecting the consensus of the colleagues, partners and community. There should be one A4 or 8x11 page for each step of the code. On that page there will be a clear definition of what is required to be done, which partners or actors or professionals are to have main responsibility for doing it, and a clear definition of the effect to be achieved by each step as it is being done. The code contains the steps necessary to carry your community through completion and moving in.
 
-**PHASE 4    FIRST GEOMETRIC UNFOLDING OF THE NEIGHBORHOOD:\
-CREATION OF KEY CENTERS, GRADUAL PLACEMENT OF MOST IMPORTANT POSITIVE SPACES AND BUILDING VOLUMES**     [next phase            [previous phase            [jump back to eight-phase menu](#seven)](#step3)](#step5)
+**PHASE 4    FIRST GEOMETRIC UNFOLDING OF THE NEIGHBORHOOD: CREATION OF KEY CENTERS, GRADUAL PLACEMENT OF MOST IMPORTANT POSITIVE SPACES AND BUILDING VOLUMES**     [next phase            [previous phase            [jump back to eight-phase menu](#seven)](#step3)](#step5)
 
 ## Understanding unfolding
 
@@ -333,8 +323,7 @@ Once you have the general direction of unfolding clear, with a rough scaled plan
 
 Where is the money for the project coming from? How much have you got or can you raise? You should estimate the scale of what you plan to do, with a clear picture of how the construction work is going to be funded. Get a provisional figure in mind for the total work. And, if it has to be done in stages, get a picture of the stages, and the sums which might be spent in each stage.
 
-**PROGRAM BUDGETING:\
-Allocating most money toward what is most important to the experience of life**
+**PROGRAM BUDGETING: ALLOCATING MOST MONEY TOWARD WHAT IS MOST IMPORTANT TO THE EXPERIENCE OF LIFE**
 
 This most vital principle is an obvious one; but it is very rarely followed. The gist is this: you need to spend the most money on those things that really matter most in the emotional life of the place; and the least for those things that make the least emotional impact on the resulting buildings and neighborhood as a whole. To do this, you first need to make a line item budget for the quantities you have to think about. You can, if you wish, start with a standard or "typical" budget for building a neighborhood.
 
@@ -371,8 +360,6 @@ Tasks and subcontracts need to be reshuffled and regrouped. See [Re-arrangement 
 ## Arrangement of buildings
 
 In order to make individual houses work, as an idea, at relatively high density, there is one particular archetypal model layout that can form a basis for many, many variations. In this archetype, the houses are long and thin, parallel to the public space and pedestrian space outside. Thus instead of being row houses which have narrow frontage and long depth, these houses typically have long frontage, and narrow depth. For example, such a house might be 15 meters long, and 6 meters deep, thus 90 m2 on a floor. The building might have two flats if 2-story, or three flats, if 3-story, the top story then being within the roofspace. The many advantages in this type of building volume are discussed extensively in *The Nature of Order*.
-
-![Extended references on this new high-density housing type](../assets/images/noo.gif)
 
 *References*
 
@@ -415,8 +402,6 @@ The shared sense of purpose visible in what the bricklayers have been doing
 It is not a religious matter, since it does not have to do with any one religion. But it is based on the inner connection of each person with "the whole". It means that each person must be guided by the humility of their own smallness, and by affection and connection with the whole, love for its beauty, and desire to heal it and keep it well. The project manager, with the community, together do what they can to make this possible in practical terms. That is the fundamental imperative of the process.
 
 Whether you choose to have a name for it, or not, it is necessary that you pay attention to this intent, in your own terms.
-
-![Extended references to God and the unnameable](../assets/images/noo.gif)
 
 *References*
 
@@ -544,15 +529,9 @@ Families laying out their houses in a neighborhood in northern Mexico. Each hous
 
 ## Earlier version: seven procedural aspects in detail
 
-![](../assets/images/livingneighborhoods-red.jpg)
-
-![](../assets/images/offhome.jpg)
-
 [jump](#seven)
 
 ## Main steps
-
-![](../assets/images/noo.gif)
 
 Success in building living neighborhoods depends essentially on a key sequence of seven procedural aspects of unfolding.
 
@@ -658,7 +637,7 @@ Try to summarise the content of your revised "poetic" language, by listing the e
 
 Try a communal process of writing down your vision in more precise language
 
-Here you are taking the first step in writing a generative code for your neighborhood. Read [Writing Generative Codes](../generative-code/3-modifying-the-code/writing-a-generative-code.md). When you have a feel for the way things work in this example, it should help you as a first step to beginning a generative code.
+Here you are taking the first step in writing a generative code for your neighborhood. Read [Writing Generative Codes](../generative-code/4-modifying-the-code/writing-a-generative-code.md). When you have a feel for the way things work in this example, it should help you as a first step to beginning a generative code.
 
 Examine a template for an early draft of a generative code
 
@@ -676,8 +655,7 @@ This particular code was written for a low-density new town on a green-field sit
 
 A jointly written notebook, in the format of the template, dealing specifically with your piece of land, and reflecting the consensus of the partners. There will be one A4 or 8x11 page for each step of the code. On that page there will be a clear definition of what is required to be done, which partners are to have main responsibility for doing it, and a clear definition of the effect to be achieved by each step as it is being done. The code contains the steps necessary to carry your community through completion and moving in.
 
-**STEP 3    FIRST UNFOLDING OF THE NEIGHBORHOOD:\
-CREATION OF KEY CENTERS, GRADUAL PLACEMENT OF MOST IMPORTANT POSITIVE SPACES AND BUILDING VOLUMES**     [next step            [previous step            [jump back to seven-step menu](#seven)](#step2)](#step4)
+**STEP 3    FIRST UNFOLDING OF THE NEIGHBORHOOD: CREATION OF KEY CENTERS, GRADUAL PLACEMENT OF MOST IMPORTANT POSITIVE SPACES AND BUILDING VOLUMES**     [next step            [previous step            [jump back to seven-step menu](#seven)](#step2)](#step4)
 
 ## Understanding unfolding
 
@@ -903,13 +881,9 @@ Please note: in order to allow us to make new results available as quickly as po
 
 ## Short summary from the older site
 
-![](../assets/images/livingneighborhoods-red.jpg)
-
 The main steps in creation of a living neighborhood
 
 ## Main steps
-
-![](../assets/images/noo.gif)
 
 There are seven main steps, each being a distinct constellation of issues, which come into play in approximate sequence, and at distinct phases of the project.
 

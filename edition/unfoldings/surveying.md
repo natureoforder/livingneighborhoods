@@ -6,8 +6,6 @@ archive_path: "archive/www.livingneighborhoods.org/unfoldings/surveying.htm"
 source_sha256: "8b094cc5b46bf3a817efbf9f506943f6e8ba1934e12c595dc1fde4b30f832f27"
 ---
 
-Fragment of Generative Code for Neighborhoods
-
 ## Stake surveying
 
 **Placing buildings and building footprints intuitively, *by feeling*, and then recording the positions in the land and transferring them to drawings. The drawings come after, not before, the survey process.**

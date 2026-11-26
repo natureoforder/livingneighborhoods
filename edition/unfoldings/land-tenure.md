@@ -6,8 +6,6 @@ archive_path: "archive/www.livingneighborhoods.org/unfoldings/landtenure.htm"
 source_sha256: "d9e3bb2cbe713a03088650a3d034a728114f9f306f5503a3de183fb17a213721"
 ---
 
-Fragment of Generative Code for Neighborhoods
-
 ## Land tenure
 
 **Choosing the best form of land tenure for your neighborhood**

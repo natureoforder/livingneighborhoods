@@ -1,12 +1,10 @@
 ---
-title: "Phase 3: Modifying the code"
-description: "Section 4 Modifying Your Code Modify the code to fit\\\nyour local culture, your needs and…"
+title: "Phase 4: Modifying the code"
+description: "Section 4 Modifying Your Code Modify the code to fit your local culture, your needs and your…"
 source: "https://www.livingneighborhoods.org/packets/code-phase.htm"
 archive_path: "archive/www.livingneighborhoods.org/packets/code-phase.htm"
 source_sha256: "05fccebc37d9519076e6bb3d09f144f4dd5bfcc2005b18f9ec6ec5ac8d742eb8"
 ---
-
-![](../../assets/pics/white.jpg)
 
 ***Section Four***
 
@@ -14,35 +12,33 @@ source_sha256: "05fccebc37d9519076e6bb3d09f144f4dd5bfcc2005b18f9ec6ec5ac8d742eb8
 
 ## Individual unfoldings
 
-Section 4 Modifying Your Code **Modify the code to fit\
-your local culture, your needs and your\
-project**
+Section 4 Modifying Your Code **Modify the code to fit your local culture, your needs and your project**
 
-4.1 
+4.1
 
 ## Introduction: genetics
 
 The code for your project, starts with generic code already present on this website, and then gets modified by you.
 
-4.2 
+4.2
 
 ## Our baseline code
 
 The code for your project, starts with generic code already present on this website, and then gets modified by you.
 
-4.3 
+4.3
 
 ## Local culture
 
 Respect your local culture, and decipher that local and cultural particulars: then graft this local culture into the generic baseline code.
 
-4.4 
+4.4
 
 ## New entities
 
 Describe, in words, the entities which must be created to create the new culture that is in process of arising in your neighborhood.
 
-4.5 
+4.5
 
 ## Inserting and amalgamating code
 

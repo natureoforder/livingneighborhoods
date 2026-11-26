@@ -8,8 +8,6 @@ source_sha256: "e37601f793214d34597b0b0ca05649d8100156e3fba3fde9106f6a8640973f95
 
 ## Re-arrangement and re-clustering of tasks
 
-![](../assets/images/noo.gif)
-
 ## Organizing around natural wholes in the production process
 
 Another aspect of the current mechanisation of neighborhood creation, lies in the fact that the packages of effort - the tasks as defined by the industrial machine - are defined for the convenience of the developer (architect, contractor, financier, etc), but are not chosen as natural wholes in a community whole-seeking process. Again, this cannot but fragment the resulting neighborhoods. Of course human community cannot be created in such a way.

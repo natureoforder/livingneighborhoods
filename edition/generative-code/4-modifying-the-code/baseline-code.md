@@ -42,6 +42,6 @@ Thus it is not far fetched at all, to say that our baseline code could form a st
 
 ---
 
-← [Entities](entities.md) · ↑ [Phase 3: Modifying the code](index.md) · → [The genetics of a generative code](genetics.md)
+← [Entities](entities.md) · ↑ [Phase 4: Modifying the code](index.md) · → [The genetics of a generative code](genetics.md)
 
 *From* Building Living Neighborhoods *by Christopher Alexander, Maggie Moore Alexander, Randy Schmidt and Nick Littlestone, with Bev Behrman and Howard Davis. © Center for Environmental Structure. [Original page](https://www.livingneighborhoods.org/actions/baselinecode.htm).*

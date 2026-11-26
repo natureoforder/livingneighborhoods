@@ -148,7 +148,7 @@ Craftsman is directly responsible to CES representative only, and may not act up
 
 The enclosed documents show our current understanding of the \_\_\_\_\_\_\_\_\_\_\_\_\_ job for the \_\_\_\_\_\_\_\_\_\_\_\_ project.
 
-The maximum amount allocated for this item is £ \_\_\_\_\_\_\_\_\_\_\_\_. It is imperative that you make a proposal and bid which is less than or equal to this amount. If you cannot meet this budget or better it, you may propose a reduction of scope or change of specifications. 
+The maximum amount allocated for this item is £ \_\_\_\_\_\_\_\_\_\_\_\_. It is imperative that you make a proposal and bid which is less than or equal to this amount. If you cannot meet this budget or better it, you may propose a reduction of scope or change of specifications.
 
 Please submit a detailed proposal and bid for this job on our enclosed subcontract forms. We shall award this contract to the sub-contractor who defines the most attractive proposal. We strongly recommend that you discuss with us, and negotiate in detail, the nature of your proposal, before making your written submission.
 

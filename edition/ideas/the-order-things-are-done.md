@@ -8,8 +8,6 @@ source_sha256: "bdb59a1a809b043d8c6fd0c95cf1e15edaf07561380e30a4efc4d350afa03875
 
 ## The order in which things are done
 
-![](../assets/images/noo.gif)
-
 ## Surprising, but necessary changes
 
 In current practice, there are many conventions of sequence, which have become part of the accepted wisdom, in planning, architecture, and development. For example:

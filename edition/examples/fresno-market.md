@@ -6,9 +6,7 @@ archive_path: "archive/www.livingneighborhoods.org/ht-0/fresno.htm"
 source_sha256: "dadedaa4d6cd94ecf329bec6c3706814de671ee5504747f040219f4d3bb0898b"
 ---
 
-![](../assets/images/nbdmaking-red-white.jpg)
-
-## California the fresno farmers' market
+## California the Fresno farmers' market
 
 ## A commercial market community bringing neighborhood
 
@@ -20,7 +18,9 @@ This page is dedicated to Richard Erganian, and to the farmers who have brought 
 
 The atmosphere that typically occurs in the market. The fresh fruit is delicious, you can buy pomegranate juice there, dried fruits; the farmers' pickup trucks are parked against the structure and they load and unload direct into the main structure -- where shoppers are strolling up and down. They are so nice, and the food so good, that it is very hard to leave without buying something.
 
-PROJECT HISTORY The Fresno market is on a prominent city block in Fresno, California, at the intersection of Shaw and Blackstone. The block is 800 feet by 600 feet.
+## Project history
+
+The Fresno market is on a prominent city block in Fresno, California, at the intersection of Shaw and Blackstone. The block is 800 feet by 600 feet.
 
 The first market building, which we built about 20 years ago, forms the core of the 12-acre site, and will be the core of the commercial buildings that are built around it. We began work on plans for the whole market area about 20 years ago, and, at Richard's request, first built the structure to house the main market. It is an arched timber structure on concrete block piers, 120 feet long, and 40 feet wide. Richard set to work and planted vines all over it, and they now provide a leafy shade. Fresno can be very, very hot.
 
@@ -76,11 +76,11 @@ Below, the Fresno market from the distance, just before nightfall, surrounded by
 
 ![](../assets/pics/fresno/at-night.jpg)
 
-## Further discussion of the fresno generative code
+## Further discussion of the Fresno generative code
 
 **A GENERATIVE CODE FOR GROWTH OF A COMMERCIAL AREA**
 
-A code for the stepwise construction of the fresno market buildings
+A code for the stepwise construction of the Fresno market buildings
 
 Richard's aim has always been to build something truly beautiful -- a place for community, and vivid life, as much as a place of commerce. In the course of his work, he is constantly having to juggle tenants, keep them happy, try to meet their requests, even knowing that this tenant will want this and such, while the next tenant who comes will very likely want something else. Needs for parking, built space, entrances, visibility from the highway, all change continuously. No conventional form of "design" can solve these problems successfully.
 
@@ -104,14 +104,10 @@ The more we have worked on the problem, we have arrived at the notion that the k
 
 A very rough conception of the way the trellises, road, parking, and gardens interleaved with buildings, will work. Although this drawing dowes not show the actual structure which will be built, still, it illustrates the probable effect of the generative rules defined above.
 
-FUTURE DISCUSSION Further ongoing discussion of the generative code for the stepwise conception and layout and construction of the Fresno neighborhood, and how its future can be made to unfold successfully, while dealing with the financial uncertainties of a small-town developer, will be presented in an open document that can be accessed here. 10 pages
+## Future discussion
 
-## Center for environmental structure
+Further ongoing discussion of the generative code for the stepwise conception and layout and construction of the Fresno neighborhood, and how its future can be made to unfold successfully, while dealing with the financial uncertainties of a small-town developer, will be presented in an open document that can be accessed here. 10 pages
 
-established 1967 and
-
-## Centre for environmental structure, europe
-
-established 2005
+and
 
 *From* Building Living Neighborhoods *by Christopher Alexander, Maggie Moore Alexander, Randy Schmidt and Nick Littlestone, with Bev Behrman and Howard Davis. © Center for Environmental Structure. [Original page](https://www.livingneighborhoods.org/ht-0/fresno.htm).*

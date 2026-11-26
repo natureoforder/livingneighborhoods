@@ -12,25 +12,15 @@ source_sha256: "bdcefa1158b249a503e50b65aac64276c60012a4dd241298032bce39c9fc8349
 
 Example 1: Looking
 
-![](../../assets/actions/pics/people/twopeople.jpg)
+![](../../assets/actions/pics/people/twopeople.jpg) Example 2: Thinking together
 
-Example 2: Thinking together
+![](../../assets/actions/pics/people/maggiesophie-inthesnow.jpg) Example 3: Walking the land
 
-![](../../assets/actions/pics/people/maggiesophie-inthesnow.jpg)
+![](../../assets/actions/pics/people/listening-to-oneanother.jpg) Example 4: Listening
 
-Example 3: Walking the land
+![](../../assets/actions/pics/people/looking3.jpg) Example 5: Looking at the land together
 
-![](../../assets/actions/pics/people/listening-to-oneanother.jpg)
-
-Example 4: Listening
-
-![](../../assets/actions/pics/people/looking3.jpg)
-
-Example 5: Looking at the land together
-
-![](../../assets/actions/pics/people/working.jpg)
-
-Example 6: Working together
+![](../../assets/actions/pics/people/working.jpg) Example 6: Working together
 
 ## Go out and think about things by yourself
 

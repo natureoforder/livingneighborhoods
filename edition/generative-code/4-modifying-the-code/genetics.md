@@ -24,6 +24,6 @@ Thus it is not far fetched at all, to say that our baseline code (as presented o
 
 ---
 
-← [The baseline code](baseline-code.md) · ↑ [Phase 3: Modifying the code](index.md) · → [Local and cultural patterns](local-and-cultural-patterns.md)
+← [The baseline code](baseline-code.md) · ↑ [Phase 4: Modifying the code](index.md) · → [Local and cultural patterns](local-and-cultural-patterns.md)
 
 *From* Building Living Neighborhoods *by Christopher Alexander, Maggie Moore Alexander, Randy Schmidt and Nick Littlestone, with Bev Behrman and Howard Davis. © Center for Environmental Structure. [Original page](https://www.livingneighborhoods.org/actions/genetics.htm).*

@@ -6,17 +6,9 @@ archive_path: "archive/www.livingneighborhoods.org/ht-0/basics.htm"
 source_sha256: "abf27ceadf2fce0a78320ffc826fbb5fdf1f17fa393486dbb20cee52f7eca935"
 ---
 
-![](../assets/pics/white.jpg)
-
-![](../assets/images/bln-blue-livingneighborhoods.jpg)
-
-![](../assets/images/bln-blue-theory-background.jpg)
-
 [jump](#anchor)
 
 ## Basics of neighborhood structure
-
-![](../assets/images/noo.gif)
 
 How much is known about the key features of a successfulneighborhood?
 

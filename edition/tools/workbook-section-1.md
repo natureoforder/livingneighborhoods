@@ -6,13 +6,9 @@ archive_path: "archive/www.livingneighborhoods.org/packets/workbook-section1.htm
 source_sha256: "99675844bfe0b7e9ef092f13d08a8b66b6bf8dce9187d01bd31726a2803e0096"
 ---
 
-![](../assets/pics/white.jpg)
-
 ![](../assets/pics/open-workbook.jpg)
 
 ***Building Living Neighborhoods***
-
-![](../assets/images/noonew5-t.jpg)
 
 ## Workbook section 1
 

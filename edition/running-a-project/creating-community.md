@@ -6,17 +6,9 @@ archive_path: "archive/www.livingneighborhoods.org/ht-0/community.htm"
 source_sha256: "12a297056263242a3bbe4e3ef31f4079afc64642ea6cfb5dabf57ea5c05f68fc"
 ---
 
-![](../assets/pics/white.jpg)
-
-![](../assets/images/bln-blue-livingneighborhoods.jpg)
-
-![](../assets/images/bln-blue-theory-background.jpg)
-
 [jump](#anchor)
 
 ## Creating human community
-
-![](../assets/images/noo.gif)
 
 If one thing, more than any other, distinguishes a real neighborhood from the corporate machine-architecture of the 20th-century developer, it is the fact that real people have -- together -- conceived it, planned it, and built it. It is this human reality which makes it worth living in, pleasant to be there, and valuable.
 
@@ -48,8 +40,6 @@ All the materials and processes described on this site emphasize the need for pe
 
 This short [Note from Chris](../ideas/building-on-relationship.md) describes the human under-structure of community, and the way this under-structure liberates the possibility of unfolding and morphogenesis, then allowing a **real** neighborhood to form itself in human and geometric terms.
 
-Center for environmental structure established 1967 and
-
-Centre for environmental structure, europe established 2005
+and
 
 *From* Building Living Neighborhoods *by Christopher Alexander, Maggie Moore Alexander, Randy Schmidt and Nick Littlestone, with Bev Behrman and Howard Davis. © Center for Environmental Structure. [Original page](https://www.livingneighborhoods.org/ht-0/community.htm).*

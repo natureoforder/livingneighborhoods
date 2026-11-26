@@ -8,8 +8,6 @@ source_sha256: "bf81cc7e5e0d4ec0fdee64b71b5fa8858aa41f8965a3950f0c87df4172d56d69
 
 ## A village story
 
-![](../assets/images/noo.gif)
-
 Maggie Moore Alexander
 
 Chris and I live in the tiny little village of Binsted in the south of England known as the South Downs. There are about 30 houses on Binsted Lane, the single track road that makes a horseshoe off and back onto the main highway, along with several farms, a 12^(th) century church, and a pub. That’s it. That’s Binsted. But when we came here in April of 2003, I was introduced to the richest community experience I have ever known.
