@@ -1,0 +1,3 @@
+.beads.gate.lock
+# The archive keeps the source site's Java applets as evidence; override the global *.jar ignore.
+!*.jar
