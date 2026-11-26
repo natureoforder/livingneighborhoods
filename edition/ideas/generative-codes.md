@@ -48,7 +48,7 @@ This system of rules is a **generative system**.
 
 ## Start applying generative thinking to a typical neighborhood
 
-To start thinking about a neighborhood in generative terms, please look at the [three rules for starting a neighborhood](../generative-code/5-public-spaces/main-center.md) by clicking this link.
+To start thinking about a neighborhood in generative terms, please look at the [three rules for starting a neighborhood](../generative-code/5-public-spaces/main-center.md).
 
 Again, these simple rules are **generative** rules. You will find they generate something that is more in keeping with the land, or with existing buildings around the area: and you will find, too, that if you do it well, it will be more in keeping with the feeling in your heart.
 
@@ -58,7 +58,7 @@ If you continue the generative way of thinking when you go through detailed desi
 
 ## Watch a neighborhood plan unfolding
 
-**It is exciting to watch.** Please look at [**THE UNFOLDING OF STROOD IN KENT**](../examples/strood-riverside.md) by clicking this link. You will see the geometric structure of the new neighborhood arising step by step, under the impact of some thirty generative rules. You may visit other parts of the site to get more information about the way this process works, in practice.
+**It is exciting to watch.** Please look at [**THE UNFOLDING OF STROOD IN KENT**](../examples/strood-riverside.md). You will see the geometric structure of the new neighborhood arising step by step, under the impact of some thirty generative rules. You may visit other parts of the site to get more information about the way this process works, in practice.
 
 ## Writing generative code
 

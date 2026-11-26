@@ -37,7 +37,7 @@ In order to understand what unfoldings are really like, and what the word really
 
 We should like to draw your attention, also, to the [neighborhoods page](../examples/index.md). Although some of the neighborhoods illustrated were built several years ago, they were all based on our technology of unfolding, going through all phases of conception, involvement of users, design, control of money, inventive construction techniques, and construction management, as described on this website, even though -- in those early days -- the unfolding technology did not yet exist in the formal manner now described on these pages. In short, neighborhoods illustrated now work because the "decisive" considerations were present from the beginning.
 
-The nine main phases, each a distinct constellation of issues which come into play in approximate sequence, and at distinct phases of the project. You may jump to the phase you want by clicking the links on the left.
+The nine main phases, each a distinct constellation of issues which come into play in approximate sequence, and at distinct phases of the project.
 
 [Conditions](#step0)
 
@@ -539,7 +539,7 @@ THESE SEVEN MAIN STEPS ENSURE THAT THE ESSENTIAL PROCEDURES RECEIVE CAREFUL ATTE
 
 The overall flow of the process is complex because it involves a subtle human process -- creating bonds between people -- while at the same time involving many technical issues having to do with land, buildings, and city government. This guide will help you work through the complexity to actualize your vision.
 
-There are seven main steps, each being a distinct constellation of issues, which come into play in approximate sequence, and at distinct phases of the project. You may jump to the step you want by clicking the links on the left.
+There are seven main steps, each being a distinct constellation of issues, which come into play in approximate sequence, and at distinct phases of the project.
 
 [Step 1](#step1)
 

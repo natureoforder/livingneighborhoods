@@ -144,7 +144,7 @@ We would not normally expect that you would require full professional services i
 
 ## Send US an email
 
-To make an appointment for a phone consultation, please send us an email by clicking this link: <info@livingneighborhoods.org> . Please include the [**basic worksheet**](../generative-code/1-startup-and-vision/parameters.md) and include it with your email.
+To make an appointment for a phone consultation, please send us an email: <info@livingneighborhoods.org> . Please include the [**basic worksheet**](../generative-code/1-startup-and-vision/parameters.md) and include it with your email.
 
 **Didn't Find Your Situation Described Here?** [next             [previous             [jump back to menu](#menu)](#lowcost)](#working)
 

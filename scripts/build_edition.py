@@ -426,6 +426,9 @@ def to_markdown(blocks):
     md = re.sub(r"(?m)^\\$\n?", "", md)
     md = md.replace(" ", " ")
     md = re.sub(r"[ \t]+$", "", md, flags=re.M)
+    # old-site mechanics: "... by clicking this link." and "jump ... by clicking the links on the left"
+    md = re.sub(r"\s+by clicking (?:on )?this link", "", md)
+    md = re.sub(r"\s*You may jump to the [^.\n]*?by clicking the links on the left\.?", "", md)
     # lower-case shouty lead-ins at the start of a paragraph: "IF ONE THING, MORE THAN ANY OTHER, distinguishes"
     def fix(m):
         return sentence_case(m.group(1)) + m.group(2)

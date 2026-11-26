@@ -1,63 +1,33 @@
 ---
 title: "Example neighborhoods"
-description: "Examples of living neighborhoods and the generative codes which created…"
+description: "Examples of living neighborhoods and the generative codes which created them, showing how life takes many extraordinarily different forms in different places of the world."
 source: "https://www.livingneighborhoods.org/ht-0/neighborhoods.htm"
 archive_path: "archive/www.livingneighborhoods.org/ht-0/neighborhoods.htm"
 source_sha256: "fb9f6102fe6e4d66dfe355dbd553780a98a148e6d32ec8211a53424c05236b60"
+edited: true
 ---
 
-[jump](#countries)
+**Building a new class of neighborhoods.** Examples of living neighborhoods and the generative codes which created them. They show how "life" takes many, extraordinarily different forms in different places of the world. These are examples of the authors' work in particular neighborhoods in various countries.
 
-## Building a new class of neighborhoods
+## Examples by country
 
-Examples of living neighborhoods and the generative codes which created them
+- **California:** [Fresno farmers' market](fresno-market.md): bringing neighborhood and commercial space together.
+- **England:** [West Dean](west-dean.md): a place where the beauty of the architecture plays a large part in the sense of community that people feel. [Schumacher College](schumacher-college.md): a contrast of two processes. [Strood Riverside](strood-riverside.md). [A village story](a-village-story.md): Maggie Moore Alexander on the village of Binsted, in the South Downs.
+- **Japan:** [Eishin campus](eishin-campus.md) (the original lists Higashino, a twenty-acre neighborhood for 1200 people, and Eishin College, both pointing here). [Komagome](komagome.md): a five story apartment building laid out to enhance the two streets of the neighborhood.
+- **Mexico:** [Mexicali: houses for $3,000](mexicali.md): a community of $3000 houses.
+- **Oregon:** [Agate](agate-university-of-oregon.md): a small student neighborhood for the University of Oregon.
+- **Texas:** [Back of the Moon](back-of-the-moon-texas.md): a beautiful emphasis on the common land which binds the neighborhood together.
+- **Colombia:** [Santa Rosa de Cabal](santa-rosa.md): a process for a neighborhood of 70 houses entirely built by the seventy families themselves.
+- **Uzbekistan:** [Samarkand](samarkand.md): a new city center, revivifying modern feelings and ancient values in modern form.
 
-They show how "life" takes many, extraordinarily different forms in different places of the world.
+## An unfolding in history
 
-Under each country, click on the neighborhood you would like to see. Plain black descriptions are not active yet.
+- [St Mark's Square](st-marks-square.md): the thousand year unfolding of St Mark's Square in Venice from 560 AD to 1600 AD, in a cycle of four basic steps repeated again and again.
 
-[California [Fresno market community, bringing neighborhood and commercial space together](fresno-market.md)   San Jose Homeless community   Sanders estate   Modesto clinic   Waldorf, Altadena   Fort Mason](#countries)
+## Never written up on the original site
 
-England [West Dean: A place where the beauty of the architecture plays a large part in the sense of community that people feel](west-dean.md) London [Schumacher College: A contrast of two processes](schumacher-college.md) Sheffield Parson Cross [Strood Riverside](strood-riverside.md)
+The original page also listed these places by name, without pages: San Jose Homeless community, Sanders estate, Modesto clinic, Waldorf (Altadena), Fort Mason (California); Sheffield Parson Cross (England); Sapporo apartments (Japan); Harbor Hills new town, Fairview (Salem), University of Oregon (Oregon); Guasare new town (Venezuela); Bavra village (India); Fort Lauderdale, Progresso district (Florida); Frankfurt, Hoechst (Germany); Boston, Somerville (Massachusetts).
 
-Japan [Higashino: A twenty-acre neighborhood for 1200 people](eishin-campus.md) Sapporo apartments [Eishin College](eishin-campus.md) [Komagome](komagome.md)
-
-Mexico
-
-[Mexicali community of \$3000 houses](mexicali.md)
-
-Oregon
-
-Harbor Hills new town [Agate housing: a small student neighborhood for the University of Oregon](agate-university-of-oregon.md) Fairview, Salem University of Oregon
-
-Texas
-
-Back of the Moon Neighborhood: A beautiful emphasis on the common land which binds the neighborhood together.
-
-[Colombia [Santa Rosa de Cabal: A process for a neighborhood of 70 houses entirely built by the seventy families themselves.](santa-rosa.md)](#countries)
-
-Venezuela
-
-Guasare new town
-
-India
-
-Bavra village
-
-[Florida Fort Lauderdale, Progresso district](#countries)
-
-Uzbekistan
-
-[Samarkand: a new city center, revivifying modern feelings and ancient values in modern form](samarkand.md)
-
-Germany
-
-Frankfurt, Hoechst
-
-[Massachusetts Boston, Somerville](#countries)
-
-**EXAMPLES OF OUR WORK IN PARTICULAR NEIGHBORHOODS IN VARIOUS COUNTRIES**
-
-Click on the neighborhood you would like to see
+---
 
 *From* Building Living Neighborhoods *by Christopher Alexander, Maggie Moore Alexander, Randy Schmidt and Nick Littlestone, with Bev Behrman and Howard Davis. © Center for Environmental Structure. [Original page](https://www.livingneighborhoods.org/ht-0/neighborhoods.htm).*
