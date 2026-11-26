@@ -16,7 +16,7 @@ About 60 of the 209 pages are duplicates: the same text at two addresses, an `ht
 
 ## Reader structure
 
-Under `works/living-neighborhoods/` in the wiki (and `edition/` here):
+Under `living-neighborhoods/` in the wiki (and `edition/` here):
 
 | Section | What it is | Pages |
 |---|---|---|

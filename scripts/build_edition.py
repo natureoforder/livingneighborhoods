@@ -673,12 +673,15 @@ def page_description(path):
 def write_generated_indexes(titles):
     """Section index pages for sections without a source index page, and about/index."""
     for section, (title, intro) in SECTION_INTROS.items():
+        out = EDITION / section / "index.md"
+        if out.exists() and re.search(r"(?m)^edited: true$", out.read_text(encoding="utf-8")):
+            continue
         pages = [d for d in titles if d.startswith(section + "/")]
         lines = [frontmatter({"title": title, "description": intro, "generated": True}), intro, ""]
         for d in pages:
             desc = page_description(EDITION / f"{d}.md")
             lines.append(f"- [{titles[d]}]({rel(section + '/index', d + '.md')})" + (f": {desc}" if desc else ""))
-        (EDITION / section / "index.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
+        out.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
     rows_merge, rows_dup, rows_ex, rows_page = [], [], [], []
     for src, (role, dest, note) in sorted(MAP.items()):

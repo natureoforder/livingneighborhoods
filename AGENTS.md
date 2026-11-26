@@ -4,7 +4,7 @@
 
 - `archive/` is the preservation layer. Keep the crawled HTML and linked assets intact; do not use it as the Flowershow content root.
 - `raw/` is machine Markdown of every archived page (`scripts/convert_raw.py`); never hand-edit it.
-- `edition/` is the reader edition, built by `scripts/build_edition.py` from the page map `scripts/edition_map.py` (layout: `docs/plans/2026-11-26-edition-layout.md`). Pages with `edited: true` are hand-edited and never overwritten. `scripts/check_edition.py` checks it. It is synced into the Alexander Wiki at `works/living-neighborhoods/` by `scripts/sync_to_wiki.py`.
+- `edition/` is the reader edition, built by `scripts/build_edition.py` from the page map `scripts/edition_map.py` (layout: `docs/plans/2026-11-26-edition-layout.md`). Pages with `edited: true` are hand-edited and never overwritten. `scripts/check_edition.py` checks it. It is synced into the Alexander Wiki's `living-neighborhoods/` section (plus one Works entry, `works/2006-building-living-neighborhoods`) by `scripts/sync_to_wiki.py`.
 - `scripts/archive_site.py` refreshes the archive from the source site.
 - `archive/www.livingneighborhoods.org/manifest.json` is the URL, status, checksum, and provenance ledger for the live snapshot.
 - `archive/PAGE-INDEX.csv` is the human-readable inventory of archived and failed page requests; regenerate it with `scripts/build_archive_index.py` after any manifest change.
