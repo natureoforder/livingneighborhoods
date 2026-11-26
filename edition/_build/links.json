@@ -1,0 +1,1004 @@
+[
+ {
+  "page": "generative-code/index",
+  "source": "ht-0/steplist.htm",
+  "href": "../actions/worksheet.htm",
+  "resolved": "actions/worksheet.htm"
+ },
+ {
+  "page": "generative-code/index",
+  "source": "ht-0/steplist.htm",
+  "href": "../actions/drawdiagnosis.htm",
+  "resolved": "actions/drawdiagnosis.htm"
+ },
+ {
+  "page": "generative-code/index",
+  "source": "ht-0/steplist.htm",
+  "href": "../actions/codeitems.htm",
+  "resolved": "actions/codeitems.htm"
+ },
+ {
+  "page": "generative-code/index",
+  "source": "ht-0/steplist.htm",
+  "href": "../actions/locations.htm",
+  "resolved": "actions/locations.htm"
+ },
+ {
+  "page": "generative-code/index",
+  "source": "ht-0/steplist.htm",
+  "href": "../actions/addtoworkbook.htm",
+  "resolved": "actions/addtoworkbook.htm"
+ },
+ {
+  "page": "generative-code/index",
+  "source": "ht-0/steplist.htm",
+  "href": "../actions/publish.htm",
+  "resolved": "actions/publish.htm"
+ },
+ {
+  "page": "generative-code/index",
+  "source": "ht-0/steplist.htm",
+  "href": "../actions/minorcenters.htm",
+  "resolved": "actions/minorcenters.htm"
+ },
+ {
+  "page": "generative-code/index",
+  "source": "ht-0/steplist.htm",
+  "href": "../actions/minorcenters.htm",
+  "resolved": "actions/minorcenters.htm"
+ },
+ {
+  "page": "generative-code/1-startup-and-vision/index",
+  "source": "packets/vision-phase.htm",
+  "href": "../clickagreement/clickagreementces.htm",
+  "resolved": "clickagreement/clickagreementces.htm"
+ },
+ {
+  "page": "generative-code/2-diagnosis/index",
+  "source": "packets/diagnosis-phase.htm",
+  "href": "gps.htm",
+  "resolved": "packets/gps.htm"
+ },
+ {
+  "page": "generative-code/4-density/index",
+  "source": "packets/density-phase.htm",
+  "href": "../actions/definedensity.htm",
+  "resolved": "actions/definedensity.htm"
+ },
+ {
+  "page": "generative-code/4-density/index",
+  "source": "packets/density-phase.htm",
+  "href": "../actions/clustering.htm",
+  "resolved": "actions/clustering.htm"
+ },
+ {
+  "page": "generative-code/4-density/index",
+  "source": "packets/density-phase.htm",
+  "href": "../actions/healsurroundings.htm",
+  "resolved": "actions/healsurroundings.htm"
+ },
+ {
+  "page": "generative-code/4-density/index",
+  "source": "packets/density-phase.htm",
+  "img": "../actions/pics/density/naples1.jpg",
+  "resolved": "actions/pics/density/naples1.jpg"
+ },
+ {
+  "page": "generative-code/5-public-spaces/index",
+  "source": "packets/publicspaces-phase.htm",
+  "href": "../actions/embellish.htm",
+  "resolved": "actions/embellish.htm"
+ },
+ {
+  "page": "generative-code/5-public-spaces/index",
+  "source": "packets/publicspaces-phase.htm",
+  "href": "../actions/bigger.htm",
+  "resolved": "actions/bigger.htm"
+ },
+ {
+  "page": "generative-code/5-public-spaces/index",
+  "source": "packets/publicspaces-phase.htm",
+  "href": "../actions/paths.htm",
+  "resolved": "actions/paths.htm"
+ },
+ {
+  "page": "generative-code/5-public-spaces/index",
+  "source": "packets/publicspaces-phase.htm",
+  "href": "../actions/minorcenters.htm",
+  "resolved": "actions/minorcenters.htm"
+ },
+ {
+  "page": "generative-code/5-public-spaces/positive-space",
+  "source": "actions/positivespace.htm",
+  "href": "../apl/apl106/apl106x.htm",
+  "resolved": "apl/apl106/apl106x.htm"
+ },
+ {
+  "page": "generative-code/6-building-volumes/building-fronts",
+  "source": "actions/housefronts.htm",
+  "href": "../clickagreement/clickagreementces.htm",
+  "resolved": "clickagreement/clickagreementces.htm"
+ },
+ {
+  "page": "unfoldings/index",
+  "source": "ht-0/libraryofunfoldings.htm",
+  "href": "../unfoldings/wholenessextending.htm",
+  "resolved": "unfoldings/wholenessextending.htm"
+ },
+ {
+  "page": "unfoldings/index",
+  "source": "ht-0/libraryofunfoldings.htm",
+  "href": "../unfoldings/jobofbuildings.htm",
+  "resolved": "unfoldings/jobofbuildings.htm"
+ },
+ {
+  "page": "unfoldings/index",
+  "source": "ht-0/libraryofunfoldings.htm",
+  "href": "../unfoldings/buildingsintensifyingpedestriancenters.htm",
+  "resolved": "unfoldings/buildingsintensifyingpedestriancenters.htm"
+ },
+ {
+  "page": "unfoldings/index",
+  "source": "ht-0/libraryofunfoldings.htm",
+  "href": "../unfoldings/costcontrol.htm",
+  "resolved": "unfoldings/costcontrol.htm"
+ },
+ {
+  "page": "running-a-project/main-steps-of-work",
+  "source": "ht-0/mainsteps.htm",
+  "href": "../unfoldings/foundations.htm",
+  "resolved": "unfoldings/foundations.htm"
+ },
+ {
+  "page": "running-a-project/main-steps-of-work",
+  "source": "ht-0/mainsteps.htm",
+  "href": "../ht-2/fifteen.htm#positivespace",
+  "resolved": "ht-2/fifteen.htm"
+ },
+ {
+  "page": "running-a-project/main-steps-of-work",
+  "source": "ht-0/mainsteps.htm",
+  "href": "standardnbdbudget.htm",
+  "resolved": "ht-0/standardnbdbudget.htm"
+ },
+ {
+  "page": "running-a-project/main-steps-of-work",
+  "source": "ht-0/mainsteps.htm",
+  "href": "../library/somervillespreadsheet.xls",
+  "resolved": "library/somervillespreadsheet.xls"
+ },
+ {
+  "page": "running-a-project/main-steps-of-work",
+  "source": "ht-0/mainsteps.htm",
+  "href": "../noorefs/highdensityhousing.htm",
+  "resolved": "noorefs/highdensityhousing.htm"
+ },
+ {
+  "page": "running-a-project/main-steps-of-work",
+  "source": "ht-0/mainsteps.htm",
+  "href": "../noorefs/highdensityhousing.htm",
+  "resolved": "noorefs/highdensityhousing.htm"
+ },
+ {
+  "page": "running-a-project/main-steps-of-work",
+  "source": "ht-0/mainsteps.htm",
+  "href": "../noorefs/god.htm",
+  "resolved": "noorefs/god.htm"
+ },
+ {
+  "page": "running-a-project/main-steps-of-work",
+  "source": "ht-0/mainsteps.htm",
+  "href": "../noorefs/god.htm",
+  "resolved": "noorefs/god.htm"
+ },
+ {
+  "page": "running-a-project/main-steps-of-work",
+  "source": "ht-1/implementation.htm",
+  "href": "home.htm",
+  "resolved": "ht-1/home.htm"
+ },
+ {
+  "page": "running-a-project/main-steps-of-work",
+  "source": "ht-1/implementation.htm",
+  "href": "../library/.pdf",
+  "resolved": "library/.pdf"
+ },
+ {
+  "page": "running-a-project/main-steps-of-work",
+  "source": "ht-1/implementation.htm",
+  "href": "../library/.pdf",
+  "resolved": "library/.pdf"
+ },
+ {
+  "page": "running-a-project/main-steps-of-work",
+  "source": "ht-1/implementation.htm",
+  "href": "standardnbdbudget.htm",
+  "resolved": "ht-1/standardnbdbudget.htm"
+ },
+ {
+  "page": "running-a-project/main-steps-of-work",
+  "source": "ht-1/implementation.htm",
+  "href": "../library/somervillespreadsheet.xls",
+  "resolved": "library/somervillespreadsheet.xls"
+ },
+ {
+  "page": "running-a-project/main-steps-of-work",
+  "source": "ht-1/implementation.htm",
+  "href": "../noorefs/highdensityhousing.htm",
+  "resolved": "noorefs/highdensityhousing.htm"
+ },
+ {
+  "page": "running-a-project/main-steps-of-work",
+  "source": "ht-1/implementation.htm",
+  "href": "../noorefs/god.htm",
+  "resolved": "noorefs/god.htm"
+ },
+ {
+  "page": "running-a-project/main-steps-of-work",
+  "source": "ht-1/implementation.htm",
+  "href": "contracts.htm",
+  "resolved": "ht-1/contracts.htm"
+ },
+ {
+  "page": "running-a-project/conversation-on-sustainability",
+  "source": "library/conversations/sustainability.htm",
+  "img": "..\\..\\images\\conversations-2.jpg",
+  "resolved": "library/conversations/..\\..\\images\\conversations-2.jpg"
+ },
+ {
+  "page": "tools/workbook",
+  "source": "ht-0/workbook-downloads.htm",
+  "href": "../worksheets/worksheets-for-phase2.htm",
+  "resolved": "worksheets/worksheets-for-phase2.htm"
+ },
+ {
+  "page": "tools/workpad-startup-and-vision",
+  "source": "workpackets/packet1.htm",
+  "img": "..\\images\\noonew5-t.jpg",
+  "resolved": "workpackets/..\\images\\noonew5-t.jpg"
+ },
+ {
+  "page": "tools/workpad-startup-and-vision",
+  "source": "workpackets/packet1.htm",
+  "img": "..\\images\\noonew5-t.jpg",
+  "resolved": "workpackets/..\\images\\noonew5-t.jpg"
+ },
+ {
+  "page": "examples/eishin-campus",
+  "source": "ht-0/eishincampus.htm",
+  "href": "../library/eishin-pl-short.htm",
+  "resolved": "library/eishin-pl-short.htm"
+ },
+ {
+  "page": "examples/eishin-campus",
+  "source": "ht-0/eishincollege.htm",
+  "href": "../library/eishin-pl-short.htm",
+  "resolved": "library/eishin-pl-short.htm"
+ },
+ {
+  "page": "examples/west-dean",
+  "source": "ht-0/westdean.htm",
+  "href": "../noorefs/wdprocess.htm",
+  "resolved": "noorefs/wdprocess.htm"
+ },
+ {
+  "page": "examples/west-dean",
+  "source": "ht-0/westdean.htm",
+  "href": "../library/west-dean-process.pdf",
+  "resolved": "library/west-dean-process.pdf"
+ },
+ {
+  "page": "examples/fresno-market",
+  "source": "ht-0/fresno.htm",
+  "href": "../library/fresno-code.htm",
+  "resolved": "library/fresno-code.htm"
+ },
+ {
+  "page": "examples/strood-riverside",
+  "source": "ht-1/sheffield.htm",
+  "img": "../pics/cstep-new-5.jpg",
+  "resolved": "pics/cstep-new-5.jpg"
+ },
+ {
+  "page": "examples/strood-riverside",
+  "source": "ht-1/sheffield.htm",
+  "href": "../../NEIGHBORHOOD.HTM",
+  "resolved": "NEIGHBORHOOD.HTM"
+ },
+ {
+  "page": "ideas/generative-codes",
+  "source": "ht-0/generative.htm",
+  "href": "../library/schumacher-v16.pdf",
+  "resolved": "library/schumacher-v16.pdf"
+ },
+ {
+  "page": "ideas/building-on-relationship",
+  "source": "ht-0/relationships5.htm",
+  "img": "..\\images\\noo.gif",
+  "resolved": "ht-0/..\\images\\noo.gif"
+ },
+ {
+  "page": "ideas/nature-of-order-references",
+  "source": "noorefs/annotated-index.htm",
+  "href": "god.htm",
+  "resolved": "noorefs/god.htm"
+ },
+ {
+  "page": "ideas/nature-of-order-references",
+  "source": "noorefs/annotated-index.htm",
+  "href": "sptransformations.htm",
+  "resolved": "noorefs/sptransformations.htm"
+ },
+ {
+  "page": "ideas/nature-of-order-references",
+  "source": "noorefs/annotated-index.htm",
+  "href": "wdprocess.htm",
+  "resolved": "noorefs/wdprocess.htm"
+ },
+ {
+  "page": "ideas/nature-of-order-references",
+  "source": "noorefs/annotated-index.htm",
+  "href": "wdprocess.htm",
+  "resolved": "noorefs/wdprocess.htm"
+ },
+ {
+  "page": "library/the-architect-of-life",
+  "source": "library/the-architect-of-life.htm",
+  "img": "the-architect-of-life_files/TOPRIGHTCURVE.gif",
+  "resolved": "library/the-architect-of-life_files/TOPRIGHTCURVE.gif"
+ },
+ {
+  "page": "library/the-architect-of-life",
+  "source": "library/the-architect-of-life.htm",
+  "img": "the-architect-of-life_files/library\\",
+  "resolved": "library/the-architect-of-life_files/library\\"
+ },
+ {
+  "page": "library/the-architect-of-life",
+  "source": "library/the-architect-of-life.htm",
+  "img": "the-architect-of-life_files/library\\",
+  "resolved": "library/the-architect-of-life_files/library\\"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/header_nav_bar_hybrid4_01.jpg",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/header_nav_bar_hybrid4_01.jpg"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/header_nav_bar_hybrid4_02.jpg",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/header_nav_bar_hybrid4_02.jpg"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/spacer.gif",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/spacer.gif"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/header_logo.jpg",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/header_logo.jpg"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/header_nav_bar_hybrid4_04.jpg",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/header_nav_bar_hybrid4_04.jpg"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/header_nav_bar_hybrid4_05.jpg",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/header_nav_bar_hybrid4_05.jpg"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/spacer.gif",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/spacer.gif"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/header_enews.jpg",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/header_enews.jpg"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/header_nav_bar_hybrid4_07.jpg",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/header_nav_bar_hybrid4_07.jpg"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/header_free_issues.jpg",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/header_free_issues.jpg"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/header_nav_bar_hybrid4_09.jpg",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/header_nav_bar_hybrid4_09.jpg"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/spacer.gif",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/spacer.gif"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/header_nav_bar_hybrid4_10.jpg",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/header_nav_bar_hybrid4_10.jpg"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/spacer.gif",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/spacer.gif"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/header_nav_bar_hybrid4_11.jpg",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/header_nav_bar_hybrid4_11.jpg"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/spacer.gif",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/spacer.gif"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/header_nav_bar_hybrid4_12.jpg",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/header_nav_bar_hybrid4_12.jpg"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/header_home.jpg",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/header_home.jpg"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/header_nav_bar_hybrid4_14.jpg",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/header_nav_bar_hybrid4_14.jpg"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/header_commentary.jpg",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/header_commentary.jpg"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/header_nav_bar_hybrid4_16.jpg",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/header_nav_bar_hybrid4_16.jpg"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/header_real_life_religion.jpg",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/header_real_life_religion.jpg"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/header_nav_bar_hybrid4_18.jpg",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/header_nav_bar_hybrid4_18.jpg"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/header_news.jpg",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/header_news.jpg"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/header_nav_bar_hybrid4_20.jpg",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/header_nav_bar_hybrid4_20.jpg"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/header_research_reports.jpg",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/header_research_reports.jpg"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/header_nav_bar_hybrid4_22.jpg",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/header_nav_bar_hybrid4_22.jpg"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/header_books.jpg",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/header_books.jpg"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/header_nav_bar_hybrid4_24.jpg",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/header_nav_bar_hybrid4_24.jpg"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/header_altruism.jpg",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/header_altruism.jpg"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/header_nav_bar_hybrid4_26.jpg",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/header_nav_bar_hybrid4_26.jpg"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/header_upcoming_events.jpg",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/header_upcoming_events.jpg"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/header_nav_bar_hybrid4_28.jpg",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/header_nav_bar_hybrid4_28.jpg"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/header_--translated_stories.jpg",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/header_--translated_stories.jpg"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/header_nav_bar_hybrid4_30.jpg",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/header_nav_bar_hybrid4_30.jpg"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/header_guide.jpg",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/header_guide.jpg"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/header_nav_bar_hybrid4_32.jpg",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/header_nav_bar_hybrid4_32.jpg"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/header_subscriptions.jpg",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/header_subscriptions.jpg"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/header_nav_bar_34.jpg",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/header_nav_bar_34.jpg"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/header_about_us.jpg",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/header_about_us.jpg"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/header_nav_bar_36.jpg",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/header_nav_bar_36.jpg"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/spacer.gif",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/spacer.gif"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/header_-----nav_bar_hybrid4.jpg",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/header_-----nav_bar_hybrid4.jpg"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/spacer.gif",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/spacer.gif"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/spacer.gif",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/spacer.gif"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/spacer.gif",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/spacer.gif"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/spacer.gif",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/spacer.gif"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/spacer.gif",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/spacer.gif"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/spacer.gif",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/spacer.gif"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/spacer.gif",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/spacer.gif"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/spacer.gif",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/spacer.gif"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/spacer.gif",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/spacer.gif"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/spacer.gif",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/spacer.gif"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/spacer.gif",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/spacer.gif"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/spacer.gif",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/spacer.gif"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/spacer.gif",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/spacer.gif"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/spacer.gif",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/spacer.gif"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/spacer.gif",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/spacer.gif"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/spacer.gif",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/spacer.gif"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/spacer.gif",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/spacer.gif"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/spacer.gif",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/spacer.gif"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/spacer.gif",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/spacer.gif"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/spacer.gif",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/spacer.gif"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/spacer.gif",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/spacer.gif"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/spacer.gif",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/spacer.gif"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/spacer.gif",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/spacer.gif"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/spacer.gif",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/spacer.gif"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/spacer.gif",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/spacer.gif"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/spacer.gif",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/spacer.gif"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/spacer.gif",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/spacer.gif"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/spacer.gif",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/spacer.gif"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/spacer.gif",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/spacer.gif"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/spacer.gif",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/spacer.gif"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/spacer.gif",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/spacer.gif"
+ },
+ {
+  "page": "library/a-glimpse-of-god-in-matter",
+  "source": "library/glimpse.htm",
+  "img": "Science%20&%20Theology%20News%20-%20A%20glimpse%20of%20God%20in%20matter_files/cat_text_long_news.jpg",
+  "resolved": "library/Science & Theology News - A glimpse of God in matter_files/cat_text_long_news.jpg"
+ },
+ {
+  "page": "library/space-makes-life-possible",
+  "source": "library/part1.htm",
+  "img": "Part%201%20-%20%20Architect%20starts%20with%20idea%20that%20space%20makes%20life%20possible_files/sfgate-teal.gif",
+  "resolved": "library/Part 1 -  Architect starts with idea that space makes life possible_files/sfgate-teal.gif"
+ },
+ {
+  "page": "library/space-makes-life-possible",
+  "source": "library/part1.htm",
+  "img": "Part%201%20-%20%20Architect%20starts%20with%20idea%20that%20space%20makes%20life%20possible_files/dot-red-5x7.gif",
+  "resolved": "library/Part 1 -  Architect starts with idea that space makes life possible_files/dot-red-5x7.gif"
+ },
+ {
+  "page": "library/space-makes-life-possible",
+  "source": "library/part1.htm",
+  "img": "Part%201%20-%20%20Architect%20starts%20with%20idea%20that%20space%20makes%20life%20possible_files/dot-red-5x7.gif",
+  "resolved": "library/Part 1 -  Architect starts with idea that space makes life possible_files/dot-red-5x7.gif"
+ },
+ {
+  "page": "library/space-makes-life-possible",
+  "source": "library/part1.htm",
+  "img": "Part%201%20-%20%20Architect%20starts%20with%20idea%20that%20space%20makes%20life%20possible_files/dot-red-5x7.gif",
+  "resolved": "library/Part 1 -  Architect starts with idea that space makes life possible_files/dot-red-5x7.gif"
+ },
+ {
+  "page": "library/space-makes-life-possible",
+  "source": "library/part1.htm",
+  "img": "Part%201%20-%20%20Architect%20starts%20with%20idea%20that%20space%20makes%20life%20possible_files/dot-red-5x7.gif",
+  "resolved": "library/Part 1 -  Architect starts with idea that space makes life possible_files/dot-red-5x7.gif"
+ },
+ {
+  "page": "library/space-makes-life-possible",
+  "source": "library/part1.htm",
+  "img": "Part%201%20-%20%20Architect%20starts%20with%20idea%20that%20space%20makes%20life%20possible_files/dot-red-5x7.gif",
+  "resolved": "library/Part 1 -  Architect starts with idea that space makes life possible_files/dot-red-5x7.gif"
+ },
+ {
+  "page": "library/space-makes-life-possible",
+  "source": "library/part1.htm",
+  "img": "Part%201%20-%20%20Architect%20starts%20with%20idea%20that%20space%20makes%20life%20possible_files/dot-red-5x7.gif",
+  "resolved": "library/Part 1 -  Architect starts with idea that space makes life possible_files/dot-red-5x7.gif"
+ },
+ {
+  "page": "library/space-makes-life-possible",
+  "source": "library/part1.htm",
+  "img": "Part%201%20-%20%20Architect%20starts%20with%20idea%20that%20space%20makes%20life%20possible_files/google-coloronwhite-56x18.gif",
+  "resolved": "library/Part 1 -  Architect starts with idea that space makes life possible_files/google-coloronwhite-56x18.gif"
+ },
+ {
+  "page": "library/space-makes-life-possible",
+  "source": "library/part1.htm",
+  "img": "Part%201%20-%20%20Architect%20starts%20with%20idea%20that%20space%20makes%20life%20possible_files/chronicle_logo.gif",
+  "resolved": "library/Part 1 -  Architect starts with idea that space makes life possible_files/chronicle_logo.gif"
+ },
+ {
+  "page": "library/space-makes-life-possible",
+  "source": "library/part1.htm",
+  "img": "Part%201%20-%20%20Architect%20starts%20with%20idea%20that%20space%20makes%20life%20possible_files/redorangebox5x7.gif",
+  "resolved": "library/Part 1 -  Architect starts with idea that space makes life possible_files/redorangebox5x7.gif"
+ },
+ {
+  "page": "library/space-makes-life-possible",
+  "source": "library/part1.htm",
+  "img": "Part%201%20-%20%20Architect%20starts%20with%20idea%20that%20space%20makes%20life%20possible_files/redorangebox5x7.gif",
+  "resolved": "library/Part 1 -  Architect starts with idea that space makes life possible_files/redorangebox5x7.gif"
+ },
+ {
+  "page": "library/space-makes-life-possible",
+  "source": "library/part1.htm",
+  "img": "Part%201%20-%20%20Architect%20starts%20with%20idea%20that%20space%20makes%20life%20possible_files/redorangebox5x7.gif",
+  "resolved": "library/Part 1 -  Architect starts with idea that space makes life possible_files/redorangebox5x7.gif"
+ },
+ {
+  "page": "library/space-makes-life-possible",
+  "source": "library/part1.htm",
+  "img": "Part%201%20-%20%20Architect%20starts%20with%20idea%20that%20space%20makes%20life%20possible_files/buy_sf_chronicle_1.jpg",
+  "resolved": "library/Part 1 -  Architect starts with idea that space makes life possible_files/buy_sf_chronicle_1.jpg"
+ },
+ {
+  "page": "library/space-makes-life-possible",
+  "source": "library/part1.htm",
+  "img": "Part%201%20-%20%20Architect%20starts%20with%20idea%20that%20space%20makes%20life%20possible_files/clear.gif",
+  "resolved": "library/Part 1 -  Architect starts with idea that space makes life possible_files/clear.gif"
+ },
+ {
+  "page": "library/space-makes-life-possible",
+  "source": "library/part1.htm",
+  "img": "Part%201%20-%20%20Architect%20starts%20with%20idea%20that%20space%20makes%20life%20possible_files/onsale_logo.gif",
+  "resolved": "library/Part 1 -  Architect starts with idea that space makes life possible_files/onsale_logo.gif"
+ },
+ {
+  "page": "library/space-makes-life-possible",
+  "source": "library/part1.htm",
+  "img": "Part%201%20-%20%20Architect%20starts%20with%20idea%20that%20space%20makes%20life%20possible_files/clear.gif",
+  "resolved": "library/Part 1 -  Architect starts with idea that space makes life possible_files/clear.gif"
+ },
+ {
+  "page": "library/space-makes-life-possible",
+  "source": "library/part2.htm",
+  "img": "Part%202%20-%20To%20be%20a%20good%20builder,%20you%20need%20a%20feel%20for%20what%20surrounds%20you_files/sfgate-teal.gif",
+  "resolved": "library/Part 2 - To be a good builder, you need a feel for what surrounds you_files/sfgate-teal.gif"
+ },
+ {
+  "page": "library/space-makes-life-possible",
+  "source": "library/part2.htm",
+  "img": "Part%202%20-%20To%20be%20a%20good%20builder,%20you%20need%20a%20feel%20for%20what%20surrounds%20you_files/dot-red-5x7.gif",
+  "resolved": "library/Part 2 - To be a good builder, you need a feel for what surrounds you_files/dot-red-5x7.gif"
+ },
+ {
+  "page": "library/space-makes-life-possible",
+  "source": "library/part2.htm",
+  "img": "Part%202%20-%20To%20be%20a%20good%20builder,%20you%20need%20a%20feel%20for%20what%20surrounds%20you_files/dot-red-5x7.gif",
+  "resolved": "library/Part 2 - To be a good builder, you need a feel for what surrounds you_files/dot-red-5x7.gif"
+ },
+ {
+  "page": "library/space-makes-life-possible",
+  "source": "library/part2.htm",
+  "img": "Part%202%20-%20To%20be%20a%20good%20builder,%20you%20need%20a%20feel%20for%20what%20surrounds%20you_files/dot-red-5x7.gif",
+  "resolved": "library/Part 2 - To be a good builder, you need a feel for what surrounds you_files/dot-red-5x7.gif"
+ },
+ {
+  "page": "library/space-makes-life-possible",
+  "source": "library/part2.htm",
+  "img": "Part%202%20-%20To%20be%20a%20good%20builder,%20you%20need%20a%20feel%20for%20what%20surrounds%20you_files/dot-red-5x7.gif",
+  "resolved": "library/Part 2 - To be a good builder, you need a feel for what surrounds you_files/dot-red-5x7.gif"
+ },
+ {
+  "page": "library/space-makes-life-possible",
+  "source": "library/part2.htm",
+  "img": "Part%202%20-%20To%20be%20a%20good%20builder,%20you%20need%20a%20feel%20for%20what%20surrounds%20you_files/dot-red-5x7.gif",
+  "resolved": "library/Part 2 - To be a good builder, you need a feel for what surrounds you_files/dot-red-5x7.gif"
+ },
+ {
+  "page": "library/space-makes-life-possible",
+  "source": "library/part2.htm",
+  "img": "Part%202%20-%20To%20be%20a%20good%20builder,%20you%20need%20a%20feel%20for%20what%20surrounds%20you_files/dot-red-5x7.gif",
+  "resolved": "library/Part 2 - To be a good builder, you need a feel for what surrounds you_files/dot-red-5x7.gif"
+ },
+ {
+  "page": "library/space-makes-life-possible",
+  "source": "library/part2.htm",
+  "img": "Part%202%20-%20To%20be%20a%20good%20builder,%20you%20need%20a%20feel%20for%20what%20surrounds%20you_files/google-coloronwhite-56x18.gif",
+  "resolved": "library/Part 2 - To be a good builder, you need a feel for what surrounds you_files/google-coloronwhite-56x18.gif"
+ },
+ {
+  "page": "library/space-makes-life-possible",
+  "source": "library/part2.htm",
+  "img": "Part%202%20-%20To%20be%20a%20good%20builder,%20you%20need%20a%20feel%20for%20what%20surrounds%20you_files/chronicle_logo.gif",
+  "resolved": "library/Part 2 - To be a good builder, you need a feel for what surrounds you_files/chronicle_logo.gif"
+ },
+ {
+  "page": "library/space-makes-life-possible",
+  "source": "library/part2.htm",
+  "img": "Part%202%20-%20To%20be%20a%20good%20builder,%20you%20need%20a%20feel%20for%20what%20surrounds%20you_files/redorangebox5x7.gif",
+  "resolved": "library/Part 2 - To be a good builder, you need a feel for what surrounds you_files/redorangebox5x7.gif"
+ },
+ {
+  "page": "library/space-makes-life-possible",
+  "source": "library/part2.htm",
+  "img": "Part%202%20-%20To%20be%20a%20good%20builder,%20you%20need%20a%20feel%20for%20what%20surrounds%20you_files/redorangebox5x7.gif",
+  "resolved": "library/Part 2 - To be a good builder, you need a feel for what surrounds you_files/redorangebox5x7.gif"
+ },
+ {
+  "page": "library/space-makes-life-possible",
+  "source": "library/part2.htm",
+  "img": "Part%202%20-%20To%20be%20a%20good%20builder,%20you%20need%20a%20feel%20for%20what%20surrounds%20you_files/redorangebox5x7.gif",
+  "resolved": "library/Part 2 - To be a good builder, you need a feel for what surrounds you_files/redorangebox5x7.gif"
+ },
+ {
+  "page": "library/space-makes-life-possible",
+  "source": "library/part2.htm",
+  "img": "Part%202%20-%20To%20be%20a%20good%20builder,%20you%20need%20a%20feel%20for%20what%20surrounds%20you_files/buy_sf_chronicle_1.jpg",
+  "resolved": "library/Part 2 - To be a good builder, you need a feel for what surrounds you_files/buy_sf_chronicle_1.jpg"
+ },
+ {
+  "page": "library/space-makes-life-possible",
+  "source": "library/part2.htm",
+  "img": "Part%202%20-%20To%20be%20a%20good%20builder,%20you%20need%20a%20feel%20for%20what%20surrounds%20you_files/clear.gif",
+  "resolved": "library/Part 2 - To be a good builder, you need a feel for what surrounds you_files/clear.gif"
+ },
+ {
+  "page": "library/space-makes-life-possible",
+  "source": "library/part2.htm",
+  "img": "Part%202%20-%20To%20be%20a%20good%20builder,%20you%20need%20a%20feel%20for%20what%20surrounds%20you_files/onsale_logo.gif",
+  "resolved": "library/Part 2 - To be a good builder, you need a feel for what surrounds you_files/onsale_logo.gif"
+ },
+ {
+  "page": "library/space-makes-life-possible",
+  "source": "library/part2.htm",
+  "img": "Part%202%20-%20To%20be%20a%20good%20builder,%20you%20need%20a%20feel%20for%20what%20surrounds%20you_files/clear.gif",
+  "resolved": "library/Part 2 - To be a good builder, you need a feel for what surrounds you_files/clear.gif"
+ }
+]

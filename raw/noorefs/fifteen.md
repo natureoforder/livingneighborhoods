@@ -1,0 +1,98 @@
+---
+title: "Nature of Order References"
+source: "https://www.livingneighborhoods.org/noorefs/fifteen.htm"
+archive_path: "archive/www.livingneighborhoods.org/noorefs/fifteen.htm"
+source_sha256: "dc581a92ed105966b8d906379b5abd955594d263e25aff629e20b0cc174f11f5"
+---
+
+<span class="h4class" style="font-family:Times" roman;="" font-size:13px;=""><span style="FONT-SIZE:140%">W</span>orking <span style="FONT-SIZE:140%">R</span>eferences to <span style="FONT-SIZE:140%">E</span>xplanations and <span style="FONT-SIZE:140%">E</span>xamples in <span style="FONT-SIZE:140%">N</span>ature of <span style="FONT-SIZE:140%">O</span>rder</span>
+
+[<span class="h5class" style="font-weight:normal;color:0000ff">Back</span>](javascript:history.go(-1))
+
+------------------------------------------------------------------------
+
+\
+<span class="h4class" style="font-family:Times" roman;="" font-size:15px;="">TOPIC     **FIFTEEN PROPERTIES**</span>
+
+------------------------------------------------------------------------
+
+BOOK 1\
+
+<span class="h404class">Chapter  5\
+</span>
+
+<span class="h4class">Pages 173-78: Definition and examples of all fifteen properties.</span>
+
+<span class="h404class">Chapter  6\
+</span>
+
+<span class="h4class">Pages 261-63: Examples of the fifteen properties as they occur in nature.</span>
+
+<span class="h404class">Chapter  8\
+</span>
+
+<span class="h4class">Pages 325-50: The mirror of the self. Positive space as one of the qualities that helps a person form a human bond with a place.</span>
+
+------------------------------------------------------------------------
+
+BOOK 2\
+
+<span class="h404class">Chapter  1\
+</span>
+
+<span class="h4class">Pages 15-50: Overview</span>
+
+<span class="h404class">Chapter  2\
+</span>
+
+<span class="h4class">Pages 69 and 78: Transformations generating the fifteen properties.</span>
+
+<span class="h404class">Chapter  6\
+</span>
+
+<span class="h4class">Pages 182-9: Example of the fifteen properties appearing spontaneously in an evolving neighborhood, when people are paying attention to subtle details as things are built.</span>
+
+<span class="h404class">Chapter  7\
+</span>
+
+<span class="h4class">Pages 211-13: Example of most of the fifteen properties appearing, step by step, in an evolving house design.</span>
+
+<span class="h404class">Chapter  8\
+</span>
+
+<span class="h4class">Pages 232-4: Step by step process of creating positive space</span>
+
+<span class="h404class">Chapter  10\
+</span>
+
+<span class="h4class">Pages 283-95: Centers appearing in the evolution of the Julian Street Shelter for the Homeless.</span>
+
+------------------------------------------------------------------------
+
+BOOK 3\
+
+<span class="h404class">Chapter  3\
+</span>
+
+<span class="h4class">Pages 69-100: The hulls of public space: the necessity for all public space to be positive in character, so that it can form the living room of society.</span>
+
+<span class="h404class">Chapter  5\
+</span>
+
+<span class="h4class">Pages 153-89: The positive pattern of space and volume on the land. See especially pages 188-89.</span>
+
+<span class="h404class">Chapter  9\
+</span>
+
+<span class="h4class">Pages 288-310: Evolution of centers in a neighborhood, as it undergoes a series of changes.</span>
+
+------------------------------------------------------------------------
+
+BOOK 4\
+
+<span class="h404class">Chapter  4\
+</span>
+
+<span class="h4class">Pages 73-110, especially page 98: The idea of centers experienced as "beings" and the presence of ten thousand beings in living space.</span>
+
+------------------------------------------------------------------------

@@ -1,0 +1,243 @@
+"""Page-by-page map from archived HTML to the reader edition.
+
+Each archived page is one of:
+  page    -> becomes edition page `dest` (the canonical source for it)
+  merge   -> folded into edition page `dest` as an extra section
+  dup     -> duplicate or older variant of `dest`; not converted, listed in About
+  exclude -> no reader content (frames, notices, navigation); reason given
+
+Edit this file to change the layout; scripts/build_edition.py and scripts/check_edition.py read it.
+"""
+
+P, M, D, X = "page", "merge", "dup", "exclude"
+GC = "generative-code"
+
+MAP = {
+    # ---- entry and start here
+    "index.html": (X, "", "frameset shell for the old site"),
+    "ht-0/bln-exp.htm": (P, "start-here", "welcome page: who the site is for"),
+    "ht-0/bln.htm": (D, "start-here", "earlier copy of the welcome page"),
+    "ht-0/process.htm": (M, "start-here", "overall process explanation"),
+    "ht-0/basics.htm": (P, "ideas/what-makes-a-neighborhood-live", ""),
+    "ht-1/introduction.htm": (D, "ideas/what-makes-a-neighborhood-live", "older version (ht-1)"),
+    "ht-0/menu-exp.htm": (X, "", "the old site's navigation menu"),
+    "ht-0/beta.htm": (X, "", "beta-site notice"),
+    "actions/betatext.htm": (X, "", "beta-site notice"),
+    "ht-1/home.htm": (X, "", "empty frame page (older site)"),
+    "ht-1/member.htm": (X, "", "members' login stub"),
+
+    # ---- the generative code: overview
+    "ht-0/action.htm": (M, f"{GC}/index", "the six phases"),
+    "ht-0/steplist.htm": (M, f"{GC}/index", "step list with the three kinds of unfolding"),
+    "ht-0/actionlist.htm": (D, f"{GC}/index", "earlier action list, same steps"),
+    "ht-0/gcwelcome.htm": (P, f"{GC}/index", "generative code welcome"),
+
+    # phase 1: startup and vision
+    "packets/vision-phase.htm": (P, f"{GC}/1-startup-and-vision/index", ""),
+    "packets/startup&vision.htm": (X, "", "redirect stub"),
+    "packets/diagnosis.htm": (X, "", "redirect stub"),
+    "actions/parameters.htm": (P, f"{GC}/1-startup-and-vision/parameters", "first sketch of your idea"),
+    "ht-1/worksheet1.htm": (M, f"{GC}/1-startup-and-vision/parameters", "the worksheet itself"),
+    "actions/people.htm": (P, f"{GC}/1-startup-and-vision/people", ""),
+    "actions/vision3.htm": (P, f"{GC}/1-startup-and-vision/vision", "latest version"),
+    "actions/vision.htm": (D, f"{GC}/1-startup-and-vision/vision", "earlier version"),
+    "unfoldings/vision.htm": (D, f"{GC}/1-startup-and-vision/vision", "Library of Unfoldings version"),
+    "actions/basemap.htm": (P, f"{GC}/1-startup-and-vision/basemap", ""),
+    "actions/mapmaking.htm": (M, f"{GC}/1-startup-and-vision/basemap", "shorter earlier version, kept for its differences"),
+    "actions/poeticpl.htm": (P, f"{GC}/1-startup-and-vision/poetic-pattern-language", ""),
+    "unfoldings/poeticpl.htm": (D, f"{GC}/1-startup-and-vision/poetic-pattern-language", "Library of Unfoldings version"),
+
+    # phase 2: diagnosis
+    "packets/diagnosis-phase.htm": (P, f"{GC}/2-diagnosis/index", ""),
+    "actions/diagnosis-intro.htm": (P, f"{GC}/2-diagnosis/introduction", ""),
+    "actions/intro-diagnosis.htm": (D, f"{GC}/2-diagnosis/introduction", "earlier version"),
+    "unfoldings/diagnosis.htm": (D, f"{GC}/2-diagnosis/introduction", "Library of Unfoldings version"),
+    "actions/largestructure.htm": (P, f"{GC}/2-diagnosis/wholeness-structure", "large-structure wholeness diagram"),
+    "actions/thewhole.htm": (M, f"{GC}/2-diagnosis/wholeness-structure", "becoming aware of wholeness"),
+    "unfoldings/thewhole.htm": (D, f"{GC}/2-diagnosis/wholeness-structure", "Library of Unfoldings version"),
+    "actions/preciousplaces.htm": (P, f"{GC}/2-diagnosis/precious-places", ""),
+    "actions/magic.htm": (P, f"{GC}/2-diagnosis/magic-configurations", ""),
+    "unfoldings/magic.htm": (D, f"{GC}/2-diagnosis/magic-configurations", "Library of Unfoldings version"),
+    "actions/repair.htm": (P, f"{GC}/2-diagnosis/damage-and-repair", ""),
+    "actions/latentcenters.htm": (P, f"{GC}/2-diagnosis/latent-centers", ""),
+    "actions/diagnosis.htm": (P, f"{GC}/2-diagnosis/drawing-the-diagnosis", "used the drawing-pad applet"),
+    "actions/gps.htm": (P, f"{GC}/2-diagnosis/gps", ""),
+    "unfoldings/fromwholeness.htm": (P, f"{GC}/2-diagnosis/everything-arises-from-wholeness", ""),
+
+    # phase 3: modifying the code
+    "packets/code-phase.htm": (P, f"{GC}/3-modifying-the-code/index", ""),
+    "actions/entities.htm": (P, f"{GC}/3-modifying-the-code/entities", ""),
+    "unfoldings/entities.htm": (D, f"{GC}/3-modifying-the-code/entities", "Library of Unfoldings version"),
+    "actions/baselinecode.htm": (P, f"{GC}/3-modifying-the-code/baseline-code", ""),
+    "actions/genetics.htm": (P, f"{GC}/3-modifying-the-code/genetics", ""),
+    "actions/culture.htm": (P, f"{GC}/3-modifying-the-code/local-and-cultural-patterns", ""),
+
+    # phase 4: density
+    "packets/density-phase.htm": (P, f"{GC}/4-density/index", ""),
+    "actions/density.htm": (P, f"{GC}/4-density/density", ""),
+
+    # phase 5: public spaces
+    "packets/publicspaces-phase.htm": (P, f"{GC}/5-public-spaces/index", ""),
+    "packets/publicspaces.htm": (X, "", "redirect stub"),
+    "actions/pedestriansfirst.htm": (P, f"{GC}/5-public-spaces/pedestrians-first", ""),
+    "actions/maincenter.htm": (P, f"{GC}/5-public-spaces/main-center", ""),
+    "unfoldings/maincenter.htm": (D, f"{GC}/5-public-spaces/main-center", "Library of Unfoldings version"),
+    "library/three-rules.htm": (D, f"{GC}/5-public-spaces/main-center", "same text under another title"),
+    "actions/pedestriancenters.htm": (P, f"{GC}/5-public-spaces/pedestrian-centers", ""),
+    "unfoldings/pedestriancenters.htm": (D, f"{GC}/5-public-spaces/pedestrian-centers", "Library of Unfoldings version"),
+    "unfoldings/pedestriancenters-urban.htm": (M, f"{GC}/5-public-spaces/pedestrian-centers", "urban or brownfield variant"),
+    "actions/positivespace.htm": (P, f"{GC}/5-public-spaces/positive-space", ""),
+    "unfoldings/positivespace.htm": (M, f"{GC}/5-public-spaces/positive-space", "Library of Unfoldings version, longer"),
+    "actions/recursivepositivespace.htm": (P, f"{GC}/5-public-spaces/recursive-positive-space", ""),
+    "unfoldings/recursivepositivespace.htm": (D, f"{GC}/5-public-spaces/recursive-positive-space", "Library of Unfoldings version"),
+    "actions/embellish.htm": (X, "", "source error: body is a copy of the magic configurations text; the real step was never written"),
+    "actions/bigger.htm": (X, "", "placeholder page: 'TEXT coming'"),
+
+    # phase 6: building volumes
+    "packets/buildingvolumes-phase.htm": (P, f"{GC}/6-building-volumes/index", ""),
+    "packets/buildingvolumes.htm": (D, f"{GC}/6-building-volumes/index", "copy of the phase page"),
+    "actions/housefronts.htm": (P, f"{GC}/6-building-volumes/building-fronts", ""),
+    "actions/buildingfronts.htm": (D, f"{GC}/6-building-volumes/building-fronts", "same page, other address"),
+    "unfoldings/housefronts.htm": (D, f"{GC}/6-building-volumes/building-fronts", "Library of Unfoldings version"),
+    "actions/buildingshape.htm": (P, f"{GC}/6-building-volumes/building-shape", ""),
+
+    # ---- library of unfoldings (beyond the six phases)
+    "ht-0/libraryofunfoldings.htm": (P, "unfoldings/index", ""),
+    "ht-0/whatisanunfolding.htm": (P, "unfoldings/what-is-an-unfolding", ""),
+    "unfoldings/order.htm": (P, "unfoldings/the-order-of-things", ""),
+    "unfoldings/communitydiscussion.htm": (P, "unfoldings/community-discussion", ""),
+    "unfoldings/whodesigns.htm": (P, "unfoldings/who-designs", ""),
+    "unfoldings/recursion.htm": (P, "unfoldings/recursion", "a separate step, mislabelled 'Who designs?' in the source"),
+    "unfoldings/statistics.htm": (M, f"{GC}/1-startup-and-vision/parameters", "statistics worksheet (Library of Unfoldings version)"),
+    "unfoldings/landtenure.htm": (P, "unfoldings/land-tenure", ""),
+    "unfoldings/zoning.htm": (P, "unfoldings/zoning", ""),
+    "unfoldings/surveying.htm": (P, "unfoldings/surveying", ""),
+    "unfoldings/toposurvey.htm": (P, "unfoldings/topographic-survey", ""),
+    "unfoldings/carpositions.htm": (P, "unfoldings/car-positions", ""),
+    "unfoldings/foundationsandplinth.htm": (P, "unfoldings/foundations-and-plinth", ""),
+    "unfoldings/colorandlight.htm": (P, "unfoldings/color-and-light", ""),
+    "unfoldings/main-contract.htm": (D, "running-a-project/main-contract", "same contract text"),
+    "unfoldings/subcontract.htm": (D, "running-a-project/craftsperson-subcontract", "same contract text"),
+
+    # ---- running a project: people, money, contracts
+    "ht-0/mainsteps.htm": (P, "running-a-project/main-steps-of-work", "the broad flow of the building process"),
+    "ht-0/management.htm": (D, "running-a-project/main-steps-of-work", "same text under another title"),
+    "ht-1/implementation.htm": (M, "running-a-project/main-steps-of-work", "earlier version: seven procedural aspects in detail"),
+    "ht-1/main-steps.htm": (M, "running-a-project/main-steps-of-work", "short summary from the older site"),
+    "ht-0/community.htm": (P, "running-a-project/creating-community", ""),
+    "ht-1/community.htm": (D, "running-a-project/creating-community", "older version (ht-1)"),
+    "ht-0/developers.htm": (P, "running-a-project/for-developers", ""),
+    "ht-0/charter.htm": (P, "running-a-project/developers-charter", ""),
+    "library/contracts/main-contract.htm": (P, "running-a-project/main-contract", ""),
+    "library/contracts/sub-contract.htm": (P, "running-a-project/craftsperson-subcontract", ""),
+    "library/construction-organisation.htm": (P, "running-a-project/construction-organisation", ""),
+    "library/conversations/intro.htm": (P, "running-a-project/conversations", ""),
+    "library/conversations/sustainability.htm": (P, "running-a-project/conversation-on-sustainability", "December 2003"),
+    "library/writing-generative-code.htm": (P, f"{GC}/3-modifying-the-code/writing-a-generative-code", ""),
+
+    # ---- tools: workbook and drawing pad
+    "ht-0/workbook.htm": (P, "tools/workbook", ""),
+    "ht-0/workbook-instructions.htm": (M, "tools/workbook", "instructions"),
+    "ht-0/instructions.htm": (M, "tools/workbook", "instructions for use with the website"),
+    "ht-0/workbook-downloads.htm": (M, "tools/workbook", "downloads"),
+    "ht-0/downloads.htm": (D, "tools/workbook", "same downloads page"),
+    "ht-0/workbook-assembly.htm": (M, "tools/workbook", "assembly"),
+    "ht-0/printing.htm": (M, "tools/workbook", "printing pages"),
+    "packets/workbook-section1.htm": (P, "tools/workbook-section-1", ""),
+    "workpackets/packet1.htm": (P, "tools/workpad-startup-and-vision", ""),
+    "worksheets/worksheets-for-phase1.htm": (D, "tools/workpad-startup-and-vision", "same workpad"),
+    "drawing-pad/intro.htm": (P, "tools/drawing-pad", "the applet no longer runs"),
+    "drawing-pad/instructions.htm": (M, "tools/drawing-pad", "instructions"),
+    "drawing-pad/drawinginstructions.htm": (D, "tools/drawing-pad", "earlier instructions"),
+    "drawing-pad/wizard.htm": (M, "tools/drawing-pad", "wizard"),
+    "drawing-pad/drawingpad.htm": (M, "tools/drawing-pad", "the applet page"),
+
+    # ---- examples
+    "ht-0/neighborhoods.htm": (P, "examples/index", ""),
+    "ht-1/neighborhoods.htm": (D, "examples/index", "older version (ht-1)"),
+    "ht-0/eishincampus.htm": (P, "examples/eishin-campus", "Higashino"),
+    "nbds/eishin.htm": (D, "examples/eishin-campus", "shorter copy"),
+    "ht-0/eishincollege.htm": (M, "examples/eishin-campus", "Eishin College"),
+    "ht-1/eishincollege.htm": (D, "examples/eishin-campus", "older version (ht-1)"),
+    "ht-0/mexicali.htm": (P, "examples/mexicali", ""),
+    "ht-1/mexicali.htm": (D, "examples/mexicali", "older shorter version (ht-1)"),
+    "ht-0/westdean.htm": (P, "examples/west-dean", ""),
+    "ht-0/fresno.htm": (P, "examples/fresno-market", ""),
+    "ht-0/schumacher.htm": (P, "examples/schumacher-college", ""),
+    "ht-0/strood-riverside.htm": (P, "examples/strood-riverside", ""),
+    "nbds/strood-riverside.htm": (D, "examples/strood-riverside", "same page"),
+    "ht-0/strood.htm": (M, "examples/strood-riverside", "Strood neighbourhood-making"),
+    "ht-1/strood.htm": (D, "examples/strood-riverside", "older version (ht-1)"),
+    "ht-1/sheffield.htm": (M, "examples/strood-riverside", "bird's-eye view of Strood (filed as Sheffield)"),
+    "unfoldingmovies/strood-cumulative/strood-unfold.htm": (M, "examples/strood-riverside", "the unfolding movie (applet no longer runs)"),
+    "ht-0/samarkand.htm": (P, "examples/samarkand", ""),
+    "nbds/samarkand.htm": (D, "examples/samarkand", "copy"),
+    "library/samarkand-poem.htm": (M, "examples/samarkand", "the poem"),
+    "library/samarkand-pattern-list.htm": (M, "examples/samarkand", "the first pattern list"),
+    "extras/samarkand-picture.htm": (M, "examples/samarkand", "blow-up of the drawing"),
+    "ht-0/texas.htm": (P, "examples/back-of-the-moon-texas", ""),
+    "nbds/texas.htm": (D, "examples/back-of-the-moon-texas", "copy"),
+    "unfoldingmovies/window-design/window-final2.htm": (M, "examples/back-of-the-moon-texas", "window unfolding movie (applet no longer runs)"),
+    "ht-0/santarosa.htm": (P, "examples/santa-rosa", ""),
+    "ht-1/santarosa.htm": (D, "examples/santa-rosa", "older shorter version (ht-1)"),
+    "ht-0/agate.htm": (P, "examples/agate-university-of-oregon", ""),
+    "ht-0/emoto.htm": (P, "examples/komagome", ""),
+    "ht-1/emoto.htm": (D, "examples/komagome", "older version (ht-1)"),
+    "unfoldingmovies/stmarks/stmarks-final.htm": (P, "examples/st-marks-square", "unfolding movie (applet no longer runs)"),
+    "extras/a-village-story.htm": (P, "examples/a-village-story", "Binsted"),
+
+    # ---- ideas (theory)
+    "ht-0/theory.htm": (P, "ideas/index", ""),
+    "ht-0/generative.htm": (P, "ideas/generative-codes", ""),
+    "ht-1/generative.htm": (D, "ideas/generative-codes", "older version (ht-1)"),
+    "ht-0/keyfeatures.htm": (P, "ideas/key-features-of-a-living-neighborhood", ""),
+    "ht-1/keyfeatures.htm": (D, "ideas/key-features-of-a-living-neighborhood", "older version (ht-1)"),
+    "ht-1/from-key-features-to-generative-code.htm": (P, "ideas/from-key-features-to-generative-code", ""),
+    "ht-0/morphogenesis-two.htm": (P, "ideas/morphogenesis", ""),
+    "ht-1/morphogenesis-two.htm": (D, "ideas/morphogenesis", "older version (ht-1)"),
+    "ht-0/order-things-done.htm": (P, "ideas/the-order-things-are-done", ""),
+    "ht-1/order-things-done.htm": (D, "ideas/the-order-things-are-done", "older version (ht-1)"),
+    "ht-0/rearrangement.htm": (P, "ideas/rearrangement", ""),
+    "ht-1/rearrangement.htm": (D, "ideas/rearrangement", "older version (ht-1)"),
+    "ht-0/wholeness.htm": (P, "ideas/wholeness-as-foundation", ""),
+    "ht-0/fifteen.htm": (P, "ideas/fifteen-properties", "restated for neighborhoods"),
+    "ht-1/fifteen.htm": (D, "ideas/fifteen-properties", "older shorter version (ht-1)"),
+    "ht-0/patternlanguages.htm": (P, "ideas/pattern-languages", ""),
+    "ht-1/patternlanguages.htm": (D, "ideas/pattern-languages", "older version (ht-1)"),
+    "ht-0/relationships5.htm": (P, "ideas/building-on-relationship", ""),
+    "ht-0/relationships4.htm": (D, "ideas/building-on-relationship", "earlier version"),
+    "ht-0/natureoforder.htm": (P, "ideas/the-nature-of-order", ""),
+    "noorefs/annotated-index.htm": (P, "ideas/nature-of-order-references", "index of references"),
+    **{f"noorefs/{n}.htm": (M, "ideas/nature-of-order-references", t) for n, t in [
+        ("beingnature", "being nature"), ("centers", "centers"), ("communitydiscussion", "community discussion"),
+        ("eishinprocess", "the Eishin process"), ("fifteen", "the fifteen properties"), ("flowofmoney", "flow of money"),
+        ("mirror", "mirror of the self"), ("morphogenesis", "morphogenesis"), ("nbdcenter", "neighborhood center"),
+        ("patternlanguages", "pattern languages"), ("positivespace", "positive space"), ("publicspace", "public space"),
+        ("sequences", "sequences"), ("w-e-transformations", "wholeness-extending transformations"),
+        ("writingpatterns", "writing patterns")]},
+
+    # ---- library: papers, essays, interviews
+    "ht-0/archive.htm": (P, "library/index", "papers and drafts"),
+    "ht-1/archive.htm": (D, "library/index", "older version (ht-1)"),
+    "library/grassroots.htm": (P, "library/grass-roots-housing-process", ""),
+    "library/the-architect-of-life.htm": (P, "library/the-architect-of-life", "third-party article"),
+    "library/glimpse.htm": (P, "library/a-glimpse-of-god-in-matter", "third-party interview"),
+    "library/cowan-final.htm": (P, "library/field-of-wholeness", "Stuart Cowan"),
+    "library/delaportereview.htm": (P, "library/delaporte-reviews", "J-P Delaporte"),
+    "library/part1.htm": (P, "library/space-makes-life-possible", "newspaper article, part 1"),
+    "library/part2.htm": (M, "library/space-makes-life-possible", "part 2"),
+    "library/stress-interview.htm": (P, "library/interview-on-stress", "Maggie Moore, December 2004"),
+
+    # ---- about: services, contact, terms
+    "ht-0/services.htm": (P, "about/services", "historical: CES's offer"),
+    "ht-1/services.htm": (D, "about/services", "older version (ht-1)"),
+    "ht-1/service-examples.htm": (M, "about/services", "examples of services"),
+    "ht-0/contact.htm": (P, "about/contact", "historical contact details"),
+    "ht-1/contact.htm": (D, "about/contact", "older version (ht-1)"),
+    "clickagreement/agreementtextces.htm": (P, "about/terms-of-use", "the original terms, kept as a record"),
+    "clickagreement/clickagreementces.htm": (X, "", "frameset for the terms page"),
+    "clickagreement/bannerces.htm": (X, "", "frame banner"),
+    "clickagreement/buttonsces.htm": (X, "", "frame buttons"),
+    **{f"ht-2/{n}.htm": (X, "", "'one time message' interstitial") for n in
+       ["action", "fifteen", "home", "libraryofunfoldings", "noo-buy"]},
+}
